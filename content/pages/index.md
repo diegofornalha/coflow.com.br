@@ -17,7 +17,7 @@ sections:
         borderStyle: solid
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-b
+    colors: colors-e
     backgroundSize: full
     title: Power Your Student Experience
     titlePt: Boostez votre vie étudiante

@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Let's do this
-    titlePt: Allons-y !
+    titlePt: Acelere cada etapa da sua carreira em programação
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.

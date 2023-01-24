@@ -34,7 +34,7 @@ sections:
         icon: arrowRight
         url: /discord
         style: primary
-        altText: discord
+        altText: DISCORD
       - type: Link
         altText: Seja um Defensor
         url: /discord

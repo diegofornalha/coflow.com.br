@@ -185,6 +185,31 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+      - type: FeaturedItem
+        elementId: ''
+        title: Item Title
+        titlePt: Titre de l'article
+        subtitle: ''
+        subtitlePt: ''
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        textFr: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        isIcon: false
+        featuredImage:
+          type: ImageBlock
+          url: >-
+            https://assets.stackbit.com/components/images/default/default-image.png
+          altText: Item image
+        featuredIcon: apple
+        actions: []
+        styles:
+          self:
+            textAlign: left
     actions: []
     columns: 2
     spacingX: 40

@@ -29,11 +29,12 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: discord
         showIcon: true
         icon: arrowRight
         url: /discord
         style: primary
+        altText: discord
       - type: Link
         label: discord
         altText: ''

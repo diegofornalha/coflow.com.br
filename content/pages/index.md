@@ -116,16 +116,7 @@ sections:
           elementId: ''
         featuredIcon: books
         isIcon: true
-    actions:
-      - type: Button
-        label: Office Hours
-        altText: Link to Office Hours
-        url: /office-hours
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     columns: 3
     spacingX: 32
     spacingY: 32

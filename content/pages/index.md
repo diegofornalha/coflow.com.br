@@ -51,7 +51,6 @@ sections:
     colors: colors-b
     elementId: ''
     title: Come visit us in the office
-    titlePt: Passez nous voir dans notre bureau
     subtitle: '800 King Edward Ave, Ottawa, ON K1N 6N5, STE 4026'
     subtitlePt: '800 King Edward Ave, Ottawa, ON K1N 6N5, STE 4026'
     items:

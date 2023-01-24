@@ -35,14 +35,6 @@ sections:
         url: /discord
         style: primary
         altText: DISCORD
-      - type: Link
-        altText: Seja um Defensor
-        url: /discord
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-        label: Seja um Defensor
     backgroundImage: null
     styles:
       self:

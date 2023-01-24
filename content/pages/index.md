@@ -42,6 +42,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
+        label: Cadastro
     backgroundImage: null
     styles:
       self:

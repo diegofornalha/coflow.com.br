@@ -22,7 +22,7 @@ export default function PostLayout(props) {
     const getTitle = () => locale === 'pt' && titlePt ? titlePt : title;
     const getMarkdownFieldPath = () => locale === 'pt' && markdown_content_pt ? markdown_content_pt : markdown_content;
     const getTitleFieldPath = () => locale === 'pt' && titlePt ? 'titlePt' : 'title';
-    const markdownAnnotation = () => locale === 'pt' && markdown_content_pt ? 'markdown_content_fr' : 'markdown_content';
+    const markdownAnnotation = () => locale === 'pt' && markdown_content_pt ? 'markdown_content_pt' : 'markdown_content';
 
     return (
         <BaseLayout page={page} site={site}>

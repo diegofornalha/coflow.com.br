@@ -168,10 +168,6 @@ sections:
           Passez au bureau de l'IEEE, situé dans le STE 4026, et passez du temps
           avec d'autres étudiants du CEG !
         isIcon: false
-        featuredImage:
-          type: ImageBlock
-          url: /images/ceg-hangout.jpeg
-          altText: Spectroscopy Seminar Poster
         featuredIcon:
           label: Apple
           value: apple

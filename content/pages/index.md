@@ -29,7 +29,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: discord
+        label: DISCORD
         showIcon: true
         icon: arrowRight
         url: /discord

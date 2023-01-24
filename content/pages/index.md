@@ -42,7 +42,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-        label: Cadastro
+        label: 'Seja um '
     backgroundImage: null
     styles:
       self:

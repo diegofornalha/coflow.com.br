@@ -208,45 +208,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: CtaSection
-    colors: colors-d
-    elementId: ''
-    backgroundSize: full
-    title: Get in touch
-    titlePt: Contactez-nous
-    text: >
-      Got a question? Event suggestions? Feedback? We want to hear it! Send us a
-      message and we will get back to you as soon as we can.
-    textPt: >
-      Vous avez une question ? Des suggestions d'événements ? Des commentaires ?
-      Nous voulons les entendre ! Envoyez-nous un message et nous vous
-      répondrons dès que possible.
-    actions:
-      - type: Button
-        label: Contact
-        showIcon: true
-        icon: arrowRight
-        url: 'mailto:communications@ieeeuottawa.ca'
-        style: primary
-    backgroundImage: null
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: col
-      title:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 addTitleSuffix: true
 metaTags:
   - type: MetaTag

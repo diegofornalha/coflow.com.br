@@ -179,7 +179,7 @@ sections:
           - type: Button
             label: Learn More
             altText: ''
-            url: 'https://www.instagram.com/p/Ck6xk_Ou7m6/'
+            url: /about
             showIcon: true
             icon: arrowRight
             iconPosition: right

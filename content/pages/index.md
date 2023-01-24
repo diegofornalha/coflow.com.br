@@ -54,6 +54,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    backgroundSize: full
   - type: FeaturedItemsSection
     colors: colors-b
     elementId: ''

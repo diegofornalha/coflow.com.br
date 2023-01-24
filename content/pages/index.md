@@ -159,7 +159,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: FeaturedItemsSection
-    colors: colors-c
+    colors: colors-b
     elementId: ''
     title: Upcoming Events
     titlePt: Prochains événements

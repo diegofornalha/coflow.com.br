@@ -42,7 +42,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-        label: 'Seja um '
+        label: Seja um Defensor
     backgroundImage: null
     styles:
       self:

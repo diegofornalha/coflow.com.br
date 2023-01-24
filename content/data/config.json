@@ -90,7 +90,7 @@
             "type": "ImageBlock",
             "url": "/images/padrao/flow-coflow-logo.png",
             "altText": "CoFlow Logo",
-            "caption": "Caption of the image",
+            "caption": "CoFlow",
             "width": 114,
             "height": 48,
             "elementId": ""

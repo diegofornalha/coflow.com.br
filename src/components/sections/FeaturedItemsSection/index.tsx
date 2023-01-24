@@ -27,13 +27,13 @@ export default function FeaturedItemsSection(props) {
         'data-sb-field-path': fieldPath
     } = props;
     const { locale } = useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
-    const getSubtitle = () => locale === 'fr' && subtitlePt ? subtitlePt : subtitle;
+    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
+    const getSubtitle = () => locale === 'pt' && subtitleFr ? subtitleFr : subtitle;
 
     return (
         <Section type={type} elementId={elementId} colors={colors} styles={styles.self} data-sb-field-path={fieldPath}>
             {title && (
-                <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path={locale === 'fr' ? ".titlePt" : ".title"}>
+                <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path={locale === 'pt' ? ".titleFr" : ".title"}>
                     {getTitle()}
                 </h2>
             )}
@@ -42,7 +42,7 @@ export default function FeaturedItemsSection(props) {
                     className={classNames('text-lg', 'sm:text-xl', styles.subtitle ? mapStyles(styles.subtitle) : null, {
                         'mt-6': title
                     })}
-                    data-sb-field-path={locale === 'fr' ? ".subtitlePt" : ".subtitle"}
+                    data-sb-field-path={locale === 'pt' ? ".subtitleFr" : ".subtitle"}
                 >
                     {getSubtitle()}
                 </p>

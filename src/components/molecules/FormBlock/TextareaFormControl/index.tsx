@@ -8,8 +8,8 @@ export default function TextareaFormControl(props) {
     const attr: any = {};
     const { locale } = React.useContext(I18NContext);
     
-    const getLabel = () => locale === 'fr' && labelFr ? labelFr : label;
-    const getPlaceholder = () => locale === 'fr' && placeholderFr ? placeholderFr : placeholder;
+    const getLabel = () => locale === 'pt' && labelFr ? labelFr : label;
+    const getPlaceholder = () => locale === 'pt' && placeholderFr ? placeholderFr : placeholder;
 
     if (label) {
         attr['aria-labelledby'] = labelId;
@@ -28,11 +28,11 @@ export default function TextareaFormControl(props) {
             data-sb-field-path={fieldPath}
         >
             {label && (
-                <label id={labelId} className={classNames('sb-label', { 'sr-only': hideLabel })} htmlFor={name} data-sb-field-path={`.${locale === 'fr' ? 'labelFr' : 'label'} .name#@for`}>
+                <label id={labelId} className={classNames('sb-label', { 'sr-only': hideLabel })} htmlFor={name} data-sb-field-path={`.${locale === 'pt' ? 'labelFr' : 'label'} .name#@for`}>
                     {getLabel()}
                 </label>
             )}
-            <textarea id={name} className="sb-textarea" name={name} rows="5" {...attr} data-sb-field-path={`.name#@id .name#@name .${locale == 'fr' ? 'placeholderFr' : 'placeholder'}#@placeholder`} />
+            <textarea id={name} className="sb-textarea" name={name} rows="5" {...attr} data-sb-field-path={`.name#@id .name#@name .${locale == 'pt' ? 'placeholderFr' : 'placeholder'}#@placeholder`} />
         </div>
     );
 }

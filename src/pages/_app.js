@@ -11,12 +11,12 @@ export default function MyApp({ Component, pageProps }) {
     const [linksTranslations] = React.useState(translatedLinks);
 
     function translateLink(input) {
-        if (input in linksTranslations) return locale === 'fr' ? linksTranslations[input] : input;
+        if (input in linksTranslations) return locale === 'pt' ? linksTranslations[input] : input;
         return input;
     }
 
     function translateRole(role) {
-        if (role in translatedRoles) return locale === 'fr' ? translatedRoles[role].fr : translatedRoles[role].en;
+        if (role in translatedRoles) return locale === 'pt' ? translatedRoles[role].pt : translatedRoles[role].en;
         return role;
     }
 
@@ -25,8 +25,8 @@ export default function MyApp({ Component, pageProps }) {
         setLocale(language);
     };
 
-    const prefersPT = () => {
-        navigator?.language?.toLowerCase().includes('fr') || false;
+    const prefersFR = () => {
+        navigator?.language?.toLowerCase().includes('pt') || false;
     };
 
     const setLight = () => {
@@ -46,9 +46,9 @@ export default function MyApp({ Component, pageProps }) {
 
     useEffect(() => {
         const storedLanguage = localStorage.getItem('language');
-        const defaultPT = storedLanguage === 'ft' || (storedLanguage === null && prefersPT());
-        if (defaultPT) {
-            setLanguage('ft');
+        const defaultFR = storedLanguage === 'pt' || (storedLanguage === null && prefersFR());
+        if (defaultFR) {
+            setLanguage('pt');
         }
     }, [locale]);
 

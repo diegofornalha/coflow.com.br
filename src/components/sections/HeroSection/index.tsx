@@ -30,9 +30,9 @@ export default function HeroSection(props) {
     const sectionAlignItems = styles.self?.alignItems ?? 'center';
     const { locale } = React.useContext(I18NContext);
 
-    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
-    const getSubtitle = () => locale === 'fr' && subtitlePt ? subtitlePt : subtitle;
-    const getText = () => locale === 'fr' && textFr ? textFr : text;
+    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
+    const getSubtitle = () => locale === 'pt' && subtitleFr ? subtitleFr : subtitle;
+    const getText = () => locale === 'pt' && textFr ? textFr : text;
 
     return (
         <Section
@@ -80,9 +80,9 @@ function HeroMedia({ media }) {
 function HeroBody(props) {
     const { title, subtitle, text, styles = {} } = props;
     const { locale } = React.useContext(I18NContext);
-    const getTitleFieldPath = () => locale === 'fr' ? '.titlePt' : '.title';
-    const getSubtitleFieldPath = () => locale === 'fr' ? '.subtitlePt' : '.subtitle';
-    const getTextFieldPath = () => locale === 'fr' ? '.textFr' : '.text';
+    const getTitleFieldPath = () => locale === 'pt' ? '.titleFr' : '.title';
+    const getSubtitleFieldPath = () => locale === 'pt' ? '.subtitleFr' : '.subtitle';
+    const getTextFieldPath = () => locale === 'pt' ? '.textFr' : '.text';
 
     return (
         <>

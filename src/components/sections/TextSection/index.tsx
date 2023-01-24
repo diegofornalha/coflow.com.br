@@ -9,9 +9,9 @@ import { I18NContext } from '../../../context/i18Ncontext';
 export default function TextSection(props) {
     const { type, elementId, colors, variant, title, titlePt, subtitle, subtitlePt, text, textFr, styles = {}, 'data-sb-field-path': fieldPath } = props;
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
-    const getSubtitle = () => locale === 'fr' && subtitlePt ? subtitlePt : subtitle;
-    const getText = () => locale === 'fr' && textFr ? textFr : text;
+    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
+    const getSubtitle = () => locale === 'pt' && subtitleFr ? subtitleFr : subtitle;
+    const getText = () => locale === 'pt' && textFr ? textFr : text;
 
     return (
         <Section type={type} elementId={elementId} colors={colors} styles={styles.self} data-sb-field-path={fieldPath}>
@@ -35,9 +35,9 @@ function TextBodyVariants(props) {
 function TextBodyVariantA(props) {
     const { title, subtitle, text, styles = {} } = props;
     const { locale } = React.useContext(I18NContext);
-    const getTitleFieldPath = () => locale === 'fr' ? '.titlePt' : '.title';
-    const getSubtitleFieldPath = () => locale === 'fr' ? '.subtitlePt' : '.subtitle';
-    const getTextFieldPath = () => locale === 'fr' ? '.textFr' : '.text';
+    const getTitleFieldPath = () => locale === 'pt' ? '.titleFr' : '.title';
+    const getSubtitleFieldPath = () => locale === 'pt' ? '.subtitleFr' : '.subtitle';
+    const getTextFieldPath = () => locale === 'pt' ? '.textFr' : '.text';
 
     return (
         <div>
@@ -72,9 +72,9 @@ function TextBodyVariantA(props) {
 function TextBodyVariantB(props) {
     const { title, subtitle, text, styles = {} } = props;
     const { locale } = React.useContext(I18NContext);
-    const getTitleFieldPath = () => locale === 'fr' ? '.titlePt' : '.title';
-    const getSubtitleFieldPath = () => locale === 'fr' ? '.subtitlePt' : '.subtitle';
-    const getTextFieldPath = () => locale === 'fr' ? '.textFr' : '.text';
+    const getTitleFieldPath = () => locale === 'pt' ? '.titleFr' : '.title';
+    const getSubtitleFieldPath = () => locale === 'pt' ? '.subtitleFr' : '.subtitle';
+    const getTextFieldPath = () => locale === 'pt' ? '.textFr' : '.text';
 
     return (
         <div className="flex flex-wrap">

@@ -14,8 +14,8 @@ export default function ContactSection(props) {
     const sectionAlignItems = styles.self?.alignItems ?? 'center';
     const { locale } = React.useContext(I18NContext);
 
-    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
-    const getText = () => locale === 'fr' && textFr ? textFr : text;
+    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
+    const getText = () => locale === 'pt' && textFr ? textFr : text;
 
     return (
         <Section type={type} elementId={elementId} colors={colors} backgroundSize={backgroundSize} styles={styles.self} data-sb-field-path={fieldPath}>
@@ -60,8 +60,8 @@ function ContactBody(props) {
     const { title, text, styles = {} } = props;
     const { locale } = React.useContext(I18NContext);
 
-    const getTitleFieldPath = () => locale === 'fr' ? '.titlePt' : '.title';
-    const getTextFieldPath = () => locale === 'fr' ? '.textFr' : '.text';
+    const getTitleFieldPath = () => locale === 'pt' ? '.titleFr' : '.title';
+    const getTextFieldPath = () => locale === 'pt' ? '.textFr' : '.text';
 
     return (
         <>

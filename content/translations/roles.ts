@@ -1,110 +1,110 @@
 export const translatedRoles = {
     "chair": {
         en: "Chair",
-        fr: "Président(e)",
+        pt: "Président(e)",
     },
     "vice-chair": {
         en: "Vice-Chair",
-        fr: "Vice-président(e)",
+        pt: "Vice-président(e)",
     },
     "treasurer": {
         en: "Treasurer",
-        fr: "Trésorier(e)",
+        pt: "Trésorier(e)",
     },
     "secretary": {
         en: "Secretary",
-        fr: "Secrétaire",
+        pt: "Secrétaire",
     },
     "external": {
         en: "VP External",
-        fr: "VP Externe",
+        pt: "VP Externe",
     },
     "internal": {
         en: "VP Internal",
-        fr: "VP Interne",
+        pt: "VP Interne",
     },
     "academic": {
         en: "VP Academic",
-        fr: "VP Académique",
+        pt: "VP Académique",
     },
     "social": {
         en: "VP Social",
-        fr: "VP Social",
+        pt: "VP Social",
     },
     "equity": {
         en: "VP Equity",
-        fr: "VP Équité",
+        pt: "VP Équité",
     },
     "merch": {
         en: "VP Merchandising",
-        fr: "VP Produits Dérivés",
+        pt: "VP Produits Dérivés",
     },
     "communications": {
         en: "VP Communications",
-        fr: "VP Communications",
+        pt: "VP Communications",
     },
     "webmaster": {
         en: "Webmaster",
-        fr: "Webmaster",
+        pt: "Webmaster",
     },
     "elg-commissioner": {
         en: "ELG Commissioner",
-        fr: "Commissionnaire ELG",
+        pt: "Commissionnaire ELG",
     },
     "ceg-commissioner": {
         en: "CEG Commissioner",
-        fr: "Commissionnaire CEG",
+        pt: "Commissionnaire CEG",
     },
     "seg-commissioner": {
         en: "SEG Commissioner",
-        fr: "Commissionnaire SEG",
+        pt: "Commissionnaire SEG",
     },
     "wie-chair": {
         en: "WIE Chair",
-        fr: "Président(e) WIE",
+        pt: "Président(e) WIE",
     },
     "wie-vice-chair": {
         en: "WIE Vice-Chair",
-        fr: "Vice-président(e) WIE",
+        pt: "Vice-président(e) WIE",
     },
     "mcnaughton": {
         en: "McNaughton Centre Director",
-        fr: "Directeur du Centre McNaughton",
+        pt: "Directeur du Centre McNaughton",
     },
     "photonics-chair": {
         en: "Photonics Chair",
-        fr: "Président(e) Photonique",
+        pt: "Président(e) Photonique",
     },
     "photonics-vice-chair": {
         en: "Photonics Vice-Chair",
-        fr: "Vice-président(e) Photonique",
+        pt: "Vice-président(e) Photonique",
     },
     "elg-rep": {
         en: "1st Year ELG Rep.",
-        fr: "Rep. des 1ère années ELG",
+        pt: "Rep. des 1ère années ELG",
     },
     "ceg-rep": {
         en: "1st Year CEG Rep.",
-        fr: "Rep. des 1ère années CEG",
+        pt: "Rep. des 1ère années CEG",
     },
     "seg-rep": {
         en: "1st Year SEG Rep.",
-        fr: "Rep. des 1ère années SEG",
+        pt: "Rep. des 1ère années SEG",
     },
     "design-commissioner": {
         en: "Design Commissioner",
-        fr: "Commissionnaire de design",
+        pt: "Commissionnaire de design",
     },
     "translations-commissioner": {
         en: "Translations Commissioner",
-        fr: "Commissionnaire des traductions",
+        pt: "Commissionnaire des traductions",
     },
     "wie-design": {
         en: "WIE Design",
-        fr: "Design WIE",
+        pt: "Design WIE",
     },
     "equity-commissioner": {
         en: "Equity Commissioner",
-        fr: "Commissionnaire d'équité",
+        pt: "Commissionnaire d'équité",
     },
 }

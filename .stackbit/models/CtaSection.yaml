@@ -28,7 +28,7 @@ fields:
     label: Title [EN]
     default: "Let's do this"
   - type: string
-    name: titlePt
+    name: titleFr
     label: Title [PT]
     default: 'Allons-y !'
   - type: markdown

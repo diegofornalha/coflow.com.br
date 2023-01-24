@@ -21,9 +21,9 @@ function FeatureHighlightSectionInset(props) {
     const { elementId, colors = 'colors-d', backgroundImage, title, titlePt, subtitle, subtitlePt, text, textFr, actions, styles = {}, 'data-sb-field-path': fieldPath } = props;
     const { displayMode } = React.useContext(DisplayModeContext);
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
-    const getSubtitle = () => locale === 'fr' && subtitlePt ? subtitlePt : subtitle;
-    const getText = () => locale === 'fr' && textFr ? textFr : text;
+    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
+    const getSubtitle = () => locale === 'pt' && subtitleFr ? subtitleFr : subtitle;
+    const getText = () => locale === 'pt' && textFr ? textFr : text;
 
     return (
         <div
@@ -72,9 +72,9 @@ function FeatureHighlightSectionFullWidth(props) {
     const { elementId, colors, backgroundImage, title, titlePt, subtitle, subtitlePt, text, textFr, actions, styles = {}, 'data-sb-field-path': fieldPath } = props;
     const { displayMode } = React.useContext(DisplayModeContext);
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
-    const getSubtitle = () => locale === 'fr' && subtitlePt ? subtitlePt : subtitle;
-    const getText = () => locale === 'fr' && textFr ? textFr : text;
+    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
+    const getSubtitle = () => locale === 'pt' && subtitleFr ? subtitleFr : subtitle;
+    const getText = () => locale === 'pt' && textFr ? textFr : text;
 
     return (
         <div
@@ -121,9 +121,9 @@ function FeatureHighlightSectionFullWidth(props) {
 function FeatureHighlightBody(props) {
     const { title, subtitle, text, actions, styles = {} } = props;
     const { locale } = React.useContext(I18NContext);
-    const getTitleFieldPath = () => locale === 'fr' ? '.titlePt' : '.title';
-    const getSubtitleFieldPath = () => locale === 'fr' ? '.subtitlePt' : '.subtitle';
-    const getTextFieldPath = () => locale === 'fr' ? '.textFr' : '.text';
+    const getTitleFieldPath = () => locale === 'pt' ? '.titleFr' : '.title';
+    const getSubtitleFieldPath = () => locale === 'pt' ? '.subtitleFr' : '.subtitle';
+    const getTextFieldPath = () => locale === 'pt' ? '.textFr' : '.text';
 
     return (
         <div className={classNames('sb-card', 'max-w-2xl', 'px-6', 'py-10', 'sm:px-12', 'sm:py-14')}>

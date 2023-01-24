@@ -27,7 +27,7 @@ fields:
     name: title
     label: Title [EN]
   - type: string
-    name: titlePt
+    name: titleFr
     label: Title [PT]
   - type: markdown
     name: text

@@ -28,7 +28,7 @@ fields:
     label: Title [EN]
     default: The Section Title
   - type: string
-    name: titlePt
+    name: titleFr
     label: Title [PT]
     default: Section titre
   - type: string
@@ -36,7 +36,7 @@ fields:
     label: Subtitle [EN]
     default: The section subtitle
   - type: string
-    name: subtitlePt
+    name: subtitleFr
     label: Subtitle [PT]
     default: Section sous-titre
   - type: markdown

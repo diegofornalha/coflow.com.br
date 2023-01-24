@@ -18,8 +18,8 @@ export default function PostFeedLayout(props) {
     const pageLinks = PageLinks({ pageIndex, baseUrlPath, numOfPages });
     const { displayMode } = React.useContext(DisplayModeContext);
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
-    const getTitleFieldPath = () => locale === 'fr' && titlePt ? 'titlePt' : 'title';
+    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
+    const getTitleFieldPath = () => locale === 'pt' && titleFr ? 'titleFr' : 'title';
 
     return (
         <BaseLayout page={page} site={site}>

@@ -198,26 +198,6 @@
             "type": "MetaTag",
             "property": "og:title",
             "content": "CoFlow"
-        },
-        {
-            "type": "MetaTag",
-            "property": "og:description",
-            "content": "No Seu Flow"
-        },
-        {
-            "type": "MetaTag",
-            "property": "og:image",
-            "content": "/images/image_3.JPEG"
-        },
-        {
-            "type": "MetaTag",
-            "property": "twitter:image",
-            "content": "/images/image_3.JPEG"
-        },
-        {
-            "type": "MetaTag",
-            "property": "twitter:image:alt",
-            "content": "CoFlow Image"
         }
     ]
 }

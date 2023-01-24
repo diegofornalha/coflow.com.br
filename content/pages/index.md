@@ -37,7 +37,7 @@ sections:
       - type: Link
         label: Learn More
         altText: ''
-        url: /dicord
+        url: /discord
         showIcon: false
         icon: arrowRight
         iconPosition: right

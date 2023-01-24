@@ -83,7 +83,7 @@ sections:
         featuredIcon: bulb
         isIcon: true
         text: |+
-          ##Ideation
+          ## Ideation
 
       - type: FeaturedItem
         textPt: |+

@@ -21,9 +21,9 @@ sections:
     backgroundSize: full
     title: Accelerate every step of your programming career
     titlePt: Acelere cada etapa da sua carreira em programação Web3
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      The complete map for you to boost your evolution and access the best
+      opportunities in your career as a developer.
     textFr: >
       O mapa completo para você impulsionar sua evolução e acessar as melhores
       oportunidades da sua carreira como dev.

@@ -27,14 +27,7 @@ sections:
     textFr: >
       O mapa completo para você impulsionar sua evolução e acessar as melhores
       oportunidades da sua carreira como dev.
-    actions:
-      - type: Button
-        label: DISCORD
-        showIcon: true
-        icon: arrowRight
-        url: /discord
-        style: primary
-        altText: DISCORD
+    actions: []
     backgroundImage: null
     styles:
       self:

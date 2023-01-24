@@ -32,7 +32,7 @@ sections:
         label: Try it now
         showIcon: true
         icon: arrowRight
-        url: /
+        url: /discord
         style: primary
       - type: Link
         label: discord

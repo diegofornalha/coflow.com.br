@@ -137,7 +137,7 @@ metaTags:
     content: website
   - type: MetaTag
     property: 'og:image:alt'
-    content: IEEE uOttawa Student Branch Logo
+    content: CoFlow
   - type: MetaTag
     property: 'og:url'
     content: 'https://coflow.com.br'

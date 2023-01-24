@@ -16,9 +16,9 @@ export default function FeaturedItem(props) {
     const { locale } = useContext(I18NContext);
     const IconComponent = isIcon && featuredIcon ? iconMap[featuredIcon] : null;
     
-    const getTitle = () => locale === 'fr' && titleFr ? titleFr : title;
-    const getSubtitle = () => locale === 'fr' && subtitleFr ? subtitleFr : subtitle;
-    const getText = () => locale === 'fr' && textFr ? textFr : text;
+    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
+    const getSubtitle = () => locale === 'pt' && subtitleFr ? subtitleFr : subtitle;
+    const getText = () => locale === 'pt' && textFr ? textFr : text;
 
     return (
         <article
@@ -55,12 +55,12 @@ export default function FeaturedItem(props) {
                 </div>
             )}
             {title && (
-                <h3 className={classNames(styles.title ? mapStyles(styles.title) : null, { 'text-center' : isIcon })} data-sb-field-path={locale === 'fr' ? ".titleFr" : ".title"}>
+                <h3 className={classNames(styles.title ? mapStyles(styles.title) : null, { 'text-center' : isIcon })} data-sb-field-path={locale === 'pt' ? ".titleFr" : ".title"}>
                     {getTitle()}
                 </h3>
             )}
             {subtitle && (
-                <p className={classNames('text-lg', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-1': title })} data-sb-field-path={locale === 'fr' ? ".subtitleFr" : ".subtitle"}>
+                <p className={classNames('text-lg', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-1': title })} data-sb-field-path={locale === 'pt' ? ".subtitleFr" : ".subtitle"}>
                     {getSubtitle()}
                 </p>
             )}
@@ -70,7 +70,7 @@ export default function FeaturedItem(props) {
                     className={classNames('sb-markdown', {
                         'mt-4': title || subtitle
                     })}
-                    data-sb-field-path={locale === 'fr' ? ".textFr" : ".text"}
+                    data-sb-field-path={locale === 'pt' ? ".textFr" : ".text"}
                 >
                     {getText()}
                 </Markdown>

@@ -9,49 +9,48 @@ export default function MyApp({ Component, pageProps }) {
     const [locale, setLocale] = React.useState('en');
     const [displayMode, setDisplayMode] = React.useState('light');
     const [linksTranslations] = React.useState(translatedLinks);
-    
+
     function translateLink(input) {
-        if (input in linksTranslations) return locale === 'fr' ? linksTranslations[input] : input;
+        if (input in linksTranslations) return locale === 'pt' ? linksTranslations[input] : input;
         return input;
     }
 
-    function translateRole(role){
-        if (role in translatedRoles) return locale === 'fr' ? translatedRoles[role].fr : translatedRoles[role].en;
+    function translateRole(role) {
+        if (role in translatedRoles) return locale === 'pt' ? translatedRoles[role].pt : translatedRoles[role].en;
         return role;
     }
 
     const setLanguage = (language) => {
         localStorage.setItem('language', language);
         setLocale(language);
-    }
+    };
 
     const prefersFR = () => {
-        navigator?.language?.toLowerCase().includes('fr') || false;
-    }
+        navigator?.language?.toLowerCase().includes('pt') || false;
+    };
 
     const setLight = () => {
         localStorage.setItem('displayMode', 'light');
         setDisplayMode('light');
-    }
+    };
 
     const setDark = () => {
         localStorage.setItem('displayMode', 'dark');
         setDisplayMode('dark');
-    }
+    };
 
     const prefersDark = () => {
         const mediaQuery = window?.matchMedia('(prefers-color-scheme: dark)');
         return mediaQuery?.matches || false;
-    }
+    };
 
     useEffect(() => {
         const storedLanguage = localStorage.getItem('language');
-        const defaultFR = storedLanguage === 'fr' || (storedLanguage === null && prefersFR());
+        const defaultFR = storedLanguage === 'pt' || (storedLanguage === null && prefersFR());
         if (defaultFR) {
-            setLanguage('fr');
+            setLanguage('pt');
         }
-    }
-    , [locale]);
+    }, [locale]);
 
     useEffect(() => {
         const storedMode = localStorage.getItem('displayMode');

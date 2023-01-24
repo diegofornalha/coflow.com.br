@@ -12,8 +12,8 @@ export default function CtaSection(props) {
     const sectionFlexDirection = styles.self?.flexDirection ?? 'row';
     const sectionAlignItems = styles.self?.alignItems || 'center';
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titleFr ? titleFr : title;
-    const getText = () => locale === 'fr' && textFr ? textFr : text;
+    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
+    const getText = () => locale === 'pt' && textFr ? textFr : text;
 
     return (
         <Section
@@ -40,8 +40,8 @@ export default function CtaSection(props) {
 function CtaBody(props) {
     const { title, text, styles = {} } = props;
     const { locale } = React.useContext(I18NContext);
-    const getTitleFieldPath = () => locale === 'fr' ? '.titleFr' : '.title';
-    const getTextFieldPath = () => locale === 'fr' ? '.textFr' : '.text';
+    const getTitleFieldPath = () => locale === 'pt' ? '.titleFr' : '.title';
+    const getTextFieldPath = () => locale === 'pt' ? '.textFr' : '.text';
 
     if (!title && !text) {
         return null;

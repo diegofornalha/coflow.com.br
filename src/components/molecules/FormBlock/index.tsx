@@ -67,9 +67,9 @@ export default class FormBlock extends React.Component<any> {
         const formHoneypotName = `${elementId}-bot-field`;
         const { locale } = this.context;
         
-        const getSubmitLabel = () => locale === 'fr' && submitLabelFr ? submitLabelFr : submitLabel;
-        const getConfirmation = () => locale === 'fr' ? 'Merci pour votre message !' : 'Thanks for your message!';
-        const getErrorMessage = () => locale === 'fr' ? 'Une erreur est survenue, veuillez réessayer.' : 'An error occurred, please try again.';
+        const getSubmitLabel = () => locale === 'pt' && submitLabelFr ? submitLabelFr : submitLabel;
+        const getConfirmation = () => locale === 'pt' ? 'Merci pour votre message !' : 'Thanks for your message!';
+        const getErrorMessage = () => locale === 'pt' ? 'Une erreur est survenue, veuillez réessayer.' : 'An error occurred, please try again.';
 
         return (
             <form
@@ -101,7 +101,7 @@ export default class FormBlock extends React.Component<any> {
                     <button
                         type="submit"
                         className="sb-component sb-component-block sb-component-button sb-component-button-primary"
-                        data-sb-field-path={`.${locale === 'fr' ? 'submitLabelFr' : 'submitLabel'}`}
+                        data-sb-field-path={`.${locale === 'pt' ? 'submitLabelFr' : 'submitLabel'}`}
                     >
                         {getSubmitLabel()}
                     </button>

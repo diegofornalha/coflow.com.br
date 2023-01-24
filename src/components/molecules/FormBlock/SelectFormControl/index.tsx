@@ -8,7 +8,7 @@ export default function SelectFormControl(props) {
     const attr: any = {};
     const { locale } = React.useContext(I18NContext);
 
-    const getLabel = () => locale === 'fr' && labelFr ? labelFr : label;
+    const getLabel = () => locale === 'pt' && labelFr ? labelFr : label;
 
     if (label) {
         attr['aria-labelledby'] = labelId;
@@ -24,7 +24,7 @@ export default function SelectFormControl(props) {
             data-sb-field-path={fieldPath}
         >
             {label && (
-                <label id={labelId} className={classNames('sb-label', { 'sr-only': hideLabel })} htmlFor={name} data-sb-field-path={`.${locale === 'fr' ? 'labelFr' : 'label' } .name#@for`}>
+                <label id={labelId} className={classNames('sb-label', { 'sr-only': hideLabel })} htmlFor={name} data-sb-field-path={`.${locale === 'pt' ? 'labelFr' : 'label' } .name#@for`}>
                     {getLabel()}
                 </label>
             )}

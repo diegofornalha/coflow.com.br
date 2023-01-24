@@ -8,7 +8,7 @@ export default function CheckboxFormControl(props) {
     const attr: any = {};
     const { locale } = React.useContext(I18NContext);
 
-    const getLabel = () => locale === 'fr' && labelFr ? labelFr : label;
+    const getLabel = () => locale === 'pt' && labelFr ? labelFr : label;
 
     if (label) {
         attr['aria-labelledby'] = labelId;
@@ -25,7 +25,7 @@ export default function CheckboxFormControl(props) {
         >
             <input id={name} className="sb-checkbox" type="checkbox" name={name} {...attr} data-sb-field-path=".name#@id .name#@name" />
             {label && (
-                <label id={labelId} className="sb-label" htmlFor={name} data-sb-field-path={`.${locale === 'fr' ? 'labelFr' : 'label'} .name#@for`}>
+                <label id={labelId} className="sb-label" htmlFor={name} data-sb-field-path={`.${locale === 'pt' ? 'labelFr' : 'label'} .name#@for`}>
                     {getLabel()}
                 </label>
             )}

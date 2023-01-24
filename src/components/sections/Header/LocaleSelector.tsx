@@ -38,7 +38,7 @@ export default function LocaleSelector() {
                         }}
                     >
                         <MenuItem value={"en"}>EN</MenuItem>
-                        <MenuItem value={"fr"}>FR</MenuItem>
+                        <MenuItem value={"pt"}>PT</MenuItem>
                     </Select>
                 </ThemeProvider>
             </FormControl>

@@ -35,7 +35,7 @@ sections:
         url: /
         style: primary
       - type: Link
-        label: Learn More
+        label: discord
         altText: ''
         url: /discord
         showIcon: false

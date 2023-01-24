@@ -211,7 +211,7 @@ sections:
             label: Learn More
             altText: ''
             url: /
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary

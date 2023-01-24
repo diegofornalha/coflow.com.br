@@ -129,7 +129,7 @@ sections:
     columns: 3
     spacingX: 32
     spacingY: 32
-    enableHover: false
+    enableHover: true
     styles:
       self:
         height: auto

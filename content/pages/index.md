@@ -36,7 +36,7 @@ sections:
         style: primary
         altText: discord
       - type: Link
-        label: Entre como um voluntario
+        label: Entre como um voluntário
         altText: ''
         url: /discord
         showIcon: false

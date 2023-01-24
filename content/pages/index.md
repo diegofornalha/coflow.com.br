@@ -53,46 +53,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-  - type: HeroSection
-    elementId: homepage-hero-1
-    colors: colors-e
-    title: Power Your Student Experience
-    titlePt: Boostez votre vie étudiante
-    subtitle: with the best sub-association on campus.
-    subtitlePt: avec la meilleure sous-association du campus.
-    actions:
-      - type: Button
-        label: Learn More
-        url: /about
-        style: primary
-        iconPosition: right
-        icon: arrowRight
-        showIcon: false
-      - type: Button
-        label: Office Hours
-        altText: Office Hours / Heures de Bureau
-        url: /office-hours
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    styles:
-      self:
-        height: screen
-        width: wide
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    backgroundSize: full
   - type: FeaturedItemsSection
     colors: colors-b
     elementId: ''

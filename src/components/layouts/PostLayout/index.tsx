@@ -20,7 +20,7 @@ export default function PostLayout(props) {
     const { displayMode } = React.useContext(DisplayModeContext);
     const { locale } = React.useContext(I18NContext);
     const getTitle = () => locale === 'pt' && titlePt ? titlePt : title;
-    const getMarkdownFieldPath = () => locale === 'pt' && markdown_content_fr ? markdown_content_fr : markdown_content;
+    const getMarkdownFieldPath = () => locale === 'pt' && markdown_content_fr ? markdown_content_pt : markdown_content;
     const getTitleFieldPath = () => locale === 'pt' && titlePt ? 'titlePt' : 'title';
     const markdownAnnotation = () => locale === 'pt' && markdown_content_fr ? 'markdown_content_fr' : 'markdown_content';
 

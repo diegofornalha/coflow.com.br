@@ -1,0 +1,10 @@
+{
+    "type": "Person",
+    "firstName": "Tony",
+    "lastName": "Kim",
+    "image": {
+        "type": "ImageBlock",
+        "url": "/images/team/tony-kim.jpg",
+        "altText": "Tony Kim photo"
+    }
+}

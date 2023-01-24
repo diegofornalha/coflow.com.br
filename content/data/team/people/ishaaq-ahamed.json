@@ -1,0 +1,9 @@
+{
+    "type": "Person",
+    "firstName": "Is'Haaq",
+    "lastName": "Ahamed",
+        "image": {
+        "url": "/images/team/ishaaq-ahamed.jpg",
+        "altText": "Is'Haaq Ahamed photo"
+    }   
+}

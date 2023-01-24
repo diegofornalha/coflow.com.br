@@ -1,0 +1,71 @@
+name: Exec
+label: Exec
+labelField: role
+fields:
+  - type: enum
+    name: role
+    label: Role
+    options:
+      - label: Chair
+        value: chair
+      - label: Vice-Chair
+        value: vice-chair
+      - label: Treasurer
+        value: treasurer
+      - label: Secretary
+        value: secretary
+      - label: VP Internal
+        value: internal
+      - label: VP External
+        value: external
+      - label: VP Academic
+        value: academic
+      - label: VP Social
+        value: social
+      - label: VP Equity
+        value: equity
+      - label: VP Merchandising
+        value: merch
+      - label: VP Communications
+        value: communications
+      - label: Webmaster
+        value: webmaster
+      - label: ELG Comissioner
+        value: elg-commissioner
+      - label: CEG Comissioner
+        value: ceg-commissioner
+      - label: SEG Comissioner
+        value: seg-commissioner
+      - label: WIE Chair
+        value: wie-chair
+      - label: WIE Vice-Chair
+        value: wie-vice-chair
+      - label: McNaughton Centre Director
+        value: mcnaughton
+      - label: Photonics Chair
+        value: photonics-chair
+      - label: Photonics Vice-Chair
+        value: photonics-vice-chair
+      - label: Design Comissioner
+        value: design-commissioner
+      - label: Translations Comissioner
+        value: translations-commissioner
+      - label: WIE Design
+        value: wie-design
+      - label: Equity Comissioner
+        value: equity-commissioner
+      - label: 1st Year ELG Rep
+        value: elg-rep
+      - label: 1st Year CEG Rep
+        value: ceg-rep
+      - label: 1st Year SEG Rep
+        value: seg-rep
+    default: cover
+    required: true
+  - type: reference
+    name: person
+    label: Person
+    models:
+      - Person
+    required: true
+    default: content/data/team/vp-comms.json

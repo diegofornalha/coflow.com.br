@@ -1,0 +1,289 @@
+{
+    "type": "Config",
+    "favicon": "/images/ieee-diamond.png",
+    "header": {
+        "headerVariant": "variant-b",
+        "isSticky": true,
+        "primaryColors": "colors-b",
+        "secondaryColors": "colors-d",
+        "isTitleVisible": false,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": "Home"
+            },
+            {
+                "type": "DropdownLink",
+                "label": "About",
+                "dropdownLinks": [
+                    {
+                        "type": "Link",
+                        "label": "Who We Are",
+                        "url": "/about",
+                        "altText": "About"
+                    },
+                    {
+                        "type": "Link",
+                        "label": "Office Hours",
+                        "url": "/office-hours",
+                        "altText": "Office Hours"
+                    },
+                    {
+                        "type": "Link",
+                        "label": "WIE",
+                        "altText": "WIE",
+                        "url": "https://celebratewie.ca/",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    }
+                ]
+            },
+            {
+                "type": "DropdownLink",
+                "label": "Execs",
+                "dropdownLinks": [
+                    {
+                        "type": "Link",
+                        "label": "2022-2023",
+                        "altText": "Link to 2022-2023 team's page",
+                        "url": "/execs-2022-2023",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "type": "Link",
+                        "label": "2021-2022",
+                        "altText": "Link to 2021-2022 team's page",
+                        "url": "/execs-2021-2022",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "type": "Link",
+                        "label": "2020-2021",
+                        "altText": "Link to 2020-2021 team's page",
+                        "url": "/execs-2020-2021",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "type": "Link",
+                        "label": "2019-2020",
+                        "altText": "Link to 2019-2020 team's page",
+                        "url": "/execs-2019-2020",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "type": "Link",
+                        "label": "2018-2019",
+                        "altText": "Link to 2018-2019 team's page",
+                        "url": "/execs-2018-2019",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    }
+                ]
+            },
+            {
+                "type": "Link",
+                "label": "Events",
+                "url": "/events",
+                "altText": "Events"
+            },
+            {
+                "type": "Link",
+                "label": "Documents",
+                "altText": "Documents",
+                "url": "/documents",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
+        "secondaryLinks": [
+            {
+                "type": "Button",
+                "label": "Shop",
+                "altText": "Shop",
+                "style": "secondary",
+                "url": "https://ieee-uottawa.square.site/",
+                "showIcon": true,
+                "icon": "cart",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "wide",
+                "padding": [
+                    "pl-5",
+                    "pt-5",
+                    "pb-5",
+                    "pr-5"
+                ]
+            }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/LOGO_BLUE 2.svg",
+            "altText": "IEEE uOttawa Logo",
+            "caption": "Caption of the image",
+            "width": 114,
+            "height": 48,
+            "elementId": ""
+        },
+        "title": "IEEE uOttawa"
+    },
+    "footer": {
+        "variant": "variant-b",
+        "colors": "colors-e",
+        "contacts": {
+            "title": "Contact details",
+            "phoneNumber": "613-562-5800 ext. 6196",
+            "phoneAltText": "Our phone",
+            "emailAltText": "Our email",
+            "address": "800 King Edward Avenue, STE 4026",
+            "addressAltText": "Our address"
+        },
+        "copyrightText": "IEEE uOttawa Student Branch",
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Who We Are",
+                "url": "/about",
+                "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "Events",
+                "altText": "Link to events page",
+                "url": "/events",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Office Hours",
+                "url": "/office-hours",
+                "altText": "Office Hours Link"
+            },
+            {
+                "type": "Link",
+                "label": "IEEE.org",
+                "altText": "",
+                "url": "https://www.ieee.org//",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Email",
+                "altText": "",
+                "url": "mailto:communications@ieeeuottawa.ca",
+                "icon": "mail",
+                "style": "link",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "altText": "Instagram",
+                "label": "Instagram",
+                "url": "http://www.instagram.com/ieeeuottawa",
+                "icon": "instagram"
+            },
+            {
+                "type": "Social",
+                "altText": "Facebook",
+                "label": "Facebook",
+                "url": "https://www.facebook.com/ieeeuottawa",
+                "icon": "facebook"
+            },
+            {
+                "type": "Social",
+                "label": "Youtube",
+                "altText": "IEEE uOttawa Youtube",
+                "icon": "youtube",
+                "style": "link",
+                "elementId": "",
+                "url": "https://www.youtube.com/channel/UCSv1Vna97rKa8w2ktRG8wRw"
+            },
+            {
+                "type": "Social",
+                "altText": "Twitter",
+                "label": "Twitter",
+                "url": "https://twitter.com/ieeeuottawa",
+                "icon": "twitter"
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow"
+            }
+        },
+        "logo": {
+            "type": "ImageBlock",
+            "url": "/images/LOGO_BLUE 3.svg",
+            "altText": "IEEE uOttawa Logo",
+            "caption": "IEEE uOttawa Logo",
+            "width": 114,
+            "height": 48,
+            "elementId": ""
+        }
+    },
+    "defaultMetaTags": [
+        {
+            "type": "MetaTag",
+            "property": "og:title",
+            "content": "IEEE uOttawa Student Branch"
+        },
+        {
+            "type": "MetaTag",
+            "property": "og:description",
+            "content": "The IEEE uOttawa Student Branch is the official student branch for the University of Ottawa and the official Sub-Association for ELG/CEG/SEG under the uOttawa Engineering Students Society."
+        },
+        {
+            "type": "MetaTag",
+            "property": "og:image",
+            "content": "/images/image_3.JPEG"
+        },
+        {
+            "type": "MetaTag",
+            "property": "twitter:image",
+            "content": "/images/image_3.JPEG"
+        },
+        {
+            "type": "MetaTag",
+            "property": "twitter:image:alt",
+            "content": "IEEE uOttawa Student Branch Hero Image"
+        }
+    ],
+    "defaultSocialImage": "/images/LOGO_HALLOWEEN.svg"
+}

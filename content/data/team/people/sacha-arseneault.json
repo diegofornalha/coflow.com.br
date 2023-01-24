@@ -1,0 +1,9 @@
+{
+    "type": "Person",
+    "firstName": "Sacha",
+    "lastName": "Arseneault",
+    "image": {
+        "url": "/images/team/placeholder.jpeg",
+        "altText": "Sacha Arseneault"
+    }
+}

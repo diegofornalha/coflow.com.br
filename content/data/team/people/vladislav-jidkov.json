@@ -1,0 +1,9 @@
+{
+    "type": "Person",
+    "firstName": "Vlad",
+    "lastName": "Jidkov",
+    "image": {
+        "url": "/images/team/vladislav-jidkov.jpg",
+        "altText": "Vlad Jidkov photo"
+    }   
+}

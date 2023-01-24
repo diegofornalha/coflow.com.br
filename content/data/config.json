@@ -250,7 +250,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/LOGO_BLUE 3.svg",
+            "url": "/images/eng-teams/flow-coflow-logo.png",
             "altText": "IEEE uOttawa Logo",
             "caption": "IEEE uOttawa Logo",
             "width": 114,

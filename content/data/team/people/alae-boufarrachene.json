@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "firstName": "Alae",
-    "lastName": "Boufarrachene",
+    "firstName": "FR",
+    "lastName": "Labs",
     "image": {
-        "url": "/images/team/alae-boufarrachene.jpg",
+        "url": "/images/Embaixadores/avatar-diegofornalha-flow.png",
         "altText": "Alae Boufarrachene photo"
     },
     "socialLinks": [

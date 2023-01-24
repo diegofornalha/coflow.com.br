@@ -10,7 +10,7 @@ presets:
       actions: []
       people:
         - content/data/team/vp-comms.json
-        - content/data/team/chair.json
+        - content/data/team/ambassador.json
       styles:
         self:
           height: auto

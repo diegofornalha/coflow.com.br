@@ -1,6 +1,5 @@
 {
     "type": "Config",
-    "favicon": "/images/ieee-diamond.png",
     "header": {
         "headerVariant": "variant-b",
         "isSticky": true,
@@ -26,15 +25,9 @@
                     },
                     {
                         "type": "Link",
-                        "label": "Office Hours",
-                        "url": "/office-hours",
-                        "altText": "Office Hours"
-                    },
-                    {
-                        "type": "Link",
-                        "label": "WIE",
-                        "altText": "WIE",
-                        "url": "https://celebratewie.ca/",
+                        "label": "Blog",
+                        "altText": "Blog",
+                        "url": "https://flow.coflow.com.br/blog",
                         "showIcon": true,
                         "icon": "arrowRight",
                         "iconPosition": "right",
@@ -44,13 +37,13 @@
             },
             {
                 "type": "DropdownLink",
-                "label": "Execs",
+                "label": "Volunteers",
                 "dropdownLinks": [
                     {
                         "type": "Link",
-                        "label": "2022-2023",
-                        "altText": "Link to 2022-2023 team's page",
-                        "url": "/execs-2022-2023",
+                        "label": "2023",
+                        "altText": "Link to 2023 team's page",
+                        "url": "/registro/2023",
                         "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
@@ -58,70 +51,24 @@
                     },
                     {
                         "type": "Link",
-                        "label": "2021-2022",
-                        "altText": "Link to 2021-2022 team's page",
-                        "url": "/execs-2021-2022",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    },
-                    {
-                        "type": "Link",
-                        "label": "2020-2021",
-                        "altText": "Link to 2020-2021 team's page",
-                        "url": "/execs-2020-2021",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    },
-                    {
-                        "type": "Link",
-                        "label": "2019-2020",
-                        "altText": "Link to 2019-2020 team's page",
-                        "url": "/execs-2019-2020",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    },
-                    {
-                        "type": "Link",
-                        "label": "2018-2019",
-                        "altText": "Link to 2018-2019 team's page",
-                        "url": "/execs-2018-2019",
-                        "showIcon": false,
+                        "label": "Advocates",
+                        "altText": "Advocates",
+                        "url": "https://flow.coflow.com.br/flow-brasil-embaixador-aprendiz/",
+                        "showIcon": true,
                         "icon": "arrowRight",
                         "iconPosition": "right",
                         "elementId": ""
                     }
                 ]
-            },
-            {
-                "type": "Link",
-                "label": "Events",
-                "url": "/events",
-                "altText": "Events"
-            },
-            {
-                "type": "Link",
-                "label": "Documents",
-                "altText": "Documents",
-                "url": "/documents",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "secondaryLinks": [
             {
                 "type": "Button",
-                "label": "Shop",
-                "altText": "Shop",
+                "label": "Join Discord",
+                "altText": "Entrar no Discord",
                 "style": "secondary",
-                "url": "https://flow.coflow.com.br/blog",
+                "url": "https://discord.com/invite/hT8EpC5mUN",
                 "showIcon": true,
                 "icon": "cart",
                 "iconPosition": "right",
@@ -141,7 +88,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/eng-teams/flow-coflow-logo.png",
+            "url": "/images/padrao/flow-coflow-logo.png",
             "altText": "IEEE uOttawa Logo",
             "caption": "Caption of the image",
             "width": 114,
@@ -156,35 +103,29 @@
         "contacts": {
             "addressAltText": "Our address"
         },
-        "copyrightText": "IEEE uOttawa Student Branch",
+        "copyrightText": "CoFlow",
         "primaryLinks": [
             {
                 "type": "Link",
                 "label": "Home",
                 "url": "/",
-                "altText": ""
+                "altText": "Home"
             },
             {
                 "type": "Link",
                 "label": "Who We Are",
                 "url": "/about",
-                "altText": ""
+                "altText": "Quem Somos"
             },
             {
                 "type": "Link",
-                "label": "Events",
-                "altText": "Link to events page",
-                "url": "/events",
+                "label": "Contact Us",
+                "altText": "Contact Us",
+                "url": "https://wa.me/5521997806363?text=Ol%C3%A1",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
-            },
-            {
-                "type": "Link",
-                "label": "Office Hours",
-                "url": "/office-hours",
-                "altText": "Office Hours Link"
             }
         ],
         "socialLinks": [
@@ -192,7 +133,7 @@
                 "type": "Social",
                 "label": "Email",
                 "altText": "",
-                "url": "mailto:communications@ieeeuottawa.ca",
+                "url": "mailto:diegofornalha@gmail.com",
                 "icon": "mail",
                 "style": "link",
                 "elementId": ""
@@ -201,31 +142,40 @@
                 "type": "Social",
                 "altText": "Instagram",
                 "label": "Instagram",
-                "url": "http://www.instagram.com/ieeeuottawa",
+                "url": "http://www.instagram.com/diegofornalha",
                 "icon": "instagram"
             },
             {
                 "type": "Social",
-                "altText": "Facebook",
-                "label": "Facebook",
-                "url": "https://www.facebook.com/ieeeuottawa",
-                "icon": "facebook"
+                "altText": "Linkedin",
+                "label": "Linkedin",
+                "url": "https://www.github.com/diegofornalha",
+                "icon": "github"
             },
             {
                 "type": "Social",
                 "label": "Youtube",
-                "altText": "IEEE uOttawa Youtube",
+                "altText": "Youtube",
                 "icon": "youtube",
                 "style": "link",
                 "elementId": "",
-                "url": "https://www.youtube.com/channel/UCSv1Vna97rKa8w2ktRG8wRw"
+                "url": "https://www.youtube.com/diegofornalha"
             },
             {
                 "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
-                "url": "https://twitter.com/ieeeuottawa",
+                "url": "https://twitter.com/diegofornalha",
                 "icon": "twitter"
+            },
+            {
+                "type": "Social",
+                "label": "Linkedin",
+                "altText": "Linkedin",
+                "url": "https://linkedin.com/in/diegofornalha",
+                "icon": "linkedin",
+                "style": "link",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -235,7 +185,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/eng-teams/flow-coflow-logo.png",
+            "url": "/images/padrao/flow-coflow-logo.png",
             "altText": "IEEE uOttawa Logo",
             "caption": "IEEE uOttawa Logo",
             "width": 114,
@@ -267,8 +217,7 @@
         {
             "type": "MetaTag",
             "property": "twitter:image:alt",
-            "content": "IEEE uOttawa Student Branch Hero Image"
+            "content": "CoFlow Image"
         }
-    ],
-    "defaultSocialImage": "/images/LOGO_HALLOWEEN.svg"
+    ]
 }

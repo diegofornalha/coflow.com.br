@@ -10,7 +10,7 @@ import { I18NContext } from '../../../context/i18Ncontext';
 import { emails } from '../../../../content/data/team/emails';
 
 export default function FeaturedPeopleSection(props) {
-    const { type, elementId, colors, variant, title, subtitle, actions = [], execs = [], people = [], styles = {}, 'data-sb-field-path': fieldPath } = props;
+    const { type, elementId, colors, variant, title, subtitle, actions = [], volunteers = [], people = [], styles = {}, 'data-sb-field-path': fieldPath } = props;
     return (
         <Section type={type} elementId={elementId} colors={colors} styles={styles.self} data-sb-field-path={fieldPath}>
             {title && (
@@ -29,7 +29,7 @@ export default function FeaturedPeopleSection(props) {
                 </p>
             )}
             <FeaturedPeopleActions actions={actions} styles={styles.actions} hasTopMargin={!!(title || subtitle)} />
-            <FeaturedPeopleVariants variant={variant} people={people} execs={execs} hasTopMargin={!!(title || subtitle || actions.length > 0)} />
+            <FeaturedPeopleVariants variant={variant} people={people} volunteers={volunteers} hasTopMargin={!!(title || subtitle || actions.length > 0)} />
         </Section>
     );
 }
@@ -64,15 +64,15 @@ function FeaturedPeopleVariants(props) {
 }
 
 function PeopleVariantA(props) {
-    const { execs = [], hasTopMargin } = props;
+    const { volunteers = [], hasTopMargin } = props;
     const { translateRole } = React.useContext(I18NContext);
 
-    if (execs.length === 0) {
+    if (volunteers.length === 0) {
         return null;
     }
     return (
-        <div className={classNames('grid', 'gap-x-10', 'gap-y-10', 'sm:grid-cols-2', 'lg:grid-cols-5', { 'mt-12': hasTopMargin })} data-sb-field-path=".execs">
-            {execs.map((exec, index) => {
+        <div className={classNames('grid', 'gap-x-10', 'gap-y-10', 'sm:grid-cols-2', 'lg:grid-cols-5', { 'mt-12': hasTopMargin })} data-sb-field-path=".volunteers">
+            {volunteers.map((exec, index) => {
                 const { role, person = {} } = exec;
 
                 if (person === null || person === undefined || role === undefined || role === null) return null;
@@ -132,15 +132,15 @@ function PeopleVariantA(props) {
 
 
 function PeopleVariantB(props) {
-    const { execs = [], hasTopMargin } = props;
+    const { volunteers = [], hasTopMargin } = props;
     const { translateRole } = React.useContext(I18NContext);
 
-    if (execs.length === 0) {
+    if (volunteers.length === 0) {
         return null;
     }
     return (
-        <div className={classNames('grid', 'gap-x-8', 'gap-y-10', 'lg:grid-cols-2', 'sm:gap-y-14', { 'mt-12': hasTopMargin })} data-sb-field-path=".execs">
-            {execs.map((exec, index) => {
+        <div className={classNames('grid', 'gap-x-8', 'gap-y-10', 'lg:grid-cols-2', 'sm:gap-y-14', { 'mt-12': hasTopMargin })} data-sb-field-path=".volunteers">
+            {volunteers.map((exec, index) => {
                 const { role, person = {} } = exec;
                 if (person === null || person === undefined || role === undefined || role === null) return null;
 
@@ -173,15 +173,15 @@ function PeopleVariantB(props) {
 }
 
 function PeopleVariantC(props) {
-    const { execs = [], hasTopMargin } = props;
-    if (execs.length === 0) {
+    const { volunteers = [], hasTopMargin } = props;
+    if (volunteers.length === 0) {
         return null;
     }
-    const middleIndex = Math.floor(execs.length / 2);
-    const peopleLeft = execs.slice(0, middleIndex);
-    const peopleRight = execs.slice(middleIndex, execs.length);
+    const middleIndex = Math.floor(volunteers.length / 2);
+    const peopleLeft = volunteers.slice(0, middleIndex);
+    const peopleRight = volunteers.slice(middleIndex, volunteers.length);
     return (
-        <div className={classNames('grid', 'gap-x-14', 'gap-y-12', 'sm:grid-cols-2', { 'mt-12 sm:mt-20': hasTopMargin })} data-sb-field-path=".execs">
+        <div className={classNames('grid', 'gap-x-14', 'gap-y-12', 'sm:grid-cols-2', { 'mt-12 sm:mt-20': hasTopMargin })} data-sb-field-path=".volunteers">
             <PeopleColumnVariantC people={peopleLeft} className="sm:mt-32" />
             <PeopleColumnVariantC people={peopleRight} fieldPathIndex={middleIndex} />
         </div>
@@ -189,15 +189,15 @@ function PeopleVariantC(props) {
 }
 
 function PeopleColumnVariantC(props) {
-    const { execs = [], fieldPathIndex = 0, className } = props;
+    const { volunteers = [], fieldPathIndex = 0, className } = props;
     const { translateRole } = React.useContext(I18NContext);
 
-    if (execs.length === 0) {
+    if (volunteers.length === 0) {
         return null;
     }
     return (
         <div className={classNames('space-y-12', 'sm:space-y-16', className)}>
-            {execs.map((exec, index, arr) => {
+            {volunteers.map((exec, index, arr) => {
                 const { role, person = {} } = exec;
                 if (person === null || person === undefined || role === undefined || role === null) return null;
 

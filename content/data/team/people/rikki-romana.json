@@ -1,10 +1,10 @@
 {
     "type": "Person",
-    "firstName": "Rikki",
-    "lastName": "Romana",
+    "firstName": "Diego",
+    "lastName": "Fornalha",
     "image": {
-        "url": "/images/team/rikki-romana.jpeg",
-        "altText": "Rikki Romana photo"
+        "url": "/images/Embaixadores/avatar-diegofornalha-flow.png",
+        "altText": "Diego Fornalha Avatar"
     },
     "socialLinks": [
         {

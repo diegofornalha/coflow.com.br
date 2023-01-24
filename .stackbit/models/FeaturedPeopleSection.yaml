@@ -42,8 +42,8 @@ fields:
         - Button
         - Link
   - type: list
-    name: execs
-    label: Execs
+    name: volunteers
+    label: Volunteers
     items:
       type: model
       models: [Exec]
@@ -56,8 +56,8 @@ fields:
         - Person
     default:
       - content/data/team/vp-comms.json
-      - content/data/team/vice-chair.json
-      - content/data/team/chair.json
+      - content/data/team/advocates.json
+      - content/data/team/ambassador.json
   - type: style
     name: styles
     styles:

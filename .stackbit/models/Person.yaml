@@ -28,7 +28,7 @@ fields:
         value: mail
         label: 'Mail'
         altText: Mail
-        url: 'mailto:exec@ieeeuottawa.ca'
+        url: 'mailto:'
         elementId: false
         showIcon: true
   - type: model

@@ -1,20 +1,10 @@
 {
     "type": "Person",
-    "firstName": "Emma",
-    "lastName": "Tang",
+    "firstName": "Daniel",
+    "lastName": "Alcantara",
     "image": {
-        "url": "/images/team/emma-tang.jpg",
+        "url": "/images/Embaixadores/avatar-diegofornalha-flow.png",
         "altText": "Emma"
     },
-    "socialLinks": [
-        {
-            "type": "Social",
-            "label": "LinkedIn",
-            "altText": "",
-            "url": "https://www.linkedin.com/in/emmatang-/",
-            "icon": "linkedin",
-            "style": "link",
-            "elementId": ""
-        }
-    ]
+    "socialLinks": []
 }

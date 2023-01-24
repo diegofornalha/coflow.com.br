@@ -153,9 +153,7 @@
     "footer": {
         "variant": "variant-b",
         "colors": "colors-b",
-        "contacts": {
-            "addressAltText": "Our address"
-        },
+        "contacts": {},
         "copyrightText": "IEEE uOttawa Student Branch",
         "primaryLinks": [
             {

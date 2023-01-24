@@ -19,7 +19,7 @@ sections:
     colors: colors-e
     elementId: ''
     backgroundSize: full
-    title: Accelerate every step of your programming career
+    title: Accelerate every step of your Web3 programming career
     titlePt: Acelere cada etapa da sua carreira em programação Web3
     text: >
       The complete map for you to boost your evolution and access the best

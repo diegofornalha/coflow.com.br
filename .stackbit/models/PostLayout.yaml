@@ -14,7 +14,7 @@ fields:
     default: This is a blog post title
     required: true
   - type: string
-    name: titleFr
+    name: titlePt
     label: Title [PT]
     default: Titre de blog
     required: true

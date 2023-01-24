@@ -28,7 +28,7 @@ fields:
     label: Title [EN]
     default: The Section Title
   - type: string
-    name: titleFr
+    name: titlePt
     label: Title [PT]
     default: Section titre
   - type: string
@@ -36,7 +36,7 @@ fields:
     label: Subtitle [EN]
     default: The section subtitle
   - type: string
-    name: subtitleFr
+    name: subtitlePt
     label: Subtitle [PT]
     default: Section sous-titre
   - type: markdown
@@ -50,7 +50,7 @@ fields:
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
       inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
   - type: markdown
-    name: textFr
+    name: textPt
     label: Text [PT]
     default: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

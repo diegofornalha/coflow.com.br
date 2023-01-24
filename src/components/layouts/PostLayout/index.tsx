@@ -14,14 +14,14 @@ import { I18NContext } from '../../../context/i18Ncontext';
 export default function PostLayout(props) {
     const { page, site } = props;
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
-    const { title, titleFr, date, author, category, colors = 'colors-d', markdown_content, markdown_content_fr, media, bottomSections = [] } = page;
+    const { title, titlePt, date, author, category, colors = 'colors-d', markdown_content, markdown_content_pt, media, bottomSections = [] } = page;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MMMM D, YYYY');
     const { displayMode } = React.useContext(DisplayModeContext);
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
+    const getTitle = () => locale === 'pt' && titlePt ? titlePt : title;
     const getMarkdownFieldPath = () => locale === 'pt' && markdown_content_fr ? markdown_content_fr : markdown_content;
-    const getTitleFieldPath = () => locale === 'pt' && titleFr ? 'titleFr' : 'title';
+    const getTitleFieldPath = () => locale === 'pt' && titlePt ? 'titlePt' : 'title';
     const markdownAnnotation = () => locale === 'pt' && markdown_content_fr ? 'markdown_content_fr' : 'markdown_content';
 
     return (

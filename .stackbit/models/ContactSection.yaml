@@ -27,7 +27,7 @@ fields:
     name: title
     label: Title [EN]
   - type: string
-    name: titleFr
+    name: titlePt
     label: Title [PT]
   - type: markdown
     name: text
@@ -36,7 +36,7 @@ fields:
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum.
   - type: markdown
-    name: textFr
+    name: textPt
     label: Text
     default: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.

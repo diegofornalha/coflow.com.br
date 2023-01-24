@@ -10,15 +10,15 @@ import { I18NContext } from '../../../../context/i18Ncontext';
 import { iconMap } from '../../../svgs';
 
 export default function FeaturedItem(props) {
-    const { elementId, title, titleFr, subtitle, subtitleFr, text, textFr, isIcon, featuredImage, featuredIcon, actions = [], enableHover, styles = {}, 'data-sb-field-path': fieldPath } = props;
+    const { elementId, title, titlePt, subtitle, subtitlePt, text, textPt, isIcon, featuredImage, featuredIcon, actions = [], enableHover, styles = {}, 'data-sb-field-path': fieldPath } = props;
     const { self = {} } = styles;
     const { borderWidth, ...otherSelfStyles } = self;
     const { locale } = useContext(I18NContext);
     const IconComponent = isIcon && featuredIcon ? iconMap[featuredIcon] : null;
     
-    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
-    const getSubtitle = () => locale === 'pt' && subtitleFr ? subtitleFr : subtitle;
-    const getText = () => locale === 'pt' && textFr ? textFr : text;
+    const getTitle = () => locale === 'pt' && titlePt ? titlePt : title;
+    const getSubtitle = () => locale === 'pt' && subtitlePt ? subtitlePt : subtitle;
+    const getText = () => locale === 'pt' && textPt ? textPt : text;
 
     return (
         <article
@@ -55,12 +55,12 @@ export default function FeaturedItem(props) {
                 </div>
             )}
             {title && (
-                <h3 className={classNames(styles.title ? mapStyles(styles.title) : null, { 'text-center' : isIcon })} data-sb-field-path={locale === 'pt' ? ".titleFr" : ".title"}>
+                <h3 className={classNames(styles.title ? mapStyles(styles.title) : null, { 'text-center' : isIcon })} data-sb-field-path={locale === 'pt' ? ".titlePt" : ".title"}>
                     {getTitle()}
                 </h3>
             )}
             {subtitle && (
-                <p className={classNames('text-lg', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-1': title })} data-sb-field-path={locale === 'pt' ? ".subtitleFr" : ".subtitle"}>
+                <p className={classNames('text-lg', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-1': title })} data-sb-field-path={locale === 'pt' ? ".subtitlePt" : ".subtitle"}>
                     {getSubtitle()}
                 </p>
             )}
@@ -70,7 +70,7 @@ export default function FeaturedItem(props) {
                     className={classNames('sb-markdown', {
                         'mt-4': title || subtitle
                     })}
-                    data-sb-field-path={locale === 'pt' ? ".textFr" : ".text"}
+                    data-sb-field-path={locale === 'pt' ? ".textPt" : ".text"}
                 >
                     {getText()}
                 </Markdown>

@@ -11,7 +11,7 @@ fields:
     label: Title [EN]
     default: This is a page title
   - type: string
-    name: titleFr
+    name: titlePt
     label: Title [PT]
     default: Titre de la page
   - type: number

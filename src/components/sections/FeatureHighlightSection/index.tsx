@@ -18,12 +18,12 @@ export default function FeatureHighlightSection(props) {
 }
 
 function FeatureHighlightSectionInset(props) {
-    const { elementId, colors = 'colors-d', backgroundImage, title, titleFr, subtitle, subtitleFr, text, textFr, actions, styles = {}, 'data-sb-field-path': fieldPath } = props;
+    const { elementId, colors = 'colors-d', backgroundImage, title, titlePt, subtitle, subtitlePt, text, textPt, actions, styles = {}, 'data-sb-field-path': fieldPath } = props;
     const { displayMode } = React.useContext(DisplayModeContext);
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
-    const getSubtitle = () => locale === 'pt' && subtitleFr ? subtitleFr : subtitle;
-    const getText = () => locale === 'pt' && textFr ? textFr : text;
+    const getTitle = () => locale === 'pt' && titlePt ? titlePt : title;
+    const getSubtitle = () => locale === 'pt' && subtitlePt ? subtitlePt : subtitle;
+    const getText = () => locale === 'pt' && textPt ? textPt : text;
 
     return (
         <div
@@ -69,12 +69,12 @@ function FeatureHighlightSectionInset(props) {
 }
 
 function FeatureHighlightSectionFullWidth(props) {
-    const { elementId, colors, backgroundImage, title, titleFr, subtitle, subtitleFr, text, textFr, actions, styles = {}, 'data-sb-field-path': fieldPath } = props;
+    const { elementId, colors, backgroundImage, title, titlePt, subtitle, subtitlePt, text, textPt, actions, styles = {}, 'data-sb-field-path': fieldPath } = props;
     const { displayMode } = React.useContext(DisplayModeContext);
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'pt' && titleFr ? titleFr : title;
-    const getSubtitle = () => locale === 'pt' && subtitleFr ? subtitleFr : subtitle;
-    const getText = () => locale === 'pt' && textFr ? textFr : text;
+    const getTitle = () => locale === 'pt' && titlePt ? titlePt : title;
+    const getSubtitle = () => locale === 'pt' && subtitlePt ? subtitlePt : subtitle;
+    const getText = () => locale === 'pt' && textPt ? textPt : text;
 
     return (
         <div
@@ -121,9 +121,9 @@ function FeatureHighlightSectionFullWidth(props) {
 function FeatureHighlightBody(props) {
     const { title, subtitle, text, actions, styles = {} } = props;
     const { locale } = React.useContext(I18NContext);
-    const getTitleFieldPath = () => locale === 'pt' ? '.titleFr' : '.title';
-    const getSubtitleFieldPath = () => locale === 'pt' ? '.subtitleFr' : '.subtitle';
-    const getTextFieldPath = () => locale === 'pt' ? '.textFr' : '.text';
+    const getTitleFieldPath = () => locale === 'pt' ? '.titlePt' : '.title';
+    const getSubtitleFieldPath = () => locale === 'pt' ? '.subtitlePt' : '.subtitle';
+    const getTextFieldPath = () => locale === 'pt' ? '.textPt' : '.text';
 
     return (
         <div className={classNames('sb-card', 'max-w-2xl', 'px-6', 'py-10', 'sm:px-12', 'sm:py-14')}>

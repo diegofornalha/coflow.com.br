@@ -18,7 +18,7 @@ fields:
     label: Title [EN]
     default: Gallery
   - type: string
-    name: titleFr
+    name: titlePt
     label: Title [PT]
     default: Galerie
   - type: string
@@ -26,7 +26,7 @@ fields:
     label: Subtitle [EN]
     default: This is the subtitle
   - type: string
-    name: subtitleFr
+    name: subtitlePt
     label: Subtitle [PT]
     default: Sous-titre
   - type: list

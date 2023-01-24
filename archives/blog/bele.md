@@ -1,12 +1,12 @@
 ---
 title: Big Eng Little Eng
-titleFr: Big Eng Little Eng
+titlePt: Big Eng Little Eng
 layout: PostLayout
 date: '2022-08-21'
 author: content/data/orgs/ieee-uottawa.json
 excerpt: >-
   Learn more about IEEE WIE's buddy program for first year students.
-excerptFr: >-
+excerptPt: >-
   Apprenez-en plus sur le programme de jumelage de l'IEEE WIE pour les étudiants de première année.
 featuredImage:
   type: ImageBlock
@@ -20,7 +20,7 @@ media:
   height: 1080
   url: /images/bele.jpeg
   altText: Post Image
-markdown_content_fr: >-
+markdown_content_pt: >-
   Big Eng Little Eng est un programme de mentorat destiné aux étudiants de première année pour les aider dans leur transition vers l'université. Les étudiants sont jumelés avec un étudiant de dernière année dans leur programme d'ingénierie correspondant.
   Il donne aux étudiants l'occasion de se constituer un réseau et offre l'accès à une grande variété d'outils et de ressources en ligne pour aider les étudiants de première année à s'adapter à la charge de travail universitaire.
   Cette initiative comprend également des exercices de rapprochement et des événements sociaux entre mentors et mentorés, car elle ne se limite pas à l'étude.

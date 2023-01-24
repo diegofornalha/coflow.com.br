@@ -1,7 +1,7 @@
 ---
 layout: PostFeedLayout
 title: Articles
-titleFr: Articles
+titlePt: Articles
 numOfPostsPerPage: 10
 postFeed:
   showDate: true

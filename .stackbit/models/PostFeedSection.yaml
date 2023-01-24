@@ -15,7 +15,7 @@ fields:
     label: Title
     default: Posts
   - type: string
-    name: titleFr
+    name: titlePt
     label: Title [PT]
     default: Posts
   - type: string
@@ -23,7 +23,7 @@ fields:
     label: Subtitle [EN]
     default: Blog posts
   - type: string
-    name: subtitleFr
+    name: subtitlePt
     label: Subtitle [PT]
     default: Blog posts
   - type: boolean

@@ -121,7 +121,7 @@
                 "label": "Shop",
                 "altText": "Shop",
                 "style": "secondary",
-                "url": "https://ieee-uottawa.square.site/",
+                "url": "https://flow.coflow.com.br/blog",
                 "showIcon": true,
                 "icon": "cart",
                 "iconPosition": "right",
@@ -141,7 +141,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/LOGO_BLUE 2.svg",
+            "url": "/images/eng-teams/flow-coflow-logo.png",
             "altText": "IEEE uOttawa Logo",
             "caption": "Caption of the image",
             "width": 114,
@@ -152,13 +152,8 @@
     },
     "footer": {
         "variant": "variant-b",
-        "colors": "colors-e",
+        "colors": "colors-b",
         "contacts": {
-            "title": "Contact details",
-            "phoneNumber": "613-562-5800 ext. 6196",
-            "phoneAltText": "Our phone",
-            "emailAltText": "Our email",
-            "address": "800 King Edward Avenue, STE 4026",
             "addressAltText": "Our address"
         },
         "copyrightText": "IEEE uOttawa Student Branch",
@@ -190,16 +185,6 @@
                 "label": "Office Hours",
                 "url": "/office-hours",
                 "altText": "Office Hours Link"
-            },
-            {
-                "type": "Link",
-                "label": "IEEE.org",
-                "altText": "",
-                "url": "https://www.ieee.org//",
-                "showIcon": false,
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "elementId": ""
             }
         ],
         "socialLinks": [
@@ -250,7 +235,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/LOGO_BLUE 3.svg",
+            "url": "/images/eng-teams/flow-coflow-logo.png",
             "altText": "IEEE uOttawa Logo",
             "caption": "IEEE uOttawa Logo",
             "width": 114,

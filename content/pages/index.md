@@ -96,7 +96,7 @@ sections:
         featuredIcon: document
         isIcon: true
         text: |
-          ##Token
+          ## Token
       - type: FeaturedItem
         textPt: |+
           ## Publicamos na Rede de Teste

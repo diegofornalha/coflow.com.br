@@ -19,7 +19,7 @@ sections:
     colors: colors-e
     elementId: ''
     backgroundSize: full
-    title: Let's do this
+    title: Accelerate every step of your programming career
     titlePt: Acelere cada etapa da sua carreira em programação Web3
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage

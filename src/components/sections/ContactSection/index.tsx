@@ -9,12 +9,12 @@ import FormBlock from '../../molecules/FormBlock';
 import { I18NContext } from '../../../context/i18Ncontext';
 
 export default function ContactSection(props) {
-    const { type, elementId, colors, backgroundSize, title, titleFr, text, textFr, form, media, styles = {}, 'data-sb-field-path': fieldPath } = props;
+    const { type, elementId, colors, backgroundSize, title, titlePt, text, textFr, form, media, styles = {}, 'data-sb-field-path': fieldPath } = props;
     const sectionFlexDirection = styles.self?.flexDirection ?? 'row';
     const sectionAlignItems = styles.self?.alignItems ?? 'center';
     const { locale } = React.useContext(I18NContext);
 
-    const getTitle = () => locale === 'fr' && titleFr ? titleFr : title;
+    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
     const getText = () => locale === 'fr' && textFr ? textFr : text;
 
     return (
@@ -60,7 +60,7 @@ function ContactBody(props) {
     const { title, text, styles = {} } = props;
     const { locale } = React.useContext(I18NContext);
 
-    const getTitleFieldPath = () => locale === 'fr' ? '.titleFr' : '.title';
+    const getTitleFieldPath = () => locale === 'fr' ? '.titlePt' : '.title';
     const getTextFieldPath = () => locale === 'fr' ? '.textFr' : '.text';
 
     return (

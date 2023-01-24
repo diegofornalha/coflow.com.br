@@ -17,9 +17,9 @@ export default function PostFeedSection(props) {
         colors,
         variant,
         title,
-        titleFr,
+        titlePt,
         subtitle,
-        subtitleFr,
+        subtitlePt,
         actions = [],
         posts = [],
         showDate,
@@ -33,10 +33,10 @@ export default function PostFeedSection(props) {
         'data-sb-field-path': fieldPath
     } = props;
     const { locale, translateLink: translate } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titleFr ? titleFr : title;
-    const getSubtitle = () => locale === 'fr' && subtitleFr ? subtitleFr : subtitle;
-    const getTitleFieldPath = () => locale === 'fr' && titleFr ? '.titleFr' : '.title';
-    const getSubtitleFieldPath = () => locale === 'fr' && subtitleFr ? '.subtitleFr' : '.subtitle';
+    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
+    const getSubtitle = () => locale === 'fr' && subtitlePt ? subtitlePt : subtitle;
+    const getTitleFieldPath = () => locale === 'fr' && titlePt ? '.titlePt' : '.title';
+    const getSubtitleFieldPath = () => locale === 'fr' && subtitlePt ? '.subtitlePt' : '.subtitle';
 
     return (
         <Section type={type} elementId={elementId} colors={colors} styles={styles.self} data-sb-field-path={fieldPath}>
@@ -117,9 +117,9 @@ function PostsVariantA(props) {
             {...(annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
         >
             {posts.map((post, index) => {
-                const getTitle = () => locale === 'fr' && post.titleFr ? post.titleFr : post.title;
+                const getTitle = () => locale === 'fr' && post.titlePt ? post.titlePt : post.title;
                 const getExcerpt = () => locale === 'fr' && post.excerptFr ? post.excerptFr : post.excerpt;
-                const getTitleFieldPath = () => locale === 'fr' && post.titleFr ? 'titleFr' : 'title';
+                const getTitleFieldPath = () => locale === 'fr' && post.titlePt ? 'titlePt' : 'title';
                 const getExcerptFieldPath = () => locale === 'fr' && post.excerptFr ? 'excerptFr' : 'excerpt';
 
                 return (
@@ -186,9 +186,9 @@ function PostsVariantB(props) {
             {...(annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
         >
             {posts.map((post, index) => {
-                const getTitle = () => locale === 'fr' && post.titleFr ? post.titleFr : post.title;
+                const getTitle = () => locale === 'fr' && post.titlePt ? post.titlePt : post.title;
                 const getExcerpt = () => locale === 'fr' && post.excerptFr ? post.excerptFr : post.excerpt;
-                const getTitleFieldPath = () => locale === 'fr' && post.titleFr ? 'titleFr' : 'title';
+                const getTitleFieldPath = () => locale === 'fr' && post.titlePt ? 'titlePt' : 'title';
                 const getExcerptFieldPath = () => locale === 'fr' && post.excerptFr ? 'excerptFr' : 'excerpt';
 
                 return(
@@ -255,9 +255,9 @@ function PostsVariantC(props) {
             {...(annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
         >
             {posts.map((post, index) => {
-                const getTitle = () => locale === 'fr' && post.titleFr ? post.titleFr : post.title;
+                const getTitle = () => locale === 'fr' && post.titlePt ? post.titlePt : post.title;
                 const getExcerpt = () => locale === 'fr' && post.excerptFr ? post.excerptFr : post.excerpt;
-                const getTitleFieldPath = () => locale === 'fr' && post.titleFr ? 'titleFr' : 'title';
+                const getTitleFieldPath = () => locale === 'fr' && post.titlePt ? 'titlePt' : 'title';
                 const getExcerptFieldPath = () => locale === 'fr' && post.excerptFr ? 'excerptFr' : 'excerpt';
 
                 return (
@@ -328,9 +328,9 @@ function PostsVariantD(props) {
             {...(annotatePosts ? { 'data-sb-field-path': '.posts' } : null)}
         >
             {posts.map((post, index) => {
-                const getTitle = () => locale === 'fr' && post.titleFr ? post.titleFr : post.title;
+                const getTitle = () => locale === 'fr' && post.titlePt ? post.titlePt : post.title;
                 const getExcerpt = () => locale === 'fr' && post.excerptFr ? post.excerptFr : post.excerpt;
-                const getTitleFieldPath = () => locale === 'fr' && post.titleFr ? 'titleFr' : 'title';
+                const getTitleFieldPath = () => locale === 'fr' && post.titlePt ? 'titlePt' : 'title';
                 const getExcerptFieldPath = () => locale === 'fr' && post.excerptFr ? 'excerptFr' : 'excerpt';
 
                 return (

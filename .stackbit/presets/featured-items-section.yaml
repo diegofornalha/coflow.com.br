@@ -10,11 +10,11 @@ presets:
       items:
         - type: FeaturedItem
           title: Faster
-          titleFr: Plus rapide
+          titlePt: Plus rapide
           text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
             tincidunt ac leo efficitur, feugiat tempor odio. Maecenas pharetra ipsum dolor,
             et iaculis elit ornare ac.
-          textFr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
+          textPt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
             tincidunt ac leo efficitur, feugiat tempor odio. Maecenas pharetra ipsum dolor,
             et iaculis elit ornare ac.
           actions:
@@ -29,11 +29,11 @@ presets:
               textAlign: left
         - type: FeaturedItem
           title: Smarter
-          titleFr: Plus intelligent
+          titlePt: Plus intelligent
           text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
             tincidunt ac leo efficitur, feugiat tempor odio. Maecenas pharetra ipsum dolor,
             et iaculis elit ornare ac.
-          textFr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
+          textPt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
             tincidunt ac leo efficitur, feugiat tempor odio. Maecenas pharetra ipsum dolor,
             et iaculis elit ornare ac.
           actions:
@@ -48,11 +48,11 @@ presets:
               textAlign: left
         - type: FeaturedItem
           title: Focused
-          titleFr: Concentré
+          titlePt: Concentré
           text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
             tincidunt ac leo efficitur, feugiat tempor odio. Maecenas pharetra ipsum dolor,
             et iaculis elit ornare ac.
-          textFr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
+          textPt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
             tincidunt ac leo efficitur, feugiat tempor odio. Maecenas pharetra ipsum dolor,
             et iaculis elit ornare ac.
           actions:
@@ -92,11 +92,11 @@ presets:
       items:
         - type: FeaturedItem
           title: Faster
-          titleFr: Plus rapide
+          titlePt: Plus rapide
           text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
             tincidunt ac leo efficitur, feugiat tempor odio. Maecenas pharetra ipsum dolor,
             et iaculis elit ornare ac.
-          textFr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
+          textPt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
             tincidunt ac leo efficitur, feugiat tempor odio. Maecenas pharetra ipsum dolor,
             et iaculis elit ornare ac.
           actions:
@@ -111,11 +111,11 @@ presets:
               textAlign: left
         - type: FeaturedItem
           title: Smarter
-          titleFr: Plus intelligent
+          titlePt: Plus intelligent
           text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
             tincidunt ac leo efficitur, feugiat tempor odio. Maecenas pharetra ipsum dolor,
             et iaculis elit ornare ac.
-          textFr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
+          textPt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
             tincidunt ac leo efficitur, feugiat tempor odio. Maecenas pharetra ipsum dolor,
             et iaculis elit ornare ac.
           actions:
@@ -130,11 +130,11 @@ presets:
               textAlign: left
         - type: FeaturedItem
           title: Focused
-          titleFr: Concentré
+          titlePt: Concentré
           text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
             tincidunt ac leo efficitur, feugiat tempor odio. Maecenas pharetra ipsum dolor,
             et iaculis elit ornare ac.
-          textFr: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
+          textPt: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
             tincidunt ac leo efficitur, feugiat tempor odio. Maecenas pharetra ipsum dolor,
             et iaculis elit ornare ac.
           actions:

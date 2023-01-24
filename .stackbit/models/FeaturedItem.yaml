@@ -19,7 +19,7 @@ fields:
     label: Title
     default: Item Title
   - type: string
-    name: titleFr
+    name: titlePt
     label: Titre
     default: Titre de l'article
   - type: string
@@ -27,7 +27,7 @@ fields:
     label: Subtitle
     default: ''
   - type: string
-    name: subtitleFr
+    name: subtitlePt
     label: Sous-titre
     default: ''
   - type: markdown

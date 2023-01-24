@@ -28,7 +28,7 @@ fields:
     label: Title
     default: This Is A Feature Title
   - type: string
-    name: titleFr
+    name: titlePt
     label: Titre
     default: Ceci est un titre caractéristique
   - type: string
@@ -36,7 +36,7 @@ fields:
     label: Subtitle
     default: The section subtitle
   - type: string
-    name: subtitleFr
+    name: subtitlePt
     label: Sous-titre
     default: Section sous-titre
   - type: markdown

@@ -1,12 +1,12 @@
 ---
 title: How IEEE Can Help You Succeed Academically?
-titleFr: Comment IEEE peut vous aider à réussir dans vos études ?
+titlePt: Comment IEEE peut vous aider à réussir dans vos études ?
 layout: PostLayout
 date: '2022-08-22'
 author: content/data/orgs/ieee-uottawa.json
 excerpt: >-
   Find out about how IEEE can help you succeed in your project.
-excerptFr: >-
+excerptPt: >-
   Découvrez comment l'IEEE peut vous aider à réussir votre projet.
 featuredImage:
   type: ImageBlock
@@ -21,7 +21,7 @@ media:
   height: 1080
   altText: Post Image
 addTitleSuffix: true
-markdown_content_fr: >-
+markdown_content_pt: >-
   - Vous avez besoin d'emprunter un manuel pour l'un de vos cours ? Notre bureau contient une sélection soigneusement sélectionnée de manuels couvrant une grande variété de sujets EECS. Et le meilleur ? Vous pouvez les emprunter gratuitement !
 
   - Vous avez besoin d'étudier avec vos amis dans un environnement calme pour préparer votre examen de mi-session ? Notre bureau est l'endroit idéal pour cela.

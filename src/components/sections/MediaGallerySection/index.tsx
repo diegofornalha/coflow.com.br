@@ -11,9 +11,9 @@ type MediaGallerySectionProps = {
     elementId: string;
     colors?: 'colors-a' | 'colors-b' | 'colors-c' | 'colors-d' | 'colors-e';
     title?: string;
-    titleFr?: string;
+    titlePt?: string;
     subtitle?: string;
-    subtitleFr?: string;
+    subtitlePt?: string;
     images?: Image[];
     spacing?: number;
     columns?: number;
@@ -46,9 +46,9 @@ export default function MediaGallerySection(props: MediaGallerySectionProps) {
         elementId,
         colors,
         title,
-        titleFr,
+        titlePt,
         subtitle,
-        subtitleFr,
+        subtitlePt,
         images = [],
         columns = 4,
         spacing = 16,
@@ -60,13 +60,13 @@ export default function MediaGallerySection(props: MediaGallerySectionProps) {
     } = props;
     
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titleFr ? titleFr : title;
-    const getSubtitle = () => locale === 'fr' && subtitleFr ? subtitleFr : subtitle;
+    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
+    const getSubtitle = () => locale === 'fr' && subtitlePt ? subtitlePt : subtitle;
 
     return (
         <Section type={type} elementId={elementId} colors={colors} styles={styles.self} data-sb-field-path={fieldPath}>
             {title && (
-                <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path={`.${locale === 'fr' ? 'titleFr' : 'title'}`}>
+                <h2 className={classNames(styles.title ? mapStyles(styles.title) : null)} data-sb-field-path={`.${locale === 'fr' ? 'titlePt' : 'title'}`}>
                     {getTitle()}
                 </h2>
             )}
@@ -75,7 +75,7 @@ export default function MediaGallerySection(props: MediaGallerySectionProps) {
                     className={classNames('text-lg', 'sm:text-xl', styles.subtitle ? mapStyles(styles.subtitle) : null, {
                         'mt-6': title
                     })}
-                    data-sb-field-path={`.${locale === 'fr' ? 'subtitleFr' : 'subtitle'}`}
+                    data-sb-field-path={`.${locale === 'fr' ? 'subtitlePt' : 'subtitle'}`}
                 >
                     {getSubtitle()}
                 </p>

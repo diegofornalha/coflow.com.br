@@ -18,11 +18,11 @@ export default function FeatureHighlightSection(props) {
 }
 
 function FeatureHighlightSectionInset(props) {
-    const { elementId, colors = 'colors-d', backgroundImage, title, titleFr, subtitle, subtitleFr, text, textFr, actions, styles = {}, 'data-sb-field-path': fieldPath } = props;
+    const { elementId, colors = 'colors-d', backgroundImage, title, titlePt, subtitle, subtitlePt, text, textFr, actions, styles = {}, 'data-sb-field-path': fieldPath } = props;
     const { displayMode } = React.useContext(DisplayModeContext);
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titleFr ? titleFr : title;
-    const getSubtitle = () => locale === 'fr' && subtitleFr ? subtitleFr : subtitle;
+    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
+    const getSubtitle = () => locale === 'fr' && subtitlePt ? subtitlePt : subtitle;
     const getText = () => locale === 'fr' && textFr ? textFr : text;
 
     return (
@@ -69,11 +69,11 @@ function FeatureHighlightSectionInset(props) {
 }
 
 function FeatureHighlightSectionFullWidth(props) {
-    const { elementId, colors, backgroundImage, title, titleFr, subtitle, subtitleFr, text, textFr, actions, styles = {}, 'data-sb-field-path': fieldPath } = props;
+    const { elementId, colors, backgroundImage, title, titlePt, subtitle, subtitlePt, text, textFr, actions, styles = {}, 'data-sb-field-path': fieldPath } = props;
     const { displayMode } = React.useContext(DisplayModeContext);
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titleFr ? titleFr : title;
-    const getSubtitle = () => locale === 'fr' && subtitleFr ? subtitleFr : subtitle;
+    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
+    const getSubtitle = () => locale === 'fr' && subtitlePt ? subtitlePt : subtitle;
     const getText = () => locale === 'fr' && textFr ? textFr : text;
 
     return (
@@ -121,8 +121,8 @@ function FeatureHighlightSectionFullWidth(props) {
 function FeatureHighlightBody(props) {
     const { title, subtitle, text, actions, styles = {} } = props;
     const { locale } = React.useContext(I18NContext);
-    const getTitleFieldPath = () => locale === 'fr' ? '.titleFr' : '.title';
-    const getSubtitleFieldPath = () => locale === 'fr' ? '.subtitleFr' : '.subtitle';
+    const getTitleFieldPath = () => locale === 'fr' ? '.titlePt' : '.title';
+    const getSubtitleFieldPath = () => locale === 'fr' ? '.subtitlePt' : '.subtitle';
     const getTextFieldPath = () => locale === 'fr' ? '.textFr' : '.text';
 
     return (

@@ -18,16 +18,16 @@ fields:
     label: Title [EN]
     default: Gallery
   - type: string
-    name: titleFr
-    label: Title [FR]
+    name: titlePt
+    label: Title [PT]
     default: Galerie
   - type: string
     name: subtitle
     label: Subtitle [EN]
     default: This is the subtitle
   - type: string
-    name: subtitleFr
-    label: Subtitle [FR]
+    name: subtitlePt
+    label: Subtitle [PT]
     default: Sous-titre
   - type: list
     name: images

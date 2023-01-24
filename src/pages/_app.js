@@ -9,13 +9,13 @@ export default function MyApp({ Component, pageProps }) {
     const [locale, setLocale] = React.useState('en');
     const [displayMode, setDisplayMode] = React.useState('light');
     const [linksTranslations] = React.useState(translatedLinks);
-    
+
     function translateLink(input) {
         if (input in linksTranslations) return locale === 'fr' ? linksTranslations[input] : input;
         return input;
     }
 
-    function translateRole(role){
+    function translateRole(role) {
         if (role in translatedRoles) return locale === 'fr' ? translatedRoles[role].fr : translatedRoles[role].en;
         return role;
     }
@@ -23,35 +23,34 @@ export default function MyApp({ Component, pageProps }) {
     const setLanguage = (language) => {
         localStorage.setItem('language', language);
         setLocale(language);
-    }
+    };
 
-    const prefersFR = () => {
+    const prefersPT = () => {
         navigator?.language?.toLowerCase().includes('fr') || false;
-    }
+    };
 
     const setLight = () => {
         localStorage.setItem('displayMode', 'light');
         setDisplayMode('light');
-    }
+    };
 
     const setDark = () => {
         localStorage.setItem('displayMode', 'dark');
         setDisplayMode('dark');
-    }
+    };
 
     const prefersDark = () => {
         const mediaQuery = window?.matchMedia('(prefers-color-scheme: dark)');
         return mediaQuery?.matches || false;
-    }
+    };
 
     useEffect(() => {
         const storedLanguage = localStorage.getItem('language');
-        const defaultFR = storedLanguage === 'fr' || (storedLanguage === null && prefersFR());
-        if (defaultFR) {
-            setLanguage('fr');
+        const defaultPT = storedLanguage === 'ft' || (storedLanguage === null && prefersPT());
+        if (defaultPT) {
+            setLanguage('ft');
         }
-    }
-    , [locale]);
+    }, [locale]);
 
     useEffect(() => {
         const storedMode = localStorage.getItem('displayMode');

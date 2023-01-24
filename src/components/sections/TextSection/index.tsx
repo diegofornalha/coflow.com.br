@@ -7,10 +7,10 @@ import Section from '../Section';
 import { I18NContext } from '../../../context/i18Ncontext';
 
 export default function TextSection(props) {
-    const { type, elementId, colors, variant, title, titleFr, subtitle, subtitleFr, text, textFr, styles = {}, 'data-sb-field-path': fieldPath } = props;
+    const { type, elementId, colors, variant, title, titlePt, subtitle, subtitlePt, text, textFr, styles = {}, 'data-sb-field-path': fieldPath } = props;
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titleFr ? titleFr : title;
-    const getSubtitle = () => locale === 'fr' && subtitleFr ? subtitleFr : subtitle;
+    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
+    const getSubtitle = () => locale === 'fr' && subtitlePt ? subtitlePt : subtitle;
     const getText = () => locale === 'fr' && textFr ? textFr : text;
 
     return (
@@ -35,8 +35,8 @@ function TextBodyVariants(props) {
 function TextBodyVariantA(props) {
     const { title, subtitle, text, styles = {} } = props;
     const { locale } = React.useContext(I18NContext);
-    const getTitleFieldPath = () => locale === 'fr' ? '.titleFr' : '.title';
-    const getSubtitleFieldPath = () => locale === 'fr' ? '.subtitleFr' : '.subtitle';
+    const getTitleFieldPath = () => locale === 'fr' ? '.titlePt' : '.title';
+    const getSubtitleFieldPath = () => locale === 'fr' ? '.subtitlePt' : '.subtitle';
     const getTextFieldPath = () => locale === 'fr' ? '.textFr' : '.text';
 
     return (
@@ -72,8 +72,8 @@ function TextBodyVariantA(props) {
 function TextBodyVariantB(props) {
     const { title, subtitle, text, styles = {} } = props;
     const { locale } = React.useContext(I18NContext);
-    const getTitleFieldPath = () => locale === 'fr' ? '.titleFr' : '.title';
-    const getSubtitleFieldPath = () => locale === 'fr' ? '.subtitleFr' : '.subtitle';
+    const getTitleFieldPath = () => locale === 'fr' ? '.titlePt' : '.title';
+    const getSubtitleFieldPath = () => locale === 'fr' ? '.subtitlePt' : '.subtitle';
     const getTextFieldPath = () => locale === 'fr' ? '.textFr' : '.text';
 
     return (

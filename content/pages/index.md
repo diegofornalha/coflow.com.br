@@ -20,9 +20,9 @@ sections:
     colors: colors-e
     backgroundSize: full
     title: Power Your Student Experience
-    titleFr: Boostez votre vie étudiante
+    titlePt: Boostez votre vie étudiante
     subtitle: with the best sub-association on campus.
-    subtitleFr: avec la meilleure sous-association du campus.
+    subtitlePt: avec la meilleure sous-association du campus.
     actions:
       - type: Button
         label: Learn More
@@ -66,17 +66,17 @@ sections:
     colors: colors-b
     elementId: ''
     title: Come visit us in the office
-    titleFr: Passez nous voir dans notre bureau
+    titlePt: Passez nous voir dans notre bureau
     subtitle: '800 King Edward Ave, Ottawa, ON K1N 6N5, STE 4026'
-    subtitleFr: '800 King Edward Ave, Ottawa, ON K1N 6N5, STE 4026'
+    subtitlePt: '800 King Edward Ave, Ottawa, ON K1N 6N5, STE 4026'
     items:
       - type: FeaturedItem
         title: Use our lab equipment
-        titleFr: Utilisez notre équipement de laboratoire
+        titlePt: Utilisez notre équipement de laboratoire
         text: >
           Need to use a breadboard, wire strippers or CD-Rs? Need to use an
           Altera DE2 Board or an oscilloscope for a project? We got your back.
-        textFr: >
+        textPt: >
           Besoin d'une planche à pain, des pinces à dénuder ou des CD-R ? Besoin
           d'utiliser une carte Altera DE2 ou un oscilloscope pour un projet ?
           Nous avons tout!
@@ -94,11 +94,11 @@ sections:
         isIcon: true
       - type: FeaturedItem
         title: Get homework help
-        titleFr: Obtenez de l'aide pour vos devoirs
+        titlePt: Obtenez de l'aide pour vos devoirs
         text: >
           Need to study with your friends in a quiet environment to prepare for
           your midterm? Our office is the perfect place for that.
-        textFr: >
+        textPt: >
           Besoin d'étudier avec vos amis dans un environnement calme pour vous
           préparer pour votre mi-session ? Notre bureau est l'endroit idéal pour
           cela.
@@ -116,11 +116,11 @@ sections:
         isIcon: true
       - type: FeaturedItem
         title: Borrow textbooks
-        titleFr: Empruntez des manuels scolaires
+        titlePt: Empruntez des manuels scolaires
         text: >
           Need to borrow a textbook for one of your courses? Take advantage of
           our carefully curated selection of EECS textbooks at no cost.
-        textFr: >
+        textPt: >
           Besoin d'emprunter un manuel pour l'un de vos cours ? Profitez
           gratuitement de notre sélection de manuels EECS adapté à vos besoins.
         actions: []
@@ -169,16 +169,16 @@ sections:
     colors: colors-c
     elementId: ''
     title: Upcoming Events
-    titleFr: Prochains événements
+    titlePt: Prochains événements
     subtitle: ''
-    subtitleFr: ''
+    subtitlePt: ''
     items:
       - type: FeaturedItem
         elementId: ''
         title: Comp Eng Hangout
-        titleFr: Rencontre de génie d'info
+        titlePt: Rencontre de génie d'info
         subtitle: '11/23/2022, 6PM - 8PM'
-        subtitleFr: '23/11/2022, 18:00 - 20:00'
+        subtitlePt: '23/11/2022, 18:00 - 20:00'
         text: >
           Location: SITE 4026
 
@@ -187,7 +187,7 @@ sections:
 
           Drop by the IEEE office, located in STE 4026, and hang out with other
           CEG students!
-        textFr: >
+        textPt: >
           Lieu: SITE 4026
 
 
@@ -241,11 +241,11 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Check out our gallery
-    titleFr: Visitez notre galerie de photos
+    titlePt: Visitez notre galerie de photos
     subtitle: ''
     text: |
       Visit our gallery to see photos of events we have hosted in the past.
-    textFr: >
+    textPt: >
       Visitez notre galerie pour voir les photos des événements que nous avons
       organisés dans le passé.
     actions:
@@ -284,11 +284,11 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Get in touch
-    titleFr: Contactez-nous
+    titlePt: Contactez-nous
     text: >
       Got a question? Event suggestions? Feedback? We want to hear it! Send us a
       message and we will get back to you as soon as we can.
-    textFr: >
+    textPt: >
       Vous avez une question ? Des suggestions d'événements ? Des commentaires ?
       Nous voulons les entendre ! Envoyez-nous un message et nous vous
       répondrons dès que possible.

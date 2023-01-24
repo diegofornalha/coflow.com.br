@@ -10,14 +10,14 @@ import { I18NContext } from '../../../../context/i18Ncontext';
 import { iconMap } from '../../../svgs';
 
 export default function FeaturedItem(props) {
-    const { elementId, title, titleFr, subtitle, subtitleFr, text, textFr, isIcon, featuredImage, featuredIcon, actions = [], enableHover, styles = {}, 'data-sb-field-path': fieldPath } = props;
+    const { elementId, title, titlePt, subtitle, subtitlePt, text, textFr, isIcon, featuredImage, featuredIcon, actions = [], enableHover, styles = {}, 'data-sb-field-path': fieldPath } = props;
     const { self = {} } = styles;
     const { borderWidth, ...otherSelfStyles } = self;
     const { locale } = useContext(I18NContext);
     const IconComponent = isIcon && featuredIcon ? iconMap[featuredIcon] : null;
     
-    const getTitle = () => locale === 'fr' && titleFr ? titleFr : title;
-    const getSubtitle = () => locale === 'fr' && subtitleFr ? subtitleFr : subtitle;
+    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
+    const getSubtitle = () => locale === 'fr' && subtitlePt ? subtitlePt : subtitle;
     const getText = () => locale === 'fr' && textFr ? textFr : text;
 
     return (
@@ -55,12 +55,12 @@ export default function FeaturedItem(props) {
                 </div>
             )}
             {title && (
-                <h3 className={classNames(styles.title ? mapStyles(styles.title) : null, { 'text-center' : isIcon })} data-sb-field-path={locale === 'fr' ? ".titleFr" : ".title"}>
+                <h3 className={classNames(styles.title ? mapStyles(styles.title) : null, { 'text-center' : isIcon })} data-sb-field-path={locale === 'fr' ? ".titlePt" : ".title"}>
                     {getTitle()}
                 </h3>
             )}
             {subtitle && (
-                <p className={classNames('text-lg', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-1': title })} data-sb-field-path={locale === 'fr' ? ".subtitleFr" : ".subtitle"}>
+                <p className={classNames('text-lg', styles.subtitle ? mapStyles(styles.subtitle) : null, { 'mt-1': title })} data-sb-field-path={locale === 'fr' ? ".subtitlePt" : ".subtitle"}>
                     {getSubtitle()}
                 </p>
             )}

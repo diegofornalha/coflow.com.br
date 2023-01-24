@@ -14,8 +14,8 @@ fields:
     default: This is a blog post title
     required: true
   - type: string
-    name: titleFr
-    label: Title [FR]
+    name: titlePt
+    label: Title [PT]
     default: Titre de blog
     required: true
   - type: enum
@@ -65,7 +65,7 @@ fields:
     default: Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer condimentum dignissim justo vel faucibus.
   - type: string
     name: excerptFr
-    label: Excerpt [FR]
+    label: Excerpt [PT]
     default: Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer condimentum dignissim justo vel faucibus.
   - type: model
     name: featuredImage
@@ -95,8 +95,8 @@ fields:
       groups:
         - sectionComponent
   - type: markdown
-    name: markdown_content_fr
-    label: Content [FR]
+    name: markdown_content_pt
+    label: Content [PT]
     default: 'Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.'
   - type: string
     name: metaDescription

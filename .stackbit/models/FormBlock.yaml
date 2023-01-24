@@ -21,34 +21,34 @@ fields:
       - type: TextFormControl
         name: name
         label: Name
-        labelFr: Nom
+        labelPt: Nom
         hideLabel: true
         placeholder: Name
-        placeholderFr: Nom
+        placeholderPt: Nom
         isRequired: false
         width: 1/2
       - type: EmailFormControl
         name: email
         label: Email
-        labelFr: Email
+        labelPt: Email
         hideLabel: true
         placeholder: Email
-        placeholderFr: Email
+        placeholderPt: Email
         isRequired: true
         width: full
       - type: TextFormControl
         name: address
         label: Address
-        labelFr: Addresse
+        labelPt: Addresse
         hideLabel: true
         placeholder: Address
-        placeholderFr: Addresse
+        placeholderPt: Addresse
         isRequired: true
         width: full
       - type: CheckboxFormControl
         name: updatesConsent
         label: Sign me up to receive updates
-        labelFr: Je souhaite recevoir des mises à jour
+        labelPt: Je souhaite recevoir des mises à jour
         isRequired: false
         width: full
   - type: string

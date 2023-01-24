@@ -9,10 +9,10 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Events
-    titleFr: Événements
+    titlePt: Événements
     text: |
       Checkout our upcoming events and our past events!
-    textFr: |
+    textPt: |
       Jetez un coup d'œil à nos événements à venir et à nos événements passés !
     actions: []
     styles:
@@ -46,14 +46,14 @@ sections:
     colors: colors-c
     elementId: ''
     title: Upcoming Events
-    subtitleFr: Consultez nos événements à venir
+    subtitlePt: Consultez nos événements à venir
     items:
       - type: FeaturedItem
         elementId: ''
         title: Comp Eng Hangout
-        titleFr: Rencontre de génie d'info
+        titlePt: Rencontre de génie d'info
         subtitle: '11/23/2022, 6PM - 8PM'
-        subtitleFr: '23/11/2022, 18:00 - 20:00'
+        subtitlePt: '23/11/2022, 18:00 - 20:00'
         text: >
           Location: SITE 4026
 
@@ -62,7 +62,7 @@ sections:
 
           Drop by the IEEE office, located in STE 4026, and hang out with other
           CEG students!
-        textFr: >
+        textPt: >
           Lieu: SITE 4026
 
 
@@ -111,21 +111,21 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    titleFr: Evénements prochains
+    titlePt: Evénements prochains
     subtitle: Check out our upcoming events
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
     title: Past Events
-    titleFr: Événements passés
+    titlePt: Événements passés
     subtitle: Click the button below to view more events.
     items:
       - type: FeaturedItem
         elementId: ''
         title: WIE Fall By-Elections
-        titleFr: Elections partielles de l'automne WIE
+        titlePt: Elections partielles de l'automne WIE
         subtitle: '11/20/2022, 12:30PM'
-        subtitleFr: '20/11/2022, 12:30'
+        subtitlePt: '20/11/2022, 12:30'
         text: >
           Location:
           [Zoom](https://us06web.zoom.us/j/95068465084?pwd=SjV2aFFoTjF2bHY0UHN6VTEvaWlmUT09)
@@ -136,7 +136,7 @@ sections:
 
           If you’re interested in being a part of IEEE WIE uOttawa, join us on
           Sunday, November 20th, 2022 at 12:30 PM in SITE 4026.
-        textFr: >
+        textPt: >
           Lieu:
           [Zoom](https://us06web.zoom.us/j/95068465084?pwd=SjV2aFFoTjF2bHY0UHN6VTEvaWlmUT09)
           & SITE 4026
@@ -169,8 +169,8 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: Microchips & DIps
-        titleFr: Microchips & DIps
-        subtitleFr: '12/11/2022, 13:00 - 15:00'
+        titlePt: Microchips & DIps
+        subtitlePt: '12/11/2022, 13:00 - 15:00'
         text: >
           Location: STEM 117
 
@@ -180,7 +180,7 @@ sections:
           Interested in learning about embedded systems? Sign up for our 3 part
           workshops where we'll be teaching you to how to build and program an
           embedded device from scratch!
-        textFr: >
+        textPt: >
           Lieu: STEM 117
 
 
@@ -213,9 +213,9 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: BELE Game Night
-        titleFr: Soirée de jeux BELE
+        titlePt: Soirée de jeux BELE
         subtitle: '11/10/2022, 5PM - 8PM'
-        subtitleFr: '10/11/2022, 17:00- 20:00'
+        subtitlePt: '10/11/2022, 17:00- 20:00'
         text: >
           Location: CBY A04
 
@@ -224,7 +224,7 @@ sections:
 
           Join us to get to know your big eng/little engs and some of the women
           on campus who already have your back.
-        textFr: >
+        textPt: >
           Lieu: CBY A04
 
 
@@ -253,16 +253,16 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: CEG Career Panel
-        titleFr: Panel sur les carrières en CEG
+        titlePt: Panel sur les carrières en CEG
         subtitle: '11/07/2022, 6:30PM - 9PM'
-        subtitleFr: '07/11/2022, 18:30 - 21:00'
+        subtitlePt: '07/11/2022, 18:30 - 21:00'
         text: |
           Location: CBY A04
 
 
 
           Join us for a Computer Engineering Alumni Career Panel.
-        textFr: >
+        textPt: >
           Lieu: CBY A04
 
 
@@ -292,16 +292,16 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: Networking with Ciena
-        titleFr: Networking avec Ciena
+        titlePt: Networking avec Ciena
         subtitle: '10/20/2022, 6PM - 8PM'
-        subtitleFr: '20/10/2022, 18:00 - 20:00'
+        subtitlePt: '20/10/2022, 18:00 - 20:00'
         text: >
           Location: STEM 117
 
 
           It’s time for some networking! Join CSSA, ESS, SESA, and IEEE for one
           of Ciena’s biggest networking event!
-        textFr: >
+        textPt: >
           Lieu: STEM 117
 
 
@@ -333,16 +333,16 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: Fall By-Elections
-        titleFr: Élections partielles de l'automne
+        titlePt: Élections partielles de l'automne
         subtitle: '10/05/2022, 7PM EST.'
-        subtitleFr: '05/10/2022, 19:00 EST.'
+        subtitlePt: '05/10/2022, 19:00 EST.'
         text: >
           Run for vacant positions in our execs team!
 
 
           Location: STE 4026 or on
           [Zoom](https://us06web.zoom.us/j/95068465084?pwd=SjV2aFFoTjF2bHY0UHN6VTEvaWlmUT09)
-        textFr: >
+        textPt: >
           Lieu: STE 4026 ou sur
           [Zoom](https://us06web.zoom.us/j/95068465084?pwd=SjV2aFFoTjF2bHY0UHN6VTEvaWlmUT09)
 
@@ -370,9 +370,9 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: Spectroscopy Seminar
-        titleFr: Séminaire sur la Spectroscopie
+        titlePt: Séminaire sur la Spectroscopie
         subtitle: '09/30/2022, 2PM'
-        subtitleFr: '30/09/2022, 14:00'
+        subtitlePt: '30/09/2022, 14:00'
         text: >+
           Location: ARC 233 & on
           [Zoom](https://us06web.zoom.us/j/82543006085?pwd=b09oOG9weWFrckl2TXR6SmdNMkpDdz09)
@@ -381,7 +381,7 @@ sections:
           Ever wondered what ultra-narrow optical spectral features are?
           Interested in spectroscopy? This event is for you!
 
-        textFr: >+
+        textPt: >+
           Lieu: ARC 233 et sur
           [Zoom](https://us06web.zoom.us/j/82543006085?pwd=b09oOG9weWFrckl2TXR6SmdNMkpDdz09)
 
@@ -411,16 +411,16 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: DART Watch Party
-        titleFr: Soirée de visionnement du lancement de DART
+        titlePt: Soirée de visionnement du lancement de DART
         subtitle: '09/26/2022, 6PM - 7:30PM'
-        subtitleFr: '26/09/2022, 18:00 - 19:30'
+        subtitlePt: '26/09/2022, 18:00 - 19:30'
         text: >
           Location: STE 4026
 
 
           Join us to watch as NASA makes history with the DART (Double Asteroid
           Redirection Test) mission.
-        textFr: >
+        textPt: >
           Lieu: STE 4026
 
 
@@ -447,12 +447,12 @@ sections:
       - type: FeaturedItem
         elementId: ''
         title: Photonics Seminar
-        titleFr: Séminaire sur la photonique
+        titlePt: Séminaire sur la photonique
         subtitle: '09/09/2022, 2PM'
-        subtitleFr: '09/09/2022, 14:00'
+        subtitlePt: '09/09/2022, 14:00'
         text: |
           Location: ARC 233 & on [Zoom](https://us06web.zoom.us/j/82062546196)
-        textFr: |
+        textPt: |
           Lieu: ARC 233 et sur [Zoom](https://us06web.zoom.us/j/82062546196)
         isIcon: false
         featuredImage:
@@ -477,9 +477,9 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Annual General Meeting
-        titleFr: Assemblée générale annuelle
+        titlePt: Assemblée générale annuelle
         subtitle: '04/30/2022, 10AM'
-        subtitleFr: '30/04/2022, 10:00'
+        subtitlePt: '30/04/2022, 10:00'
         actions:
           - type: Button
             label: Learn More
@@ -500,9 +500,9 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: Pomodoro Study Session
-        titleFr: Session d'étude Pomodoro
+        titlePt: Session d'étude Pomodoro
         subtitle: '04/06/2022, 12PM - 6PM'
-        subtitleFr: '06/04/2022, 12:00 - 18:00'
+        subtitlePt: '06/04/2022, 12:00 - 18:00'
         actions:
           - type: Button
             label: Learn More
@@ -523,9 +523,9 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: 13th Wine and Cheese
-        titleFr: 13ème édition du Wine and Cheese
+        titlePt: 13ème édition du Wine and Cheese
         subtitle: '04/01/2022, 6PM - 10PM'
-        subtitleFr: '01/04/2022, 18:00 - 22:00'
+        subtitlePt: '01/04/2022, 18:00 - 22:00'
         actions:
           - type: Button
             label: Learn More
@@ -546,9 +546,9 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: DeFi The Conventional
-        titleFr: DeFi The Conventional
+        titlePt: DeFi The Conventional
         subtitle: '03/25/2022, 6PM - 03/27/2022, 2PM'
-        subtitleFr: '23/03/2022, 18:00 - 27/03/2022, 14:00'
+        subtitlePt: '23/03/2022, 18:00 - 27/03/2022, 14:00'
         actions:
           - type: Button
             label: Learn More
@@ -569,9 +569,9 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: 14th Battle Royale
-        titleFr: 14è édition de Battle Royale
+        titlePt: 14è édition de Battle Royale
         subtitle: 03/04/2022 - 03/06/2022
-        subtitleFr: 04/03/2022 - 06/03/2022
+        subtitlePt: 04/03/2022 - 06/03/2022
         actions:
           - type: Button
             label: Learn More
@@ -592,9 +592,9 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: Movie Night
-        titleFr: Soirée Ciné
+        titlePt: Soirée Ciné
         subtitle: '02/26/2022, 8PM'
-        subtitleFr: '26/02/2022, 20:00'
+        subtitlePt: '26/02/2022, 20:00'
         actions:
           - type: Button
             label: Learn More
@@ -615,9 +615,9 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: Cookies n' Cram - CSI2110
-        titleFr: Cookies n' Cram - CSI2110
+        titlePt: Cookies n' Cram - CSI2110
         subtitle: '12/04/2021, 1PM - 3PM'
-        subtitleFr: '04/12/2021 - 13:00 - 15:00'
+        subtitlePt: '04/12/2021 - 13:00 - 15:00'
         actions:
           - type: Button
             label: Learn More
@@ -638,9 +638,9 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: IEEE EngiBEERing
-        titleFr: IEEE EngiBEERing
+        titlePt: IEEE EngiBEERing
         subtitle: '11/29/2021, 7:30PM'
-        subtitleFr: '29/11/2021, 18:00 - 27/03/2022, 14:00'
+        subtitlePt: '29/11/2021, 18:00 - 27/03/2022, 14:00'
         actions:
           - type: Button
             label: Learn More
@@ -661,9 +661,9 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: Cookies n' Cram - ELG2138
-        titleFr: Cookies n' Cram - ELG2138
+        titlePt: Cookies n' Cram - ELG2138
         subtitle: '11/29/2021, 5PM - 7PM'
-        subtitleFr: '29/11/2021 - 17:00 - 19:00'
+        subtitlePt: '29/11/2021 - 17:00 - 19:00'
         actions:
           - type: Button
             label: Learn More
@@ -684,9 +684,9 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: Cookies n' Cram - ITI1120/GNG1106
-        titleFr: Cookies n' Cram - ITI1120/GNG1106
+        titlePt: Cookies n' Cram - ITI1120/GNG1106
         subtitle: '11/28/2021, 7PM - 9PM'
-        subtitleFr: '28/11/2021 - 19:00 - 21:00'
+        subtitlePt: '28/11/2021 - 19:00 - 21:00'
         actions:
           - type: Button
             label: Learn More
@@ -707,9 +707,9 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: Cookies n' Cram - CEG2136
-        titleFr: Cookies n' Cram - CEG2136
+        titlePt: Cookies n' Cram - CEG2136
         subtitle: '11/28/2021, 1PM - 3PM'
-        subtitleFr: '28/11/2021 - 13:00 - 15:00'
+        subtitlePt: '28/11/2021 - 13:00 - 15:00'
         actions:
           - type: Button
             label: Learn More
@@ -730,9 +730,9 @@ sections:
           elementId: ''
       - type: FeaturedItem
         title: WIE Tech Panel
-        titleFr: Panel tech WIE
+        titlePt: Panel tech WIE
         subtitle: '03/25/2021, 7PM - 9:30PM'
-        subtitleFr: '25/03/2021, 19:00 - 21:30'
+        subtitlePt: '25/03/2021, 19:00 - 21:30'
         actions:
           - type: Button
             label: Learn More
@@ -781,7 +781,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    subtitleFr: Cliquez sur le bouton ci-dessous pour voir plus d'événements.
+    subtitlePt: Cliquez sur le bouton ci-dessous pour voir plus d'événements.
 metaDescription: Checkout our upcoming events and our past events!
 metaTags:
   - type: MetaTag

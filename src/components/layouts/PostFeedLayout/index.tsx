@@ -12,14 +12,14 @@ import { I18NContext } from '../../../context/i18Ncontext';
 export default function PostFeedLayout(props) {
     const { page, site } = props;
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
-    const { title, titleFr, topSections = [], bottomSections = [], pageIndex, baseUrlPath, numOfPages, items, postFeed, styles = {} } = page;
+    const { title, titlePt, topSections = [], bottomSections = [], pageIndex, baseUrlPath, numOfPages, items, postFeed, styles = {} } = page;
     const colors = postFeed?.colors ?? 'colors-d';
     const PostFeedSection = getComponent('PostFeedSection');
     const pageLinks = PageLinks({ pageIndex, baseUrlPath, numOfPages });
     const { displayMode } = React.useContext(DisplayModeContext);
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titleFr ? titleFr : title;
-    const getTitleFieldPath = () => locale === 'fr' && titleFr ? 'titleFr' : 'title';
+    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
+    const getTitleFieldPath = () => locale === 'fr' && titlePt ? 'titlePt' : 'title';
 
     return (
         <BaseLayout page={page} site={site}>

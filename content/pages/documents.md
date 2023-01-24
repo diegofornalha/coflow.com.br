@@ -8,12 +8,12 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Documents
-    titleFr: Documents
+    titlePt: Documents
     text: >
       On this page, you will find supporting documentation detailing the
       branch's operations such as the constitution, code of conduct, budget, and
       meeting minutes.
-    textFr: >
+    textPt: >
       Sur cette page, vous trouverez des documents détaillant le fonctionnement
       de la branche, tels que la constitution, le code de conduite, le budget et
       les procès-verbaux des réunions.
@@ -49,15 +49,15 @@ sections:
     colors: colors-d
     elementId: ''
     title: General Documents
-    titleFr: Documents généraux
+    titlePt: Documents généraux
     items:
       - type: FeaturedItem
         title: Constitution
-        titleFr: Constitution
+        titlePt: Constitution
         text: >
           The constitution defines the rules and policies that govern the
           branch's operations.
-        textFr: >
+        textPt: >
           La constitution définit les règles et les politiques qui régissent les
           opérations de la branche.
         actions:
@@ -65,18 +65,18 @@ sections:
             label: View
             showIcon: true
             icon: arrowRight
-            url: /files/IEEE_uOttawa_Constitution_2022.pdf
+            url: /
             style: secondary
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         title: IEEE Code of Conduct
-        titleFr: Code de conduite IEEE
+        titlePt: Code de conduite IEEE
         text: >
           Highlights values that must be followed by IEEE affiliates to maintain
           the highest standards of integrity.
-        textFr: >
+        textPt: >
           Met en évidence les valeurs que doivent suivre les affiliés de l'IEEE
           pour maintenir les plus hauts standards d'intégrité.
         actions:
@@ -92,11 +92,11 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Budget
-        titleFr: Budget
+        titlePt: Budget
         text: >
           The budget document tracks all planned and actual expenses and
           revenues.
-        textFr: >
+        textPt: >
           Le document budgétaire permet de suivre toutes les dépenses et revenus
           prévus et réels.
         actions:
@@ -134,23 +134,23 @@ sections:
     colors: colors-c
     elementId: ''
     title: 2022-2023 Meeting Minutes
-    titleFr: Comptes rendus des réunions 2022-2023
+    titlePt: Comptes rendus des réunions 2022-2023
     subtitle: >-
       Check out the Internal meeting minutes to catch a glimpse of the
       discussions that drive what we do.
-    subtitleFr: >-
+    subtitlePt: >-
       Consultez les comptes-rendus des réunions internes pour avoir un aperçu
       des discussions qui motivent nos actions.
     items:
       - type: FeaturedItem
         title: IEEE Executive Meeting Minutes
-        titleFr: Comptes rendus de la réunion exécutive
+        titlePt: Comptes rendus de la réunion exécutive
         actions:
           - type: Button
             label: View
             altText: ''
             url: >-
-              /files/IEEE_Executive_Meeting_Minutes_2022-11-04.pdf
+              /
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -160,16 +160,16 @@ sections:
           self:
             textAlign: left
         subtitle: '2022-11-04'
-        subtitleFr: 04-11-2022
+        subtitlePt: 04-11-2022
       - type: FeaturedItem
         title: IEEE Executive Meeting Minutes
-        titleFr: Comptes rendus de la réunion exécutive
+        titlePt: Comptes rendus de la réunion exécutive
         actions:
           - type: Button
             label: View
             altText: ''
             url: >-
-              /files/IEEE_Executive_Meeting_Minutes_2022-10-12_(Emergency_Budget_Meeting).pdf
+              /
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -179,15 +179,15 @@ sections:
           self:
             textAlign: left
         subtitle: '2022-10-12'
-        subtitleFr: 12-10-2022
+        subtitlePt: 12-10-2022
       - type: FeaturedItem
         title: IEEE Executive Meeting Minutes
-        titleFr: Comptes rendus de la réunion exécutive
+        titlePt: Comptes rendus de la réunion exécutive
         actions:
           - type: Button
             label: View
             altText: ''
-            url: /files/IEEE_Executive_Meeting_Minutes_2022-10-05.pdf
+            url: /
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -197,15 +197,15 @@ sections:
           self:
             textAlign: left
         subtitle: '2022-10-05'
-        subtitleFr: 05-10-2022
+        subtitlePt: 05-10-2022
       - type: FeaturedItem
         title: IEEE Executive Meeting Minutes
-        titleFr: Comptes rendus de la réunion exécutive
+        titlePt: Comptes rendus de la réunion exécutive
         actions:
           - type: Button
             label: View
             altText: ''
-            url: /files/IEEE_Executive_Meeting_Minutes_2022-09-17.pdf
+            url: /
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -215,15 +215,15 @@ sections:
           self:
             textAlign: left
         subtitle: '2022-09-17'
-        subtitleFr: 17-09-2022
+        subtitlePt: 17-09-2022
       - type: FeaturedItem
         title: IEEE Executive Meeting Minutes
-        titleFr: Comptes rendus de la réunion exécutive
+        titlePt: Comptes rendus de la réunion exécutive
         actions:
           - type: Button
             label: View
             altText: ''
-            url: /files/IEEE_Executive_Meeting_Minutes_2022-07-10.pdf
+            url: /
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -233,7 +233,7 @@ sections:
           self:
             textAlign: left
         subtitle: '2022-07-10'
-        subtitleFr: 10-07-2022
+        subtitlePt: 10-07-2022
     actions: []
     columns: 2
     spacingX: 28
@@ -259,39 +259,39 @@ sections:
     colors: colors-d
     elementId: ''
     title: Miscellaneous documents
-    titleFr: Autres documents
+    titlePt: Autres documents
     subtitle: ''
     items:
       - type: FeaturedItem
         title: Microchips & Dips Workshop Slides
-        titleFr: Diapositives de l'atelier Microchips & Dips
+        titlePt: Diapositives de l'atelier Microchips & Dips
         actions:
           - type: Button
             label: View
             showIcon: true
             icon: arrowRight
-            url: /files/IEEE_Microchips_and_Dips_Workshop_2.pdf
+            url: /
             style: primary
         styles:
           self:
             textAlign: left
         subtitle: Part 2
-        subtitleFr: Partie 2
+        subtitlePt: Partie 2
       - type: FeaturedItem
         title: Microchips & Dips Workshop Slides
-        titleFr: Diapositives de l'atelier Microchips & Dips
+        titlePt: Diapositives de l'atelier Microchips & Dips
         actions:
           - type: Button
             label: View
             showIcon: true
             icon: arrowRight
-            url: /files/IEEE_Microchips_and_Dip_Workshop_1.pdf
+            url: /
             style: primary
         styles:
           self:
             textAlign: left
         subtitle: Part 1
-        subtitleFr: Partie 1
+        subtitlePt: Partie 1
     actions: []
     columns: 3
     spacingX: 16

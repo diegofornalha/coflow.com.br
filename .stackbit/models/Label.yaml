@@ -9,7 +9,7 @@ fields:
     default: Text
     required: true
   - type: string
-    name: fr
-    label: FR
+    name: pt
+    label: PT
     default: Texte
     required: true

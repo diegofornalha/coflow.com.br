@@ -28,7 +28,7 @@ fields:
     label: Title
     default: This Is A Big Hero Headline
   - type: string
-    name: titleFr
+    name: titlePt
     label: Titre
     default: Ceci est un grand titre de page
   - type: string
@@ -36,7 +36,7 @@ fields:
     label: Subtitle
     default: The section subtitle
   - type: string
-    name: subtitleFr
+    name: subtitlePt
     label: Sous-titre
     default: Sous-titre
   - type: markdown

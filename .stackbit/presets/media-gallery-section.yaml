@@ -5,9 +5,9 @@ presets:
     data:
       colors: colors-d
       title: Gallery
-      titleFr: Galerie
+      titlePt: Galerie
       subtitle: This is the subtitle
-      subtitleFr: Sous-titre
+      subtitlePt: Sous-titre
       columns: 3
       spacing: 16
       aspectRatio: '16:9'
@@ -32,9 +32,9 @@ presets:
     data:
       colors: colors-d
       title: Gallery
-      titleFr: Galerie
+      titlePt: Galerie
       subtitle: This is the subtitle
-      subtitleFr: Sous-titre
+      subtitlePt: Sous-titre
       columns: 4
       spacing: 16
       aspectRatio: '4:3'
@@ -59,9 +59,9 @@ presets:
     data:
       colors: colors-c
       title: Gallery
-      titleFr: Galerie
+      titlePt: Galerie
       subtitle: This is the subtitle
-      subtitleFr: Sous-titre
+      subtitlePt: Sous-titre
       columns: 2
       spacing: 16
       aspectRatio: '1:1'

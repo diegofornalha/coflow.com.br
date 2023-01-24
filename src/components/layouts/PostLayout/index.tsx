@@ -14,15 +14,15 @@ import { I18NContext } from '../../../context/i18Ncontext';
 export default function PostLayout(props) {
     const { page, site } = props;
     const BaseLayout = getBaseLayoutComponent(page.baseLayout, site.baseLayout);
-    const { title, titleFr, date, author, category, colors = 'colors-d', markdown_content, markdown_content_fr, media, bottomSections = [] } = page;
+    const { title, titlePt, date, author, category, colors = 'colors-d', markdown_content, markdown_content_pt, media, bottomSections = [] } = page;
     const dateTimeAttr = dayjs(date).format('YYYY-MM-DD HH:mm:ss');
     const formattedDate = dayjs(date).format('MMMM D, YYYY');
     const { displayMode } = React.useContext(DisplayModeContext);
     const { locale } = React.useContext(I18NContext);
-    const getTitle = () => locale === 'fr' && titleFr ? titleFr : title;
-    const getMarkdownFieldPath = () => locale === 'fr' && markdown_content_fr ? markdown_content_fr : markdown_content;
-    const getTitleFieldPath = () => locale === 'fr' && titleFr ? 'titleFr' : 'title';
-    const markdownAnnotation = () => locale === 'fr' && markdown_content_fr ? 'markdown_content_fr' : 'markdown_content';
+    const getTitle = () => locale === 'fr' && titlePt ? titlePt : title;
+    const getMarkdownFieldPath = () => locale === 'fr' && markdown_content_pt ? markdown_content_pt : markdown_content;
+    const getTitleFieldPath = () => locale === 'fr' && titlePt ? 'titlePt' : 'title';
+    const markdownAnnotation = () => locale === 'fr' && markdown_content_pt ? 'markdown_content_pt' : 'markdown_content';
 
     return (
         <BaseLayout page={page} site={site}>

@@ -104,7 +104,8 @@ sections:
             label: View
             showIcon: true
             icon: arrowRight
-            url: https://blushing-radiator-780.notion.site/IEEE-Budget-6d683f8d7e9e43f78f782d1911bf5ddabudget.pdf
+            url: >-
+              https://blushing-radiator-780.notion.site/IEEE-Budget-6d683f8d7e9e43f78f782d1911bf5ddabudget.pdf
             style: secondary
         styles:
           self:
@@ -131,7 +132,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: FeaturedItemsSection
-    colors: colors-c
+    colors: colors-b
     elementId: ''
     title: 2022-2023 Meeting Minutes
     titlePt: Comptes rendus des réunions 2022-2023
@@ -149,8 +150,7 @@ sections:
           - type: Button
             label: View
             altText: ''
-            url: >-
-              /
+            url: /
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -168,8 +168,7 @@ sections:
           - type: Button
             label: View
             altText: ''
-            url: >-
-              /
+            url: /
             showIcon: true
             icon: arrowRight
             iconPosition: right

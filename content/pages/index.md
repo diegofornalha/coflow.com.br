@@ -34,6 +34,14 @@ sections:
         icon: arrowRight
         url: /
         style: primary
+      - type: Link
+        label: Learn More
+        altText: ''
+        url: /dicord
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
     backgroundImage: null
     styles:
       self:

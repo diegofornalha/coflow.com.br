@@ -24,9 +24,9 @@ sections:
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
-    textFr: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    textFr: >
+      O mapa completo para você impulsionar sua evolução e acessar as melhores
+      oportunidades da sua carreira como dev.
     actions:
       - type: Button
         label: DISCORD

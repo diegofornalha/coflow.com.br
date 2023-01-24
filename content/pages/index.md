@@ -20,7 +20,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: Let's do this
-    titlePt: Acelere cada etapa da sua carreira em programação
+    titlePt: Acelere cada etapa da sua carreira em programação Web3
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.

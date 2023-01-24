@@ -108,7 +108,7 @@ sections:
         featuredIcon: play
         isIcon: true
         text: |
-          ##OnGoing
+          ## OnGoing
     actions: []
     columns: 3
     spacingX: 32

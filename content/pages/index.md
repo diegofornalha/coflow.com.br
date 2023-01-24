@@ -50,7 +50,6 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-b
     elementId: ''
-    subtitlePt: '800 King Edward Ave, Ottawa, ON K1N 6N5, STE 4026'
     items:
       - type: FeaturedItem
         title: Use our lab equipment

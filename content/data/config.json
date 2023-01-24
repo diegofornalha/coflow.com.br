@@ -154,7 +154,6 @@
         "variant": "variant-b",
         "colors": "colors-b",
         "contacts": {
-            "phoneNumber": "613-562-5800 ext. 6196",
             "phoneAltText": "Our phone",
             "emailAltText": "Our email",
             "address": "800 King Edward Avenue, STE 4026",

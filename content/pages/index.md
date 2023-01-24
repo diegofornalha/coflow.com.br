@@ -40,13 +40,6 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/Christmas 2022.JPG
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 25
     styles:
       self:
         height: screen

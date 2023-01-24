@@ -206,7 +206,16 @@ sections:
             https://assets.stackbit.com/components/images/default/default-image.png
           altText: Item image
         featuredIcon: apple
-        actions: []
+        actions:
+          - type: Button
+            label: Learn More
+            altText: ''
+            url: /
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         styles:
           self:
             textAlign: left

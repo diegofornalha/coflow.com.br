@@ -139,8 +139,8 @@ sections:
       text:
         textAlign: left
     subtitlePt: >-
-      CVM declara empresa não autorizada a atuar como intermediária de valores
-      mobiliários, determina suspensão imediata de ofertas públicas
+      Banco Central é esperado para ser a principal agência reguladora para
+      criptomoedas
   - type: HeroSection
     colors: colors-e
     elementId: ''

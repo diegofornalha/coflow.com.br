@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Brasil aprova Lei de Criptoativos para regular o mercado de ativos digitais
+metaTitle: Lei de Criptoativos para regular o mercado de ativos digitais
 metaDescription: >-
   Banco Central é esperado para ser a principal agência reguladora para
   criptomoedas

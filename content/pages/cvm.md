@@ -55,13 +55,34 @@ sections:
       Declaratory Act enters into force on the date of its publication in the
       Official Gazette of the Union.
 
-    textPt: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    textPt: >+
+      O Superintendente de Relações com o Mercado e Intermediários da Comissão
+      de Valores Mobiliários (CVM) anuncia que, com base na competência
+      atribuída pelo artigo 39, V e VI, do Regimento Interno da CVM (Resolução
+      CVM nº 24/2021), e com fundamento no artigo 9º, §1º, incisos III e IV,
+      combinado com os artigos 15 e 16 da Lei nº 6.385, de 7 de dezembro de
+      1976, foi constatado que a corretora ROBOFOREX Ltd, através do seu site
+      "<https://roboforex.com/>", busca atrair clientes residentes no Brasil
+      para operações com valores mobiliários, mas não possui autorização da CVM
+      para atuar como intermediária de valores mobiliários. Dessa forma, a CVM
+      declarou: (I) aos participantes do mercado de valores mobiliários e ao
+      público em geral que a empresa ROBOFOREX Ltd não está autorizada pela CVM
+      a atrair clientes residentes no Brasil, pois não faz parte do sistema de
+      distribuição previsto no artigo 15 da Lei nº 6.385, de 1976; (II)
+      determinou à ROBOFOREX Ltd a imediata suspensão de qualquer oferta
+      pública, de forma direta ou indireta, a investidores residentes no Brasil
+      de oportunidades de investimento em valores mobiliários, por qualquer
+      meio, alertando que a não observância da presente determinação sujeitará
+      tanto as referidas empresas, como toda e qualquer pessoa que porventura
+      venha a ser identificada como participante dos atos que se reputam como
+      irregulares, à imposição de multa cominatória diária, no valor de R$
+      1.000,00 (um mil reais), sem prejuízo da responsabilidade pelas infrações
+      já cometidas antes da publicação deste Ato Declaratório, com a imposição
+      da penalidade cabível, nos termos do artigo 11 da Lei nº 6.385, de 1976,
+      após o regular processo administrativo sancionador; e (III) que este Ato
+      Declaratório entra em vigor na data de sua publicação no Diário Oficial da
+      União.
+
     styles:
       self:
         height: auto

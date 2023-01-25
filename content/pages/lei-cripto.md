@@ -27,7 +27,9 @@ sections:
     elementId: ''
     variant: variant-a
     title: Brazil Approves Cryptoassets Law to Regulate Digital Assets Market
-    titlePt: Lei de Criptoativos
+    titlePt: >-
+      Brasil aprova Lei de Criptoativos para regular o mercado de ativos
+      digitais
     subtitle: >-
       Central Bank expected to be the main regulatory agency for
       cryptocurrencies

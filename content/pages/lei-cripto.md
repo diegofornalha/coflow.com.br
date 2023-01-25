@@ -5,7 +5,7 @@ metaDescription: >-
   Banco Central é esperado para ser a principal agência reguladora para
   criptomoedas
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/padrao/flow-coflow-logo.png
 metaTags:
   - type: MetaTag
     property: 'og:type'

@@ -20,7 +20,7 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@diegofornalha'
-title: FlowLabs
+title: CVM
 sections:
   - type: TextSection
     colors: colors-d

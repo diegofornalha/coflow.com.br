@@ -29,7 +29,9 @@ sections:
     title: >-
       ROBOFOREX Ltd prohibited from attracting clients in Brazil by the
       Securities and Exchange Commission
-    titlePt: Section titre
+    titlePt: >-
+      ROBOFOREX Ltd proibida de atrair clientes no Brasil pela Comissão de
+      Valores Mobiliários
     subtitle: >-
       CVM declares company unauthorized to act as securities intermediary,
       orders immediate suspension of public offerings

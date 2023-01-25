@@ -132,7 +132,7 @@ sections:
       - type: Button
         label: Learn More
         altText: ''
-        url: /zap
+        url: 'https://flow.coflow.com.br/flow-brasil-embaixador-aprendiz/'
         showIcon: false
         icon: arrowRight
         iconPosition: right

@@ -30,7 +30,9 @@ sections:
       ROBOFOREX Ltd prohibited from attracting clients in Brazil by the
       Securities and Exchange Commission
     titlePt: Section titre
-    subtitle: ''
+    subtitle: >-
+      CVM declares company unauthorized to act as securities intermediary,
+      orders immediate suspension of public offerings
     text: >+
       The Superintendent of Market Relations and Intermediaries of the
       Securities and Exchange Commission (CVM) announces that, based on the

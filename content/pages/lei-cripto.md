@@ -26,9 +26,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: >-
-      ROBOFOREX Ltd prohibited from attracting clients in Brazil by the
-      Securities and Exchange Commission
+    title: Lei de Criptoativos
     titlePt: >-
       ROBOFOREX Ltd proibida de atrair clientes no Brasil pela Comissão de
       Valores Mobiliários

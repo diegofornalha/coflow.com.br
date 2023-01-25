@@ -29,7 +29,6 @@ sections:
     title: The Section Title
     titlePt: Section titre
     subtitle: ''
-    subtitlePt: Section sous-titre
     text: >+
       The Superintendent of Market Relations and Intermediaries of the
       Securities and Exchange Commission (CVM) announces that, based on the

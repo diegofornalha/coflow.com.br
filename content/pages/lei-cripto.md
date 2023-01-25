@@ -15,7 +15,7 @@ metaTags:
     content: CoFlow Logo
   - type: MetaTag
     property: 'og:url'
-    content: 'https://ieeeuottawa.ca/about'
+    content: 'https://coflow.com.'
   - type: MetaTag
     property: 'og:site_name'
     content: CoFlow

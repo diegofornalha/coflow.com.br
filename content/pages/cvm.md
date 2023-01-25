@@ -30,13 +30,32 @@ sections:
     titlePt: Section titre
     subtitle: ''
     subtitlePt: Section sous-titre
-    text: |-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+    text: >+
+      The Superintendent of Market Relations and Intermediaries of the
+      Securities and Exchange Commission (CVM) announces that, based on the
+      authority granted by Article 39, V and VI, of the CVM's Internal
+      Regulation (Resolution CVM No. 24/2021), and based on Article 9, §1, III
+      and IV, in combination with Articles 15 and 16 of Law No. 6,385, of
+      December 7, 1976, it has been determined that the brokerage firm ROBOFOREX
+      Ltd, through its website "<https://roboforex.com/>", is seeking to attract
+      clients residing in Brazil for securities transactions, but does not hold
+      authorization from the CVM to act as a securities intermediary. Therefore,
+      the CVM has declared: (I) to the securities market participants and the
+      general public that ROBOFOREX Ltd is not authorized by the CVM to attract
+      clients residing in Brazil, as it does not participate in the distribution
+      system provided for in Article 15 of Law No. 6,385, of 1976; (II) ordered
+      ROBOFOREX Ltd to immediately suspend any public offering, directly or
+      indirectly, to investors residing in Brazil of investment opportunities in
+      securities, through any means, warning that non-compliance with this
+      determination will subject both the company and any person identified as
+      participating in the acts considered irregular to a daily fine of
+      R$1,000.00, without prejudice to the responsibility for the infractions
+      committed before the publication of this Declaratory Act, with the
+      imposition of the applicable penalty under Article 11 of Law No. 6,385, of
+      1976, after a regular administrative penalty process; and (III) that this
+      Declaratory Act enters into force on the date of its publication in the
+      Official Gazette of the Union.
+
     textPt: |-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo

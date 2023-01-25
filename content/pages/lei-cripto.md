@@ -112,7 +112,7 @@ sections:
     colors: colors-e
     elementId: ''
     backgroundSize: full
-    title: FlowLabs
+    title: CoFlow
     titlePt: FlowLabs
     text: >+
       Our company shares the same vision as Dapper Labs, which is to create

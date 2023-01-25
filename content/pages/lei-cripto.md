@@ -1,7 +1,9 @@
 ---
 layout: PageLayout
 metaTitle: FlowLabs
-metaDescription: null
+metaDescription: >-
+  Banco Central é esperado para ser a principal agência reguladora para
+  criptomoedas
 addTitleSuffix: true
 socialImage: null
 metaTags:

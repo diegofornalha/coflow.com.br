@@ -26,7 +26,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: Lei de Criptoativos
+    title: Brazil Approves Cryptoassets Law to Regulate Digital Assets Market
     titlePt: Lei de Criptoativos
     subtitle: >-
       CVM declares company unauthorized to act as securities intermediary,

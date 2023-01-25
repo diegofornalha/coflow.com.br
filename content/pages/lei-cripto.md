@@ -29,8 +29,8 @@ sections:
     title: Brazil Approves Cryptoassets Law to Regulate Digital Assets Market
     titlePt: Lei de Criptoativos
     subtitle: >-
-      CVM declares company unauthorized to act as securities intermediary,
-      orders immediate suspension of public offerings
+      Central Bank expected to be the main regulatory agency for
+      cryptocurrencies
     text: >
       The law states that it will be the responsibility of the Executive to
       appoint a regulatory agency to establish the guidelines for the digital

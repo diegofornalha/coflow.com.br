@@ -22,7 +22,7 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@diegofornalha'
-title: CVM
+title: Brasil aprova Lei de Criptoativos para regular o mercado de ativos digitais
 sections:
   - type: TextSection
     colors: colors-d

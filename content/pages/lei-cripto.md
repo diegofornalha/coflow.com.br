@@ -31,32 +31,40 @@ sections:
     subtitle: >-
       CVM declares company unauthorized to act as securities intermediary,
       orders immediate suspension of public offerings
-    text: >+
-      The Superintendent of Market Relations and Intermediaries of the
-      Securities and Exchange Commission (CVM) announces that, based on the
-      authority granted by Article 39, V and VI, of the CVM's Internal
-      Regulation (Resolution CVM No. 24/2021), and based on Article 9, §1, III
-      and IV, in combination with Articles 15 and 16 of Law No. 6,385, of
-      December 7, 1976, it has been determined that the brokerage firm ROBOFOREX
-      Ltd, through its website "<https://roboforex.com/>", is seeking to attract
-      clients residing in Brazil for securities transactions, but does not hold
-      authorization from the CVM to act as a securities intermediary. Therefore,
-      the CVM has declared: (I) to the securities market participants and the
-      general public that ROBOFOREX Ltd is not authorized by the CVM to attract
-      clients residing in Brazil, as it does not participate in the distribution
-      system provided for in Article 15 of Law No. 6,385, of 1976; (II) ordered
-      ROBOFOREX Ltd to immediately suspend any public offering, directly or
-      indirectly, to investors residing in Brazil of investment opportunities in
-      securities, through any means, warning that non-compliance with this
-      determination will subject both the company and any person identified as
-      participating in the acts considered irregular to a daily fine of
-      R$1,000.00, without prejudice to the responsibility for the infractions
-      committed before the publication of this Declaratory Act, with the
-      imposition of the applicable penalty under Article 11 of Law No. 6,385, of
-      1976, after a regular administrative penalty process; and (III) that this
-      Declaratory Act enters into force on the date of its publication in the
-      Official Gazette of the Union.
+    text: >
+      The law states that it will be the responsibility of the Executive to
+      appoint a regulatory agency to establish the guidelines for the digital
+      assets market in Brazil. The trend is that this institution will be the
+      Central Bank (BC), since the BC has actively participated in the sector to
+      develop projects in blockchain and cryptography, such as the digital real.
 
+
+      The proposal also includes incentives for green mining of digital
+      currencies, that is, mining of cryptocurrencies using clean and renewable
+      energy sources. In addition, the law specifies crimes against popular
+      economy, such as money laundering and pyramid scheme, in a complementary
+      way to what the Securities and Exchange Commission (CVM) established in
+      its own opinion on the subject.
+
+
+      One of the points criticized by analysts was the proposal to separate the
+      cash of companies from the funds of clients, called patrimonial
+      segregation. This mechanism was imported from the traditional market and
+      is a way to protect users from possible financial problems of
+      institutions. As an example of reasons to keep the requirement of
+      patrimonial segregation, representatives of this market used as an example
+      the crisis at FTX, which recently went bankrupt and left customers
+      stranded. However, in the end, the text ended up keeping segregation as
+      optional.
+
+
+      In summary, the approval of the "Cryptoassets Law" is seen as an important
+      step for the development of the digital assets market in Brazil, bringing
+      more security and competitiveness to the sector, in addition to protecting
+      users from possible financial problems of institutions and combating
+      illegal activities. The regulation should be closely monitored by the
+      market and society, to evaluate its effectiveness and implement possible
+      adjustments in the future.
     textPt: >
       A lei estabelece que será responsabilidade do poder Executivo indicar um
       órgão regulador para estabelecer as diretrizes do mercado de ativos

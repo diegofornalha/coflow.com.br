@@ -27,9 +27,7 @@ sections:
     elementId: ''
     variant: variant-a
     title: Lei de Criptoativos
-    titlePt: >-
-      ROBOFOREX Ltd proibida de atrair clientes no Brasil pela Comissão de
-      Valores Mobiliários
+    titlePt: Lei de Criptoativos
     subtitle: >-
       CVM declares company unauthorized to act as securities intermediary,
       orders immediate suspension of public offerings

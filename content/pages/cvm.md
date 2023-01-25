@@ -105,6 +105,9 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitlePt: >-
+      CVM declara empresa não autorizada a atuar como intermediária de valores
+      mobiliários, determina suspensão imediata de ofertas públicas
   - type: HeroSection
     colors: colors-e
     elementId: ''

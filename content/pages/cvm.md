@@ -26,7 +26,9 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: The Section Title
+    title: >-
+      ROBOFOREX Ltd prohibited from attracting clients in Brazil by the
+      Securities and Exchange Commission
     titlePt: Section titre
     subtitle: ''
     text: >+

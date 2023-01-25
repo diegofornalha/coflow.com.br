@@ -28,7 +28,9 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: Brazil Approves Cryptoassets Law to Regulate Digital Assets Market
+    title: >-
+      Brasil aprova Lei de Criptoativos para regular o mercado de ativos
+      digitais
     titlePt: >-
       Brasil aprova Lei de Criptoativos para regular o mercado de ativos
       digitais

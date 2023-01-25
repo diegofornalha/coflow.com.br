@@ -58,19 +58,6 @@ sections:
       Official Gazette of the Union.
 
     textPt: >
-      O projeto de lei nº 4.401, também conhecido como **"Lei de
-      Criptoativos"**, foi aprovado recentemente pelo Congresso Nacional e agora
-      segue para sanção presidencial. A proposta tem como objetivo regular o
-      mercado de ativos digitais no Brasil, incluindo criptomoedas e outros
-      ativos digitais, como tokens e stablecoins.
-
-
-      A lei foi compilada a partir de uma série de projetos de lei que
-      tramitavam no Congresso, com o objetivo de facilitar a aprovação. A
-      proposta surgiu na Câmara dos Deputados e, após as alterações feitas no
-      Senado, voltou para a primeira Casa sob a alcunha de PL nº 4.401.
-
-
       A lei estabelece que será responsabilidade do poder Executivo indicar um
       órgão regulador para estabelecer as diretrizes do mercado de ativos
       digitais no Brasil. A tendência é que essa instância seja o Banco Central
@@ -116,13 +103,6 @@ sections:
       contra a economia popular, como lavagem de dinheiro e esquemas de pirâmide
       financeira, o que deve ajudar a combater esses tipos de atividades
       ilícitas.
-
-
-      A segregação patrimonial, um mecanismo importado do mercado tradicional
-      para proteger os usuários de possíveis problemas financeiros das
-      instituições, foi mantida como opcional, o que foi criticado por alguns
-      analistas. No entanto, a lei em si é vista como um passo importante para o
-      desenvolvimento do mercado de criptomoedas no Brasil.
 
 
       Em resumo, a aprovação da "Lei de Criptoativos" é vista como um passo

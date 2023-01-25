@@ -22,7 +22,7 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@diegofornalha'
-title: Brasil aprova Lei de Criptoativos para regular o mercado de ativos digitais
+title: Lei de Criptoativos
 sections:
   - type: TextSection
     colors: colors-d

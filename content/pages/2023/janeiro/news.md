@@ -24,6 +24,40 @@ metaTags:
     content: '@diegofornalha'
 title: Lei de Criptoativos
 sections:
+  - type: FeaturedPostsSection
+    colors: colors-e
+    elementId: ''
+    titlePt: Posts
+    subtitlePt: Blog posts
+    showDate: true
+    showAuthor: false
+    showExcerpt: false
+    showReadMoreLink: true
+    readMoreLinkLabel: Join adventure
+    variant: variant-b
+    actions: []
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: center
+      subtitle:
+        textAlign: center
+      actions:
+        justifyContent: center
+    title: Seasonal adventure
+    subtitle: ''
+    posts:
+      - content/pages/blog/post-three.md
+      - content/pages/blog/post-two.md
+      - content/pages/blog/post-one.md
   - type: TextSection
     colors: colors-d
     elementId: ''

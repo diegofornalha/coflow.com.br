@@ -29,7 +29,7 @@ sections:
     elementId: ''
     variant: variant-a
     title: Websummit
-    titlePt: web summit
+    titlePt: Web summit
     subtitle: >-
       Central Bank expected to be the main regulatory agency for
       cryptocurrencies

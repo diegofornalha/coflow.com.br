@@ -15,7 +15,7 @@ metaTags:
     content: CoFlow Logo
   - type: MetaTag
     property: 'og:url'
-    content: 'https://coflow.com.br/2023/janeiro/parcerias/geekhunter'
+    content: 'https://coflow.com.br/2023/janeiro/parcerias/geekhunter/'
   - type: MetaTag
     property: 'og:site_name'
     content: CoFlow

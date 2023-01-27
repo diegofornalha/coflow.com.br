@@ -98,7 +98,7 @@ sections:
             showIcon: true
             icon: arrowRight
             url: /2023/janeiro/news/cvm-roboforex
-            style: primary
+            style: secondary
             altText: Saiba Mais
         styles:
           self:

@@ -56,7 +56,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
-    title: Key value propositions
+    title: Latest News
     titlePt: Últimas Novidades
     subtitle: ''
     subtitlePt: Section sous-titre

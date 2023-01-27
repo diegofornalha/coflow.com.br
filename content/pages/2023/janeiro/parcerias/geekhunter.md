@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: eekhunter
+metaTitle: Geekhunter
 metaDescription: >-
   Banco Central é esperado para ser a principal agência reguladora para
   criptomoedas

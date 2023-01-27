@@ -22,7 +22,52 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@diegofornalha'
-title: Lei de Criptoativos
+title: >-
+  Web Summit investor accreditation includes:One investor ticket to access the
+  entire event.Assistance from Web Summit’s dedicated in-house investor team,
+  which facilitates pre-arranged meetings with founders and networking
+  opportunities with investors.Access to Web Summit’s filterable startup and
+  investor database.Access to exclusive VC roundtables and VC-related
+  content.Investor accreditation is reserved for investors actively investing in
+  startups and venture funds. This can be verified by providing Web Summit with
+  proof of recent investments and company affiliation. These investors can
+  include fund managers, for example:General partnersLimited partnersManaging
+  partnersManaging directorsInvestor accreditation will not be provided
+  to:Service providers, accountants, legal advisors, marketing or public
+  relations firms.Consultants: advisers that connect startups and
+  investors.Company founders.Government and trade agencies.Property and real
+  estate investors.Non-investing employees of investment funds, accelerators,
+  and incubators without funds under management, for example heads of community,
+  entrepreneurs in residence or marketing and project managers.Angel investors,
+  junior members of investment funds and partners in family offices and
+  foundations may apply for investor accreditation. These roles will however be
+  subject to a stricter assessment process and will be required to provide
+  information including but not limited to the following:Proof of recent
+  investments provided by an independent sourceProof of funds under management
+  and dedication to venture investmentDetails of investment focus: industry,
+  geography, and stage of developmentProof of track record of investments:
+  successful exits of previous investmentsProof of affiliation with
+  fund/companyWeb Summit monitors the investments carried out by attending
+  investors. We do this to ensure the investors who participate in our events
+  are most relevant to attending startups. Investors with no proof of investment
+  may be declined accreditation for future Web Summit events.Legitimate investor
+  applicants include partners of venture funds, corporate venture funds, angel
+  investors, limited partners, pension funds, sovereign wealth funds, corporate
+  M&A teams, and private equity actively investing in ventures.All Web Summit
+  attendees, including investors, are required to adhere to our anti-harassment
+  and accessibility policies, as well as our terms and conditions.We do not
+  tolerate anything that contradicts, compromises, violates or defames the
+  following:Equality, diversity and inclusion (for example gender-, sex- and
+  sexuality-based discrimination)Religious beliefs and ideologiesAny real,
+  verified, or factual truths (no fake news or conspiracies)People’s individual
+  privacy and dignityGaining investor accreditation is subject to assessment and
+  approval by Web Summit’s investors team, which reserves the right to approve
+  or deny accreditation via the online application process.Web Summit also
+  retains the right to cancel any investor accreditation at their discretion and
+  at any time. This includes revoking invitations made by Web Summit.Grounds for
+  cancellation cover anyone with investor accreditation who has had a change in
+  circumstances and no longer meets the above criteria or standards held by Web
+  Summit.
 sections:
   - type: TextSection
     colors: colors-d

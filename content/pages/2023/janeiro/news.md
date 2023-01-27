@@ -96,7 +96,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Focused
+        title: CVM
         titlePt: CVM
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante

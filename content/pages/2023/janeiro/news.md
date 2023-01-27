@@ -57,7 +57,7 @@ sections:
     colors: colors-d
     elementId: ''
     title: Key value propositions
-    titlePt: À la une
+    titlePt: Últimas Novidades
     subtitle: ''
     subtitlePt: Section sous-titre
     items:

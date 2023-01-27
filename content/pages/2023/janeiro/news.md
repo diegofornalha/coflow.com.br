@@ -84,7 +84,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Smarter
-        titlePt: Plus intelligent
+        titlePt: Lei Cripto
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas

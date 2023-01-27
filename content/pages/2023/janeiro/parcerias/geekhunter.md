@@ -33,7 +33,7 @@ sections:
       Your project will save time and resources by finding the best developers
       for Smart Contracts Cadence
     text: >
-      I want to introduce you to GeekHunter, it's a company specialized in dev
+      I want to introduce you to GeekHunter, it's a company specializing in dev
       recruiting. They offer a platform to connect companies with pre-selected
       dev, reversing the traditional recruitment model. Instead of developers
       applying for jobs, it's the employers who make interview invitations, and

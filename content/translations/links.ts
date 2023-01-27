@@ -31,4 +31,5 @@ export const translatedLinks = {
     "Email Us": "Envie-nos um e-mail",
     "Advocates": "Defensores",
     "Contact Us": "Entre em contato",
+    ""
 };

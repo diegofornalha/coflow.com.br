@@ -49,13 +49,9 @@ sections:
       suitable candidates for your search profile and invite them for
       interviews.
 
-
-
       Currently, we are connecting many Latin American developers with foreign
       projects. With GeekHunter, you save time and resources while finding the
       best professionals.
-
-
 
       We would like to discuss how GeekHunter can help your company find the
       best professionals in the technology area. Please contact us to schedule a

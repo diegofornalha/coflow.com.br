@@ -28,7 +28,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: websummit
+    title: Websummit
     titlePt: websummit
     subtitle: >-
       Central Bank expected to be the main regulatory agency for

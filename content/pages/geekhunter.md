@@ -30,8 +30,8 @@ sections:
     title: Find the best Smart Contracts Cadence professionals
     titlePt: Encontre os melhores profissionais de Smart Contrats Cadence
     subtitle: >-
-      Central Bank expected to be the main regulatory agency for
-      cryptocurrencies
+      Your project will save time and resources by finding the best developers
+      for Smart Contracts Cadence
     text: >
       The law states that it will be the responsibility of the Executive to
       appoint a regulatory agency to establish the guidelines for the digital

@@ -62,7 +62,7 @@ sections:
     subtitlePt: Section sous-titre
     items:
       - type: FeaturedItem
-        title: Faster
+        title: FlowLabs
         titlePt: FlowLabs
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante

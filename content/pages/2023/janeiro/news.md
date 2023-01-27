@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Faster
-        titlePt: Plus rapide
+        titlePt: FlowLabs
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas

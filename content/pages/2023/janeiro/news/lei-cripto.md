@@ -15,7 +15,7 @@ metaTags:
     content: CoFlow Logo
   - type: MetaTag
     property: 'og:url'
-    content: 'https://coflow.com.br/lei-cripto'
+    content: 'https://coflow.com.br/2023/janeiro/news/cvm'
   - type: MetaTag
     property: 'og:site_name'
     content: CoFlow

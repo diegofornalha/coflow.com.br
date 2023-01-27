@@ -32,7 +32,7 @@ sections:
     subtitle: >-
       Your project will save time and resources by finding the best developers
       for Smart Contracts Cadence
-    text: >+
+    text: >
       I would like to introduce you to GeekHunter, a company specialized in
       developer recruitment. They offer a platform to connect companies with
       pre-selected developers, reversing the traditional recruitment model.
@@ -55,7 +55,6 @@ sections:
       We would like to discuss how GeekHunter can help your company find the
       best professionals in the technology area. Please contact us to schedule a
       meeting.
-
     textPt: >
       Quero te apresentar a GeekHunter, é uma empresa especializada em
       recrutamento de devs. Oferecem uma plataforma para conectar empresas com

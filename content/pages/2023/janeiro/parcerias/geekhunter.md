@@ -36,18 +36,22 @@ sections:
       ![](https://s2.glbimg.com/djaJ-7mBc6nerppZnhXnzREWiDs=/620x345/e.glbimg.com/og/ed/f/original/2022/03/11/celso_ferrari_e_tomas_ferrari_fundadores_da_geekhunter.\_credito_jose_somensi.jpg)
 
 
-      I want to introduce you to GeekHunter, it's a company specializing in dev
-      recruiting. They offer a platform to connect companies with pre-selected
-      dev, reversing the traditional recruitment model. Instead of developers
-      applying for jobs, it's the employers who make interview invitations, and
-      candidates have the option to accept or decline.
+      I want to introduce you to GeekHunter, it's a company specializing in
+      recruiting developers. They offer a platform to connect companies with
+      pre-selected Cadence developers, reversing the traditional recruitment
+      model. Instead of developers applying for jobs, it's the employers who
+      make interview invitations and candidates have the option to accept or
+      decline.
+
 
 
       With GeekHunter, your project will have access to a daily updated database
-      with only a select group of candidates with the highest potential of being
-      hired. To attract this dev, data intelligence helps attract and pre-select
-      the best interested, allowing your project to view the most suitable
-      candidates for your search profile and invite them for interviews.
+      with only a select group of candidates with the highest potential to be
+      hired. To attract these developers, data intelligence helps to attract and
+      pre-select the best interested, allowing your project to view the most
+      suitable candidates for your search profile and invite them for
+      interviews.
+
 
 
       Currently, we are connecting many Latin American developers with foreign
@@ -55,9 +59,11 @@ sections:
       best professionals.
 
 
-      We would like to discuss how GeekHunter can help your company find the
-      best professionals in the technology area. Please contact us to schedule a
-      meeting.
+
+      The GeekHunter can help you find the best Cadence professionals for Flow
+      Blockchain. 
+
+
 
 
       **Site:** [geekhunter.com.br](https://www.geekhunter.com.br)

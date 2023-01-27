@@ -22,7 +22,7 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@diegofornalha'
-title: Lei de Criptoativos
+title: News
 sections:
   - type: FeaturedPostsSection
     colors: colors-e

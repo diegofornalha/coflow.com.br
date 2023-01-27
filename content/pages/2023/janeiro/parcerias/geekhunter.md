@@ -32,7 +32,10 @@ sections:
     subtitle: >-
       Your project will save time and resources by finding the best developers
       for Smart Contracts Cadence
-    text: >+
+    text: >
+      ![](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9775a4eb-e332-491a-ae90-0009e8210c33/Untitled.png)
+
+
       I want to introduce you to GeekHunter, it's a company specializing in dev
       recruiting. They offer a platform to connect companies with pre-selected
       dev, reversing the traditional recruitment model. Instead of developers
@@ -58,7 +61,6 @@ sections:
 
 
       **Site:** [geekhunter.com.br](https://www.geekhunter.com.br)
-
     textPt: >
       Quero te apresentar a **GeekHunter**, é uma empresa especializada em
       recrutamento de devs. Oferecem uma plataforma para conectar empresas com

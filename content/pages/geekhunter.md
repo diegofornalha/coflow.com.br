@@ -28,9 +28,7 @@ sections:
     elementId: ''
     variant: variant-a
     title: geek
-    titlePt: >-
-      Brasil aprova Lei de Criptoativos para regular o mercado de ativos
-      digitais
+    titlePt: Encontre os melhores profissionais de Smart Contr
     subtitle: >-
       Central Bank expected to be the main regulatory agency for
       cryptocurrencies

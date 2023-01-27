@@ -36,13 +36,12 @@ sections:
       ![](https://s2.glbimg.com/djaJ-7mBc6nerppZnhXnzREWiDs=/620x345/e.glbimg.com/og/ed/f/original/2022/03/11/celso_ferrari_e_tomas_ferrari_fundadores_da_geekhunter.\_credito_jose_somensi.jpg)
 
 
-      I want to introduce you to GeekHunter, it's a company specializing in
+      I want to introduce you to **GeekHunter**, it's a company specializing in
       recruiting developers. They offer a platform to connect companies with
-      pre-selected Cadence developers, reversing the traditional recruitment
+      pre-selected **Cadence developers**, reversing the traditional recruitment
       model. Instead of developers applying for jobs, it's the employers who
       make interview invitations and candidates have the option to accept or
       decline.
-
 
 
       With GeekHunter, your project will have access to a daily updated database
@@ -53,17 +52,13 @@ sections:
       interviews.
 
 
-
       Currently, we are connecting many Latin American developers with foreign
       projects. With GeekHunter, you save time and resources while finding the
       best professionals.
 
 
-
       The GeekHunter can help you find the best Cadence professionals for Flow
-      Blockchain. 
-
-
+      Blockchain.
 
 
       **Site:** [geekhunter.com.br](https://www.geekhunter.com.br)

@@ -79,7 +79,7 @@
                     {
                         "type": "Link",
                         "label": "News",
-                        "altText": "",
+                        "altText": "Novidades",
                         "url": "/2023/janeiro/news",
                         "showIcon": false,
                         "icon": "arrowRight",

@@ -97,7 +97,7 @@ sections:
             label: Learn More
             showIcon: true
             icon: arrowRight
-            url: /2023/janeiro/news/
+            url: /2023/janeiro/news/cvm
             style: primary
             altText: cvm
         styles:

@@ -41,7 +41,6 @@ sections:
       decline.
 
 
-
       With GeekHunter, your company will have access to a daily updated database
       with only a select group of candidates with the greatest potential for
       being hired. We use technologies and data intelligence to attract and

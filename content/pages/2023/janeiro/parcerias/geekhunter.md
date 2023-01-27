@@ -33,7 +33,7 @@ sections:
       Your project will save time and resources by finding the best developers
       for Smart Contracts Cadence
     text: >
-      ![](https://s2.glbimg.com/djaJ-7mBc6nerppZnhXnzREWiDs=/620x345/e.glbimg.com/og/ed/f/original/2022/03/11/celso_ferrari_e_tomas_ferrari_fundadores_da_geekhunter.\_credito_jose_somensi.jpg)
+      ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/76278207-ff8b-47d6-809f-f0147e975094/Untitled.png)
 
 
       I want to introduce you to GeekHunter, it's a company specializing in dev

@@ -105,7 +105,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Focused
-        titlePt: Concentré
+        titlePt: CVM
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas

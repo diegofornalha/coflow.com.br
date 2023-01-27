@@ -32,8 +32,53 @@ sections:
     subtitle: Web Summit Rio
     text: |
       Web Summit Rio
-    textPt: |
-      Web Summit Rio
+    textPt: >+
+      ![](https://nftstorage.link/ipfs/bafybeieudvp335eiujt4ymjfq4ej6o3lnzvxbzhnfyrihkl5iwl7puroai)
+
+
+
+
+      O investidor da Web Summit tem acesso a:
+
+
+      *   Um ingresso de investidor para ter acesso a todos os eventos;
+
+
+      *   Ajuda da equipe interna dedicada de investidores, que facilita
+      reuniões pré-agendadas com fundadores e oportunidades de networking com
+      investidores; 
+
+
+
+
+      *   \- Acesso à base de dados filtrável de startups e investidores da Web
+      Summit; -Acesso exclusivo a mesas redondas para VCs e conteúdo
+      relacionado.
+
+
+      Os investidores elegíveis incluem parceiros dos fundos venture, funds
+      venture corporativos, angel investors, limited partners, fundos de pensão,
+      funds soberanos de riqueza, equipes M\&A corporativas e Private Equity
+      ativamente investindo em ventures. O Web Summit monitora os investimentos
+      realizados pelos investidores presentes. Isso é feito para garantir que os
+      investidores que participam dos nossos eventos sejam mais relevantes para
+      as startups participantes. Os costumers sem prova de investimento podem
+      ser recusados no processo de acreditação. Todos os participantes do Web
+      Summit, incluindo os Investidores são obrigados a seguir nossas políticas
+      anti assédio e acessibilidade, bem como nossos termos e condições. Não
+      toleramos qualquer coisa que contradiga, comprometa, viole ou denigra
+      princípios básicos como igualdade, diversidade e inclusão (por exemplo
+      discriminação baseada no gênero/sexo/sexualidade), parâmetros
+      religiosas/ideológicas ou afrontar à privacidade e dignidade das pessoas.
+
+
+      A legitimação do Investdor está sujeito à avaliação e aprovação da equipe
+      de Investimento do Web Summit que reserva o direito de aceitar ou negar
+      qualquer solicitação feitas por meio do processo online. O Web Summit
+      também tem o direito revogar o certificado quando necessário inclusive
+      desinvitando alguns participants já previamente convocados cas esses
+      estejam em conflito com as exigências acima citadas.
+
     styles:
       self:
         height: auto

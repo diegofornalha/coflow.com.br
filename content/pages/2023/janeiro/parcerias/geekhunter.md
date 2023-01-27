@@ -92,8 +92,7 @@ sections:
       Cadence para [Flow Blockchain](https://flow.coflow.com.br/blog/).
 
 
-      **Site:**
-      [geekhunter.com.br](https://www.geekhunter.com.br/?utm_source=referencia&utm_medium=parceiros&utm_campaign=coflow)
+      **Site:** [geekhunter.com.br](https://bit.ly/geekhunter-flow)
     styles:
       self:
         height: auto

@@ -67,10 +67,10 @@ sections:
 
       Quero te apresentar a **GeekHunter**, é uma empresa especializada em
       recrutamento de devs. Oferecem uma plataforma para conectar empresas com
-      devs pré-selecionados, invertendo o modelo tradicional de recrutamento. Em
-      vez de os desenvolvedores se candidatarem a empregos, são os empresarios
-      que fazem convites de entrevista, e os candidatos têm a opção de aceitar
-      ou declinar.
+      devs **Cadence** pré-selecionados, invertendo o modelo tradicional de
+      recrutamento. Em vez de os desenvolvedores se candidatarem a empregos, são
+      os empresarios que fazem convites de entrevista, e os candidatos têm a
+      opção de aceitar ou declinar.
 
 
       Com a GeekHunter, seu projeto terá acesso a uma base diariamente
@@ -86,9 +86,8 @@ sections:
       recursos, ao mesmo tempo em que encontra os melhores profissionais.
 
 
-      Gostaríamos de discutir como a GeekHunter pode ajudar sua empresa a
-      encontrar os melhores profissionais da área de tecnologia. Por favor,
-      entre em contato conosco para marcar uma reunião.
+      A GeekHunter pode te ajudar a encontrar os melhores profissionais de
+      Cadence para [Flow Blockchain](https://flow.coflow.com.br/blog/). 
 
 
       **Site:** [geekhunter.com.br](https://www.geekhunter.com.br)

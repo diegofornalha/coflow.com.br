@@ -32,7 +32,6 @@ sections:
     showAuthor: false
     showExcerpt: false
     showReadMoreLink: true
-    readMoreLinkLabel: Join adventure
     variant: variant-b
     actions: []
     styles:

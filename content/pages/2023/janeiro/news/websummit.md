@@ -2,8 +2,7 @@
 layout: PageLayout
 metaTitle: Web Summit Rio
 metaDescription: >-
-  Banco central é esperado para ser a principal agência reguladora para
-  criptomoedas
+Web Summit Rio
 addTitleSuffix: true
 socialImage: /images/padrao/flow-coflow-logo.png
 metaTags:

@@ -69,7 +69,7 @@ sections:
             label: Learn More
             showIcon: true
             icon: arrowRight
-            url: /2023/janeiro/news/
+            url: /2023/janeiro/news/flowlabs
             style: primary
         styles:
           self:

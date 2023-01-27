@@ -60,20 +60,20 @@ sections:
       best professionals in the technology area. Please contact us to schedule a
       meeting.
     textPt: >
-      Quero te apresentar a GeekHunter, é uma empresa especializada em
+      Quero te apresentar a **GeekHunter**, é uma empresa especializada em
       recrutamento de devs. Oferecem uma plataforma para conectar empresas com
       devs pré-selecionados, invertendo o modelo tradicional de recrutamento. Em
-      vez de os desenvolvedores se candidatarem a empregos, são as empresas que
-      fazem convites de entrevista, e os candidatos têm a opção de aceitar ou
-      declinar.
+      vez de os desenvolvedores se candidatarem a empregos, são os empresarios
+      que fazem convites de entrevista, e os candidatos têm a opção de aceitar
+      ou declinar.
 
 
-      Com a GeekHunter, sua empresa terá acesso a uma base diariamente
+      Com a GeekHunter, seu projeto terá acesso a uma base diariamente
       atualizada com apenas um seleto grupo de candidatos com o maior potencial
-      de serem contratados. Utilizamos tecnologias e inteligência de dados para
-      atrair e pré-selecionar os melhores candidatos, permitindo que sua empresa
-      possa visualizar os candidatos mais adequados para o perfil de sua busca e
-      convidá-los para entrevistas.
+      de serem contratados. Para atrair esses devs, inteligência de dados ajudam
+      a atrair e pré-selecionar os melhores interessados, permitindo que seu
+      projeto possa visualizar os candidatos mais adequados para o perfil de sua
+      busca e convidá-los para entrevistas.
 
 
       Atualmente, estamos conectando muitos desenvolvedores da america latina
@@ -84,6 +84,9 @@ sections:
       Gostaríamos de discutir como a GeekHunter pode ajudar sua empresa a
       encontrar os melhores profissionais da área de tecnologia. Por favor,
       entre em contato conosco para marcar uma reunião.
+
+
+      **Site:** [geekhunter.com.br](https://www.geekhunter.com.br)
     styles:
       self:
         height: auto

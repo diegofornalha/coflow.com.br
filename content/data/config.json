@@ -81,7 +81,7 @@
                         "label": "News",
                         "altText": "Novidades",
                         "url": "/2023/janeiro/news",
-                        "showIcon": false,
+                        "showIcon": true,
                         "icon": "arrowRight",
                         "iconPosition": "right",
                         "elementId": ""

@@ -27,7 +27,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: geek
+    title: Find the best Smart Contracts Cadence professionals
     titlePt: Encontre os melhores profissionais de Smart Contrats Cadence
     subtitle: >-
       Central Bank expected to be the main regulatory agency for

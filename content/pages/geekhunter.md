@@ -107,9 +107,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    subtitlePt: >-
-      Banco Central é esperado para ser a principal agência reguladora para
-      criptomoedas
+    subtitlePt: Subtitle
   - type: HeroSection
     colors: colors-e
     elementId: ''

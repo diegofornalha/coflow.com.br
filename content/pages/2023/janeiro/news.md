@@ -85,6 +85,7 @@ sections:
             icon: arrowRight
             url: /
             style: primary
+            altText: Saiba Mais
         styles:
           self:
             textAlign: left

@@ -71,6 +71,7 @@ sections:
             icon: arrowRight
             url: /2023/janeiro/news/flowlabs
             style: primary
+            altText: Saiba Mais
         styles:
           self:
             textAlign: left

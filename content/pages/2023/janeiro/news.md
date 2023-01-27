@@ -84,7 +84,7 @@ sections:
             showIcon: true
             icon: arrowRight
             url: /2023/janeiro/news/lei-cripto
-            style: primary
+            style: secondary
             altText: Saiba Mais
         styles:
           self:

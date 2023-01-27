@@ -15,7 +15,7 @@
             },
             {
                 "type": "DropdownLink",
-                "label": "partnerships",
+                "label": "Partnerships",
                 "altText": "Parcerias",
                 "dropdownLinks": [
                     {

@@ -53,8 +53,7 @@ sections:
         justifyContent: center
     title: News
     subtitle: ''
-    posts:
-      - content/pages/blog/post-two.md
+    posts: []
   - type: HeroSection
     colors: colors-e
     elementId: ''

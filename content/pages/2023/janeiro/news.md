@@ -27,7 +27,7 @@ sections:
   - type: FeaturedPostsSection
     colors: colors-e
     elementId: ''
-    titlePt: Posts
+    titlePt: 'News '
     subtitlePt: Blog posts
     showDate: true
     showAuthor: false

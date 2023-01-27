@@ -15,7 +15,7 @@ metaTags:
     content: CoFlow Logo
   - type: MetaTag
     property: 'og:url'
-    content: 'https://coflow.com.br/lei-cripto'
+    content: 'https://coflow.com.br/geekhunter'
   - type: MetaTag
     property: 'og:site_name'
     content: CoFlow

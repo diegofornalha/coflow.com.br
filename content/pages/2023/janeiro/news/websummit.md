@@ -22,7 +22,7 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@diegofornalha'
-title: WebSummit
+title: Web Summit
 sections:
   - type: TextSection
     colors: colors-d

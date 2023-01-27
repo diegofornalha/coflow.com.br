@@ -27,7 +27,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: Find the best Smart Contracts Cadence professionals
+    title: Find The Best Smart Contracts Cadence Professionals
     titlePt: Encontre os melhores profissionais de Smart Contrats Cadence
     subtitle: >-
       Your project will save time and resources by finding the best developers

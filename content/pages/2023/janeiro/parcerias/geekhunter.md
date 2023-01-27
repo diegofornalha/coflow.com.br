@@ -62,6 +62,9 @@ sections:
 
       **Site:** [geekhunter.com.br](https://www.geekhunter.com.br)
     textPt: >
+      ![](https://s2.glbimg.com/djaJ-7mBc6nerppZnhXnzREWiDs=/620x345/e.glbimg.com/og/ed/f/original/2022/03/11/celso_ferrari_e_tomas_ferrari_fundadores_da_geekhunter.\_credito_jose_somensi.jpg)
+
+
       Quero te apresentar a **GeekHunter**, é uma empresa especializada em
       recrutamento de devs. Oferecem uma plataforma para conectar empresas com
       devs pré-selecionados, invertendo o modelo tradicional de recrutamento. Em

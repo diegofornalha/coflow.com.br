@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: Lei de Criptoativos
+metaTitle: websummit
 metaDescription: >-
   Banco Central é esperado para ser a principal agência reguladora para
   criptomoedas

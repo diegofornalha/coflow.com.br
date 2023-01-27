@@ -32,22 +32,20 @@ sections:
     subtitle: >-
       Your project will save time and resources by finding the best developers
       for Smart Contracts Cadence
-    text: >
-      I would like to introduce you to GeekHunter, a company specialized in
-      developer recruitment. They offer a platform to connect companies with
-      pre-selected developers, reversing the traditional recruitment model.
-      Instead of developers applying for jobs, it is the companies that make
-      interview invitations, and candidates have the option to accept or
-      decline.
+    text: >+
+      I want to introduce you to GeekHunter, it's a company specialized in dev
+      recruiting. They offer a platform to connect companies with pre-selected
+      dev, reversing the traditional recruitment model. Instead of developers
+      applying for jobs, it's the employers who make interview invitations, and
+      candidates have the option to accept or decline.
 
 
-      With GeekHunter, your company will have access to a daily updated database
-      with only a select group of candidates with the greatest potential for
-      being hired. We use technologies and data intelligence to attract and
-      pre-select the best candidates, allowing your company to view the most
+      With GeekHunter, your project will have access to a daily updated database
+      with only a select group of candidates with the highest potential of being
+      hired. To attract these dev, data intelligence helps attract and
+      pre-select the best interested, allowing your project to view the most
       suitable candidates for your search profile and invite them for
       interviews.
-
 
 
       Currently, we are connecting many Latin American developers with foreign
@@ -55,10 +53,12 @@ sections:
       best professionals.
 
 
-
       We would like to discuss how GeekHunter can help your company find the
       best professionals in the technology area. Please contact us to schedule a
       meeting.
+
+
+
     textPt: >
       Quero te apresentar a **GeekHunter**, é uma empresa especializada em
       recrutamento de devs. Oferecem uma plataforma para conectar empresas com

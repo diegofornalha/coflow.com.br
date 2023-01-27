@@ -29,7 +29,7 @@ sections:
     elementId: ''
     variant: variant-a
     title: Web Summit Rio
-    titlePt: Web Summit
+    titlePt: Web Summit Rio
     styles:
       self:
         height: auto

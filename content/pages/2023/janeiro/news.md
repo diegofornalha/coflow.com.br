@@ -55,7 +55,6 @@ sections:
     subtitle: ''
     posts:
       - content/pages/blog/post-two.md
-      - content/pages/blog/post-one.md
   - type: HeroSection
     colors: colors-e
     elementId: ''

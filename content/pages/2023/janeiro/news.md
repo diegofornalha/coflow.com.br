@@ -52,7 +52,7 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    title: Seasonal adventure
+    title: News
     subtitle: ''
     posts:
       - content/pages/blog/post-three.md

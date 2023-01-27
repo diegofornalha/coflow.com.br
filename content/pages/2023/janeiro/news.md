@@ -83,7 +83,7 @@ sections:
             label: Learn More
             showIcon: true
             icon: arrowRight
-            url: /
+            url: /2023/janeiro/news/
             style: primary
             altText: Saiba Mais
         styles:

@@ -28,7 +28,6 @@ sections:
     colors: colors-e
     elementId: ''
     titlePt: News
-    subtitlePt: Blog posts
     showDate: true
     showAuthor: false
     showExcerpt: false

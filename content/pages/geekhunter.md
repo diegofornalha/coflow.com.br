@@ -68,13 +68,13 @@ sections:
       illegal activities. The regulation should be closely monitored by the
       market and society, to evaluate its effectiveness and implement possible
       adjustments in the future.
-    textPt: >+
-      A GeekHunter é uma empresa especializada em recrutamento de profissionais
-      da área de tecnologia. Nós oferecemos uma plataforma inovadora para
-      conectar empresas com desenvolvedores pré-selecionados, invertendo o
-      modelo tradicional de recrutamento. Em vez de os desenvolvedores se
-      candidatarem a empregos, são as empresas que fazem convites de entrevista,
-      e os candidatos têm a opção de aceitar ou declinar.
+    textPt: >
+      Quero te apresentar a GeekHunter, é uma empresa especializada em
+      recrutamento de devs. Oferecem uma plataforma para conectar empresas com
+      devs pré-selecionados, invertendo o modelo tradicional de recrutamento. Em
+      vez de os desenvolvedores se candidatarem a empregos, são as empresas que
+      fazem convites de entrevista, e os candidatos têm a opção de aceitar ou
+      declinar.
 
 
       Com a GeekHunter, sua empresa terá acesso a uma base diariamente
@@ -85,17 +85,14 @@ sections:
       convidá-los para entrevistas.
 
 
-      Atuamos nas áreas de desenvolvimento, dados, QA/testes, design e
-      gerenciamento de produtos. Atualmente, estamos conectando muitos
-      desenvolvedores com empresas estrangeiras. Com a GeekHunter, sua empresa
-      pode economizar tempo e recursos, ao mesmo tempo em que encontra os
-      melhores profissionais da área de tecnologia.
+      Atualmente, estamos conectando muitos desenvolvedores da america latina
+      com projetos estrangeiras. Com a GeekHunter, você economiza tempo e
+      recursos, ao mesmo tempo em que encontra os melhores profissionais.
 
 
       Gostaríamos de discutir como a GeekHunter pode ajudar sua empresa a
       encontrar os melhores profissionais da área de tecnologia. Por favor,
       entre em contato conosco para marcar uma reunião.
-
     styles:
       self:
         height: auto

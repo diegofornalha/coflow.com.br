@@ -50,6 +50,8 @@ sections:
     subtitlePt: Web Summit Rio
     text: |
       Web Summit Rio
+    textPt: |
+      Web Summit Rio
   - type: HeroSection
     colors: colors-e
     elementId: ''

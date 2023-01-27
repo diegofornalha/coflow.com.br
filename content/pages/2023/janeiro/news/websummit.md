@@ -30,9 +30,6 @@ sections:
     variant: variant-a
     title: Web Summit Rio
     titlePt: Web Summit
-    subtitle: >-
-      Central Bank expected to be the main regulatory agency for
-      cryptocurrencies
     text: >
       The law states that it will be the responsibility of the Executive to
       appoint a regulatory agency to establish the guidelines for the digital

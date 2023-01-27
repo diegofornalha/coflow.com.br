@@ -27,7 +27,7 @@ sections:
   - type: FeaturedPostsSection
     colors: colors-e
     elementId: ''
-    titlePt: News
+    titlePt: Novidades
     showDate: true
     showAuthor: false
     showExcerpt: false

@@ -46,6 +46,7 @@ sections:
         textAlign: left
       text:
         textAlign: left
+    subtitle: Web Summit Rio
   - type: HeroSection
     colors: colors-e
     elementId: ''

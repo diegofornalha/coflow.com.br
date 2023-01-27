@@ -17,7 +17,18 @@
                 "type": "DropdownLink",
                 "label": "Parcerias",
                 "altText": "",
-                "dropdownLinks": []
+                "dropdownLinks": [
+                    {
+                        "type": "Link",
+                        "label": "Learn More",
+                        "altText": "",
+                        "url": "/parcerias/geekhunter/",
+                        "showIcon": false,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    }
+                ]
             },
             {
                 "type": "DropdownLink",

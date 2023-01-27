@@ -99,6 +99,7 @@ sections:
             icon: arrowRight
             url: /
             style: primary
+            altText: cvm
         styles:
           self:
             textAlign: left

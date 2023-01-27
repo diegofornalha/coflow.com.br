@@ -97,7 +97,7 @@ sections:
             label: Learn More
             showIcon: true
             icon: arrowRight
-            url: /2023/janeiro/news/cvm
+            url: /2023/janeiro/news/cvm-roboforex
             style: primary
             altText: cvm
         styles:

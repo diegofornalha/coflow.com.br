@@ -28,7 +28,7 @@ sections:
     elementId: ''
     variant: variant-a
     title: geek
-    titlePt: Encontre os melhores profissionais de Smart Contr
+    titlePt: Encontre os melhores profissionais de Smart Contrats
     subtitle: >-
       Central Bank expected to be the main regulatory agency for
       cryptocurrencies

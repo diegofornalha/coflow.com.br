@@ -15,6 +15,12 @@
             },
             {
                 "type": "DropdownLink",
+                "label": "More",
+                "altText": "",
+                "dropdownLinks": []
+            },
+            {
+                "type": "DropdownLink",
                 "label": "About",
                 "dropdownLinks": [
                     {

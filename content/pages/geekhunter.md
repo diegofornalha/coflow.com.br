@@ -22,7 +22,7 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@diegofornalha'
-title: Ge
+title: Geek
 sections:
   - type: TextSection
     colors: colors-d

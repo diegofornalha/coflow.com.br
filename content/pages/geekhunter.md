@@ -107,7 +107,9 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    subtitlePt: Subtitle
+    subtitlePt: >-
+      Seu projeto economizará tempo e recursos ao encontrar os melhores
+      desenvolvedores para Smart Contracts Cadence
   - type: HeroSection
     colors: colors-e
     elementId: ''

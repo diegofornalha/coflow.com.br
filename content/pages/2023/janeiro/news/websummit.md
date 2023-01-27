@@ -30,61 +30,6 @@ sections:
     variant: variant-a
     title: Web Summit Rio
     titlePt: Web Summit
-    textPt: >
-      A lei estabelece que será responsabilidade do poder Executivo indicar um
-      órgão regulador para estabelecer as diretrizes do mercado de ativos
-      digitais no Brasil. A tendência é que essa instância seja o Banco Central
-      (BC), já que o BC tem participado ativamente com o setor para desenvolver
-      projetos em blockchain e criptografia, a exemplo do próprio real digital.
-
-
-      A proposta também traz incentivos para a mineração verde de moedas
-      digitais, ou seja, a mineração de criptomoedas utilizando fontes de
-      energia limpa e renováveis. Além disso, a lei especifica crimes contra a
-      economia popular, como lavagem de dinheiro e esquemas de pirâmide
-      financeira, de maneira complementar ao que a Comissão de Valores
-      Mobiliários (CVM) estabeleceu no seu próprio parecer sobre o tema.
-
-
-      Um dos pontos criticados pelos analistas foi a proposta que separava o
-      caixa das empresas dos fundos dos clientes, chamada de segregação
-      patrimonial. Esse mecanismo foi importado do mercado tradicional e é uma
-      forma de proteger os usuários de possíveis problemas financeiros das
-      instituições. Como exemplo de motivos para manter a exigência da
-      segregação patrimonial, representantes desse mercado utilizaram como
-      exemplo a crise na FTX, que recentemente entrou em insolvência e deixou os
-      clientes a ver navios. No entanto, no fim das contas, o texto acabou
-      mantendo a segregação como opcional.
-
-
-      A Comissão de Valores Mobiliários (CVM) também será acionada em momentos
-      específicos, como quando o ativo se assemelhar a um valor mobiliário, por
-      exemplo.
-
-
-      Em resumo, a aprovação da "Lei de Criptoativos" é vista como um passo
-      importante para o desenvolvimento do mercado de ativos digitais no Brasil.
-      A regulamentação deve trazer mais segurança e competitividade para o
-      setor, além de proteger os usuários de possíveis problemas financeiros das
-      instituições. A tendência é que o Banco Central seja o principal órgão
-      regulador das criptomoedas no país, em conjunto com a Comissão de Valores
-      Mobiliários (CVM), que deve ser acionada em momentos específicos.
-
-
-      A lei também incentiva a mineração verde de criptomoedas, o que é visto
-      como positivo para o meio ambiente. Além disso, ela especifica crimes
-      contra a economia popular, como lavagem de dinheiro e esquemas de pirâmide
-      financeira, o que deve ajudar a combater esses tipos de atividades
-      ilícitas.
-
-
-      Em resumo, a aprovação da "Lei de Criptoativos" é vista como um passo
-      importante para o desenvolvimento do mercado de ativos digitais no Brasil,
-      trazendo mais segurança e competitividade para o setor, além de proteger
-      os usuários de possíveis problemas financeiros das instituições e combater
-      atividades ilícitas. A regulamentação deve ser acompanhada de perto pelo
-      mercado e pela sociedade, para avaliar sua eficácia e implementar
-      possíveis ajustes no futuro.
     styles:
       self:
         height: auto

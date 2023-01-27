@@ -83,7 +83,7 @@ sections:
             label: Learn More
             showIcon: true
             icon: arrowRight
-            url: /2023/janeiro/news/
+            url: /2023/janeiro/news/lei-cripto
             style: primary
             altText: Saiba Mais
         styles:

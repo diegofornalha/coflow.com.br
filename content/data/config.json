@@ -15,33 +15,6 @@
             },
             {
                 "type": "DropdownLink",
-                "label": "Partnerships",
-                "altText": "Parcerias",
-                "dropdownLinks": [
-                    {
-                        "type": "Link",
-                        "label": "GeekHunter",
-                        "altText": "Recurtamento e Seleção",
-                        "url": "/parcerias/geekhunter/",
-                        "showIcon": true,
-                        "icon": "arrowRight",
-                        "iconPosition": "left",
-                        "elementId": ""
-                    },
-                    {
-                        "type": "Link",
-                        "label": "Learn More",
-                        "altText": "",
-                        "url": "/2023/janeiro/news",
-                        "showIcon": false,
-                        "icon": "arrowRight",
-                        "iconPosition": "right",
-                        "elementId": ""
-                    }
-                ]
-            },
-            {
-                "type": "DropdownLink",
                 "label": "About",
                 "dropdownLinks": [
                     {
@@ -82,6 +55,33 @@
                         "altText": "Advocates",
                         "url": "https://flow.coflow.com.br/flow-brasil-embaixador-aprendiz/",
                         "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    }
+                ]
+            },
+            {
+                "type": "DropdownLink",
+                "label": "Partnerships",
+                "altText": "Parcerias",
+                "dropdownLinks": [
+                    {
+                        "type": "Link",
+                        "label": "GeekHunter",
+                        "altText": "Recurtamento e Seleção",
+                        "url": "/parcerias/geekhunter/",
+                        "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "left",
+                        "elementId": ""
+                    },
+                    {
+                        "type": "Link",
+                        "label": "Learn More",
+                        "altText": "",
+                        "url": "/2023/janeiro/news",
+                        "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
                         "elementId": ""

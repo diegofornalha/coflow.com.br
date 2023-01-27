@@ -99,7 +99,7 @@ sections:
             icon: arrowRight
             url: /2023/janeiro/news/cvm-roboforex
             style: primary
-            altText: cvm
+            altText: Saiba Mais
         styles:
           self:
             textAlign: left

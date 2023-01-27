@@ -32,7 +32,7 @@ sections:
     subtitle: >-
       Your project will save time and resources by finding the best developers
       for Smart Contracts Cadence
-    text: >+
+    text: >
       I want to introduce you to GeekHunter, it's a company specialized in dev
       recruiting. They offer a platform to connect companies with pre-selected
       dev, reversing the traditional recruitment model. Instead of developers
@@ -42,10 +42,9 @@ sections:
 
       With GeekHunter, your project will have access to a daily updated database
       with only a select group of candidates with the highest potential of being
-      hired. To attract these dev, data intelligence helps attract and
-      pre-select the best interested, allowing your project to view the most
-      suitable candidates for your search profile and invite them for
-      interviews.
+      hired. To attract this dev, data intelligence helps attract and pre-select
+      the best interested, allowing your project to view the most suitable
+      candidates for your search profile and invite them for interviews.
 
 
       Currently, we are connecting many Latin American developers with foreign
@@ -56,9 +55,6 @@ sections:
       We would like to discuss how GeekHunter can help your company find the
       best professionals in the technology area. Please contact us to schedule a
       meeting.
-
-
-
     textPt: >
       Quero te apresentar a **GeekHunter**, é uma empresa especializada em
       recrutamento de devs. Oferecem uma plataforma para conectar empresas com

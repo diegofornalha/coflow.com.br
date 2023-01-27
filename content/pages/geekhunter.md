@@ -22,22 +22,6 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@diegofornalha'
-title: >-
-  A GeekHunter é uma empresa especializada na contratação de profissionais da
-  área de tecnologia. Por meio da nossa plataforma, conectamos empresas com
-  desenvolvedores que já passaram por um primeiro crivo de ​pré-​seleção.COMO DE
-  FATO ISSO FUNCIONA?Invertemos o modelo tradicional de recrutamento, então, ao
-  invés de desenvolvedores se candidatarem a empregos, são as empresas que
-  realizam convites de entrevista e os candidatos têm a opção de aceitar ou
-  declinar convites de entrevista recebidos.Na GeekHunter, as empresas têm
-  acesso a uma base diariamente atualizada com apenas um seleto grupo de
-  candidatos com o maior potencial de serem contratados.Por meio de nossas
-  tecnologias​ e ​inteligência de dados​ ​,​ atraímos​ e ​pré​-selecionamos
-  aqueles mais engajados e com maior potencial técnico.​ Esse contexto permite
-  que empresas possam visualizar candidatos mais aderentes ao perfil de suas
-  buscas e os convidar para entrevistas.DEVELOPMENTDATAQA/TESTINGDESIGNPRODUCT
-  MANAGEMENTEssas são as principais áreas que atuamosAtualmente estamos
-  conectando muitos devs com empresas gringas
 sections:
   - type: TextSection
     colors: colors-d

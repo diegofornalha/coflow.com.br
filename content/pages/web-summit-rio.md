@@ -28,9 +28,7 @@ sections:
     elementId: ''
     variant: variant-a
     title: Web Summit Rio
-    titlePt: >-
-      Brasil aprova Lei de Criptoativos para regular o mercado de ativos
-      digitais
+    titlePt: Web Summit Rio
     subtitle: >-
       Central Bank expected to be the main regulatory agency for
       cryptocurrencies

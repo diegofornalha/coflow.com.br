@@ -28,7 +28,7 @@ sections:
     colors: colors-d
     elementId: ''
     variant: variant-a
-    title: Web Summit
+    title: Web Summit Rio
     titlePt: Web Summit
     subtitle: >-
       Central Bank expected to be the main regulatory agency for

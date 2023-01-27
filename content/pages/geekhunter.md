@@ -32,40 +32,35 @@ sections:
     subtitle: >-
       Your project will save time and resources by finding the best developers
       for Smart Contracts Cadence
-    text: >
-      The law states that it will be the responsibility of the Executive to
-      appoint a regulatory agency to establish the guidelines for the digital
-      assets market in Brazil. The trend is that this institution will be the
-      Central Bank (BC), since the BC has actively participated in the sector to
-      develop projects in blockchain and cryptography, such as the digital real.
+    text: >+
+      I would like to introduce you to GeekHunter, a company specialized in
+      developer recruitment. They offer a platform to connect companies with
+      pre-selected developers, reversing the traditional recruitment model.
+      Instead of developers applying for jobs, it is the companies that make
+      interview invitations, and candidates have the option to accept or
+      decline.
 
 
-      The proposal also includes incentives for green mining of digital
-      currencies, that is, mining of cryptocurrencies using clean and renewable
-      energy sources. In addition, the law specifies crimes against popular
-      economy, such as money laundering and pyramid scheme, in a complementary
-      way to what the Securities and Exchange Commission (CVM) established in
-      its own opinion on the subject.
+
+      With GeekHunter, your company will have access to a daily updated database
+      with only a select group of candidates with the greatest potential for
+      being hired. We use technologies and data intelligence to attract and
+      pre-select the best candidates, allowing your company to view the most
+      suitable candidates for your search profile and invite them for
+      interviews.
 
 
-      One of the points criticized by analysts was the proposal to separate the
-      cash of companies from the funds of clients, called patrimonial
-      segregation. This mechanism was imported from the traditional market and
-      is a way to protect users from possible financial problems of
-      institutions. As an example of reasons to keep the requirement of
-      patrimonial segregation, representatives of this market used as an example
-      the crisis at FTX, which recently went bankrupt and left customers
-      stranded. However, in the end, the text ended up keeping segregation as
-      optional.
+
+      Currently, we are connecting many Latin American developers with foreign
+      projects. With GeekHunter, you save time and resources while finding the
+      best professionals.
 
 
-      In summary, the approval of the "Cryptoassets Law" is seen as an important
-      step for the development of the digital assets market in Brazil, bringing
-      more security and competitiveness to the sector, in addition to protecting
-      users from possible financial problems of institutions and combating
-      illegal activities. The regulation should be closely monitored by the
-      market and society, to evaluate its effectiveness and implement possible
-      adjustments in the future.
+
+      We would like to discuss how GeekHunter can help your company find the
+      best professionals in the technology area. Please contact us to schedule a
+      meeting.
+
     textPt: >
       Quero te apresentar a GeekHunter, é uma empresa especializada em
       recrutamento de devs. Oferecem uma plataforma para conectar empresas com

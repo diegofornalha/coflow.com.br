@@ -23,7 +23,7 @@
                         "label": "GeekHunter",
                         "altText": "Recurtamento e Seleção",
                         "url": "/parcerias/geekhunter/",
-                        "showIcon": true,
+                        "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "left",
                         "elementId": ""

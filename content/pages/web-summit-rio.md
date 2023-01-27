@@ -199,4 +199,5 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 15
+title: Web Summit Rio
 ---

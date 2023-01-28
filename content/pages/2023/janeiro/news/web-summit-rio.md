@@ -157,7 +157,7 @@ sections:
       enjoyable place through consumer adoption of decentralized technologies.
     textPt: >
       Nossa empresa compartilha a mesma visão do Dapper Labs, que é criar
-      experiências web3 líderes do setor e desenvolver dapps no Flow Blockchain 
+      experiências web3 líderes do setor e desenvolver dapps na Flow Blockchain 
       que fornecem aos usuários uma maneira simples de gerenciar seus ativos e
       usar o blockchain. Nossa missão é tornar o mundo um lugar mais acessível e
       agradável por meio da adoção pelo consumidor de tecnologias

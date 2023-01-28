@@ -67,6 +67,6 @@ export default function MyApp({ Component, pageProps }) {
                 <Component {...pageProps} />
             </DisplayModeContext.Provider>
         </I18NContext.Provider>
-                    <Analytics />
+        <Analytics />
     );
 }

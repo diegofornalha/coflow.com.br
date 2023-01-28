@@ -30,8 +30,11 @@ sections:
     title: Web Summit Rio
     titlePt: Web Summit Rio
     subtitle: Web Summit Rio
-    text: |
-      Web Summit Rio
+    text: >
+      ![](https://nftstorage.link/ipfs/bafybeigbtwcjvwufrzqyx3n4p3jrsjkt5b6vwwx6wc73ccixuzzjc5j2ty)
+
+
+      oi
     textPt: >-
       ![](https://nftstorage.link/ipfs/bafybeigbtwcjvwufrzqyx3n4p3jrsjkt5b6vwwx6wc73ccixuzzjc5j2ty)
 

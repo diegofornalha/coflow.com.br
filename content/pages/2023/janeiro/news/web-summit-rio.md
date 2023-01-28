@@ -35,11 +35,52 @@ sections:
 
 
       oi
-    textPt: >-
+    textPt: >
       ![](https://nftstorage.link/ipfs/bafybeigbtwcjvwufrzqyx3n4p3jrsjkt5b6vwwx6wc73ccixuzzjc5j2ty)
 
 
-      oi
+
+      A Flow blockchain é uma tecnologia inovadora que vem ganhando cada vez
+      mais destaque no mercado de criptomoedas. Com sua capacidade de processar
+      transações de forma rápida e escalável, ela se destaca como uma das
+      principais opções para aplicações em jogos, aplicativos de mídia social e
+      outras plataformas de uso massivo.
+
+
+      Por isso, é fundamental que a Flow esteja presente no Rio Blockchain
+      Summit, evento que reúne líderes da indústria e especialistas em
+      tecnologia para discutir as tendências e inovações do setor. A presença da
+      Flow no evento será fundamental para que ela possa se posicionar como uma
+      das principais opções no mercado e alcançar novos parceiros e
+      investidores.
+
+
+      Além disso, a Flow conta com parcerias de peso no mercado de jogos, como a
+      Dapper Labs, criadores do CryptoKitties e NBA Top Shot, o que a torna uma
+      opção atraente para empresas do setor que buscam utilizar blockchain em
+      suas plataformas.
+
+
+      Outro ponto de destaque da Flow é sua capacidade de processamento de
+      transações, que é cerca de 100 vezes maior do que a das principais redes
+      de blockchain, como a Ethereum. Isso torna a Flow uma opção ideal para
+      aplicações de uso massivo, como jogos e aplicativos de mídia social, onde
+      é necessário processar grandes volumes de transações.
+
+
+      Por fim, a Flow também se destaca por sua governança descentralizada, o
+      que garante que a rede seja mantida de forma justa e transparente, sem a
+      necessidade de uma entidade central para controlar suas atividades. Isso
+      garante a segurança e confiabilidade da rede, o que é fundamental para
+      atrair novos usuários e investidores.
+
+
+      Em resumo, a Flow blockchain é uma tecnologia inovadora e altamente
+      escalável, com fortes parcerias no mercado de jogos, além de uma
+      governança descentralizada que garante segurança e confiabilidade. Sua
+      presença no Rio Blockchain Summit seria fundamental para que ela possa se
+      posicionar como uma das principais opções no mercado e alcançar novos
+      parceiros e investidores.
     styles:
       self:
         height: auto

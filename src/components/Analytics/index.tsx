@@ -5,4 +5,5 @@ const Analytics = () => {
 
     </>
     return ()
+    
 }

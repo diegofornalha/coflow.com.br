@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Script from 'next/script';
 
-export default function Analytics() {
+function Analytics() {
 
     return (
         <>

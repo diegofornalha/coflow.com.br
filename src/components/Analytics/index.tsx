@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export default Analytics = () => {
+export default function Analytics = () => {
 
     return (
         <>

@@ -138,7 +138,9 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    subtitlePt: Web Summit Rio
+    subtitlePt: >-
+      Os diferenciais da Flow Blockchain que a destacam como uma das principais
+      tecnologias do mercado
   - type: HeroSection
     colors: colors-e
     elementId: ''

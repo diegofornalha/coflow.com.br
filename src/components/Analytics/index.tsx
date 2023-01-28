@@ -4,5 +4,5 @@ const Analytics = () => {
     <>
 
     </>
-    return 
+    return ()
 }

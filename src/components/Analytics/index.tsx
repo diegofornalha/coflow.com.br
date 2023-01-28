@@ -1,7 +1,7 @@
 import * as React from 'react';
 import Script from 'next/script';
 
-function Analytics() {
+cont function Analytics() {
 
     return (
         <>

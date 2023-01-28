@@ -149,13 +149,12 @@ sections:
     backgroundSize: full
     title: CoFlow
     titlePt: CoFlow
-    text: >+
+    text: >
       Our company shares the same vision as Dapper Labs, which is to create
-      industry-leading web3 experiences and develop dapps on the flow blockchain
+      industry-leading web3 experiences and develop dapps on the Flow Blockchain
       that provide users with a simple way to manage their assets and use the
       blockchain. Our mission is to make the world a more accessible and
       enjoyable place through consumer adoption of decentralized technologies.
-
     textPt: >
       Nossa empresa compartilha a mesma visão do Dapper Labs, que é criar
       experiências web3 líderes do setor e desenvolver dapps no Blockchain de

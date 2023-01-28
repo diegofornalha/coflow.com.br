@@ -65,7 +65,7 @@ export default function MyApp({ Component, pageProps }) {
         <I18NContext.Provider value={{ locale, setLanguage, translateLink, translateRole }}>
             <DisplayModeContext.Provider value={{ displayMode, setLight, setDark }}>
                 <Component {...pageProps} />
-                        <Analytics />
+                <Analytics />
             </DisplayModeContext.Provider>
         </I18NContext.Provider>
 

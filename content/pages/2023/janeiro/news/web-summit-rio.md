@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: 'Web '
+metaTitle: Web Summit Rio
 metaDescription: >-
   Banco Central é esperado para ser a principal agência reguladora para
   criptomoedas

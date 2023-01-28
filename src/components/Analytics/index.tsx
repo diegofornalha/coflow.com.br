@@ -1,6 +1,6 @@
 import * as React from 'react';
 
-export defconst Analytics = () => {
+export default const Analytics = () => {
 
     return (
         <>

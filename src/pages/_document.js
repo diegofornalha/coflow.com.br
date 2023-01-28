@@ -1,5 +1,5 @@
 import { Html, Head, Main, NextScript } from 'next/document'
-import 
+import Analytics from 
 
 export default function Document() {
     return (

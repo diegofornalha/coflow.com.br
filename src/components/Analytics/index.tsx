@@ -1,18 +1,18 @@
 import * as React from 'react';
 import Script from 'next/script';
 
-export default function Analytics () {
+export default function Analytics() {
 
     return (
-    <>
-        <Script
-            async
-            src={`https://www.googletagmanager.com/gtag/js?id=GTM-PZD8Q99`}
+        <>
+            <Script
+                async
+                src={`https://www.googletagmanager.com/gtag/js?id=GTM-PZD8Q99`}
 
-        />
-        <Script
-            dangerouslySetInnerHTML={{
-                __html: `
+            />
+            <Script
+                dangerouslySetInnerHTML={{
+                    __html: `
                         window.dataLayer = window.dataLayer || [];
                         function gtag(){dataLayer.push(arguments);}
                         gtag('js', new Date());
@@ -20,9 +20,9 @@ export default function Analytics () {
                             page_path: window.location.pathname,
                         });
                     `,
-            }}
-        />
-    </>
+                }}
+            />
+        </>
     )
 
 }

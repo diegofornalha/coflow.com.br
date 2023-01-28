@@ -7,7 +7,7 @@ export default function Document() {
             <Head />
             <body>
                 <Main />
-                <Analytics
+                <Analytics/>
                 <NextScript />
             </body>
         </Html>

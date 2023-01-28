@@ -4,6 +4,7 @@ import { I18NContext } from '../context/i18Ncontext';
 import { translatedLinks } from '../../content/translations/links';
 import { translatedRoles } from '../../content/translations/roles';
 import '../css/main.css';
+import Analytics from '../components/Analytics';
 
 export default function MyApp({ Component, pageProps }) {
     const [locale, setLocale] = React.useState('en');

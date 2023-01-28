@@ -4,11 +4,11 @@ import Analytics from '../components/Analytics';
 export default function Document() {
     return (
         <Html lang='pt-BR'>
-            <Analytics/>
-            <Head/>
+            <Analytics />
+            <Head />
             <body>
-                <Main/>
-                <NextScript/>
+                <Main />
+                <NextScript />
             </body>
         </Html>
     )

@@ -4,7 +4,7 @@ import Analytics from '../components/Analytics';
 export default function Document() {
     return (
         <Html lang='pt-BR'>
-                            <Analytics />
+        <Analytics />
             <Head />
             <body>
                 <Main />

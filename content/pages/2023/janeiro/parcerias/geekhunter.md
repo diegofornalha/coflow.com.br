@@ -166,4 +166,5 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 15
 title: GeekHunter
+metaDescription: Encontre os melhores profissionais de Smart Contrats Cadence
 ---

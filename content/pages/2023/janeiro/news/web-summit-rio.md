@@ -28,7 +28,7 @@ sections:
     elementId: ''
     variant: variant-a
     title: Web Summit Rio
-    titlePt: Web Summit Rio
+    titlePt: Por que a Flow Blockchain deve estar presente no evento de Rio de Janeiro
     subtitle: Web Summit Rio
     text: >
       ![](https://nftstorage.link/ipfs/bafybeigbtwcjvwufrzqyx3n4p3jrsjkt5b6vwwx6wc73ccixuzzjc5j2ty)

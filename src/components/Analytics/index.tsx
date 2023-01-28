@@ -1,2 +1,2 @@
 import * as React from 'react';
-import * Script from 'next/script'
+import * Script from 'next/script';

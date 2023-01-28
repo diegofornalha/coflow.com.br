@@ -1,5 +1,5 @@
 import * as React from 'react';
-import Script from ''
+import Script from 'next/script'
 
 export default function Analytics () {
 

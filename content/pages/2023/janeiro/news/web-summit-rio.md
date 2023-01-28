@@ -28,7 +28,7 @@ sections:
     elementId: ''
     variant: variant-a
     title: Why Flow Blockchain Should Attend the Rio de Janeiro Event
-    titlePt: Por que a Flow Blockchain deve estar presente no evento de Rio de Janeiro
+    titlePt: Por que a Flow Blockchain deve estar presente no Web Summit RIO
     subtitle: >-
       Exploring the Unique Advantages and Opportunities for Flow Blockchain in
       the Rio de Janeiro Market

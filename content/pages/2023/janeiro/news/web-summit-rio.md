@@ -165,7 +165,7 @@ sections:
     actions:
       - type: Button
         label: Learn More
-        altText: ''
+        altText: Saiba Mais
         url: 'https://flow.coflow.com.br/flow-brasil-embaixador-aprendiz/'
         showIcon: false
         icon: arrowRight

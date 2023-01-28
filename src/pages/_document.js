@@ -1,5 +1,5 @@
 import { Html, Head, Main, NextScript } from 'next/document';
-import Analytics from '../comp'
+import Analytics from '../components/Analytics'
 
 export default function Document() {
     return (
@@ -7,7 +7,7 @@ export default function Document() {
             <Head />
             <body>
                 <Main />
-                <Analytics/>
+                <Analytics />
                 <NextScript />
             </body>
         </Html>

@@ -32,11 +32,11 @@ sections:
     subtitle: Web Summit Rio
     text: |
       Web Summit Rio
-    textPt: >+
+    textPt: >-
       ![](https://nftstorage.link/ipfs/bafybeigbtwcjvwufrzqyx3n4p3jrsjkt5b6vwwx6wc73ccixuzzjc5j2ty)
 
 
-
+      oi
     styles:
       self:
         height: auto

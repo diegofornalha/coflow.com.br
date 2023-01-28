@@ -2,8 +2,8 @@
 layout: PageLayout
 metaTitle: Web Summit Rio
 metaDescription: >-
-  Banco Central é esperado para ser a principal agência reguladora para
-  criptomoedas
+  Os diferenciais da Flow Blockchain que a destacam como uma das principais
+  tecnologias do mercado
 addTitleSuffix: true
 socialImage: /images/padrao/flow-coflow-logo.png
 metaTags:

@@ -8,8 +8,8 @@ titlePt: Dapper Labs junta-se à Zeedz
 colors: colors-d
 date: '2023-01-01'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  A gigante do setor de NFTs, criadora de sucessos como NBA Top Shot e
+  Cryptokitties, investe em jogo baseado em sustentabilidade
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

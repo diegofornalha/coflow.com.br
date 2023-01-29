@@ -15,6 +15,7 @@ featuredImage:
   altText: Proteja seu código com segurança!
   caption: Proteja seu código com segurança!
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

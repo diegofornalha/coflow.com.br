@@ -53,42 +53,6 @@ sections:
     subtitlePt: >-
       Você vai aprender a melhor linguagem de programação para contrato
       inteligente. Esse vai ser o seu diferencial, entre para WEB 3.0!
-  - type: MediaGallerySection
-    colors: colors-e
-    elementId: ''
-    images:
-      - type: ImageBlock
-        url: /images/Embaixadores/avatar-diegofornalha-flow.png
-      - type: ImageBlock
-        url: /images/Embaixadores/avatar-diegofornalha-flow.png
-        altText: Image three
-        caption: Image three caption
-      - type: ImageBlock
-        url: /images/Embaixadores/avatar-diegofornalha-flow.png
-        altText: Image four
-        caption: Image four caption
-      - type: ImageBlock
-        url: /images/Embaixadores/avatar-diegofornalha-flow.png
-        elementId: ''
-    spacing: 46
-    columns: 4
-    aspectRatio: auto
-    showCaption: false
-    enableHover: true
-    styles:
-      self:
-        height: auto
-        width: full
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
   - type: FeatureHighlightSection
     colors: colors-e
     elementId: ''

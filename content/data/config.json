@@ -95,7 +95,7 @@
             {
                 "type": "Link",
                 "label": "Blog em Português",
-                "altText": "Blog",
+                "altText": "Blog em Português",
                 "url": "/blog",
                 "showIcon": true,
                 "icon": "arrowRightCircle",

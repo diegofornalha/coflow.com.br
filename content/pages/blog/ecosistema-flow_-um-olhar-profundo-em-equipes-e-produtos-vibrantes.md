@@ -16,7 +16,7 @@ excerpt: >-
   Twitter.
 featuredImage:
   type: ImageBlock
-  url: /images/Ecosystem Overview diegofornalha.png
+  url: /images/capas/Ecosystem Overview diegofornalha.png
   altText: 'Ecosistema Flow: um olhar profundo em equipes e produtos vibrantes'
   caption: >-
     Crescimento significativo de desenvolvedores na plataforma, com um aumento

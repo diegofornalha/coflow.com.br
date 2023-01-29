@@ -144,12 +144,6 @@
             },
             {
                 "type": "Link",
-                "label": "Who We Are",
-                "url": "/about",
-                "altText": "Quem Somos"
-            },
-            {
-                "type": "Link",
                 "label": "Contact Us",
                 "altText": "Contact Us",
                 "url": "https://wa.me/5521997806363?text=Ol%C3%A1",

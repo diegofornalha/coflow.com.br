@@ -22,6 +22,7 @@ featuredImage:
     através de carteiras como Blocto ou Ledger. O jogo Chainmonsters também está
     integrado ao blockchain Flow, permitindo que os usuários usem NFTs e outros
     objetos do jogo em um mundo aberto multijogador.
+  width: 800
 media:
   type: ImageBlock
   url: /images/capas/Staking de Flow pelo Navegador Diego Fornalha.png

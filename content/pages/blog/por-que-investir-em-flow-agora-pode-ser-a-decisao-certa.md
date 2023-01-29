@@ -26,6 +26,7 @@ featuredImage:
     envolvidos antes de investir.
   altText: Por que investir em flow agora pode ser a decisão certa
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-

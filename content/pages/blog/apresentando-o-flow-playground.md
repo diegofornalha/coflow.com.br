@@ -58,6 +58,7 @@ media:
     oportunidades de co-marketing, recursos e consultoria para projetos
     qualificados.
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   O Flow é uma plataforma de blockchain de alto desempenho projetada para

@@ -25,7 +25,6 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     title: Curso Cadence
-    titlePt: Allons-y !
     text: |
       Aprenda a linguagem de programação Cadence com os melhores professores
     actions:

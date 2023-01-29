@@ -99,7 +99,7 @@
                 "url": "/blog",
                 "showIcon": true,
                 "icon": "chevronLeft",
-                "iconPosition": "right",
+                "iconPosition": "left",
                 "elementId": ""
             }
         ],

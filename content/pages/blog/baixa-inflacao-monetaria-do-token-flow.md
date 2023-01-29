@@ -59,6 +59,7 @@ media:
     estão usando pelos serviços de processamento de transações.
   altText: Baixa Inflação Monetária do token flow
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   Blockchains como a Flow são alimentadas por comunidades descentralizadas que

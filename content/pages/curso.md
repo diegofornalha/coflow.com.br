@@ -60,7 +60,7 @@ sections:
     subtitlePt: Sous-titre
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/Embaixadores/avatar-diegofornalha-flow.png
       - type: ImageBlock
         url: /images/gallery-2.jpg
         altText: Image two

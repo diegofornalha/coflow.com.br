@@ -20,6 +20,7 @@ media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: ' participe de eventos exclusivos e muito mais com FLOW.'
+  caption: ' participe de eventos exclusivos e muito mais com FLOW.'
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

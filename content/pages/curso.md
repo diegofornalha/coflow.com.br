@@ -70,6 +70,7 @@ sections:
         style: primary
         url: /
         iconPosition: left
+        altText: Comprar Agora
     backgroundImage:
       type: ImageBlock
       url: /images/hero-4.jpg

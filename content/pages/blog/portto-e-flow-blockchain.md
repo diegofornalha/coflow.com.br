@@ -37,6 +37,7 @@ featuredImage:
     sem sacrificar a descentralização. A Porto também está trabalhando em
     integrações com outras plataformas blockchain, como a Ethereum e a Solana.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/Portto e Flow Blockchain diego fornalha.png

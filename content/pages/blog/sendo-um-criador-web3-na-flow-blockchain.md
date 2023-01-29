@@ -56,6 +56,7 @@ media:
     envolvimento das comunidades, bem como para permitir que os fãs apoiem
     criadores e comunidades e expressem a própria individualidade.
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   O objetivo da Dapper Labs é usar a tecnologia descentralizada, especificamente

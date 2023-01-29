@@ -28,6 +28,7 @@ featuredImage:
   altText: Sobre a atualização padrão do token Flow FT & NFT
   caption: ''
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-

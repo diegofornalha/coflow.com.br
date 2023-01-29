@@ -7,9 +7,7 @@ title: Um Ano de Desafios e Realizações
 titlePt: Um Ano de Desafios e Realizações
 colors: colors-d
 date: '2023-01-01'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ' participe de eventos exclusivos e muito mais com FLOW.'
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

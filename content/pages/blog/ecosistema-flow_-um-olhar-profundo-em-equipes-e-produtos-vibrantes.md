@@ -26,6 +26,7 @@ media:
     e startups digitais em sua entrada no espaço web3, e como a Flow está se
     tornando a blockchain de escolha para plataformas sociais populares como
     Instagram e Twitter.
+  width: 500
 bottomSections:
   - type: FeaturedPostsSection
     colors: colors-a

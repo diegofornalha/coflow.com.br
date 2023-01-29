@@ -165,7 +165,7 @@
             {
                 "type": "Link",
                 "label": "POLÍTICA DE PRIVACIDADE",
-                "altText": "POLÍTICA DE PRIVACIDADE ",
+                "altText": "POLÍTICA DE PRIVACIDADE",
                 "url": "/politicas-de-privacidade",
                 "showIcon": false,
                 "icon": "arrowRight",

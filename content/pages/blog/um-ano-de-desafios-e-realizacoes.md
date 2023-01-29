@@ -8,9 +8,7 @@ titlePt: Um Ano de Desafios e Realizações
 colors: colors-d
 date: '2023-01-01'
 excerpt: ' participe de eventos exclusivos e muito mais com FLOW.'
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: ' participe de eventos exclusivos e muito mais com FLOW.'
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

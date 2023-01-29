@@ -47,7 +47,7 @@ sections:
           altText: altText of the image
           caption: Caption of the image
           width: 100
-          height: 300
+          height: 100
           elementId: ''
       - type: FeaturedItem
         title: 'Duração: +5 horas'

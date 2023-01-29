@@ -15,6 +15,7 @@ featuredImage:
   altText: ' Cadence: a importância da estruturação e padronização'
   caption: ' Cadence: a importância da estruturação e padronização'
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

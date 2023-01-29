@@ -49,7 +49,9 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    subtitlePt: Curso Cadence
+    subtitlePt: >-
+      Você vai aprender a melhor linguagem de programação para contrato
+      inteligente. Esse vai ser o seu diferencial, entre para WEB 3.0!
   - type: FeatureHighlightSection
     colors: colors-e
     elementId: ''

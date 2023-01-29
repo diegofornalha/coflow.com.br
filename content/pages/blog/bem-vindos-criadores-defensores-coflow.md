@@ -15,6 +15,7 @@ featuredImage:
   altText: Bem vindos Criadores Defensores CoFlow
   caption: Bem vindos Criadores Defensores CoFlow
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

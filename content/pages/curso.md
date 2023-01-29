@@ -20,7 +20,7 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@diegofornalha'
-title: GeekHunter
+title: Curso Cadence
 sections:
   - type: TextSection
     colors: colors-d

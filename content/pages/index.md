@@ -21,10 +21,11 @@ sections:
     backgroundSize: full
     title: Accelerate every step!
     titlePt: Acelere cada etapa!
-    text: |
-      Will your team be fluent in web3?
+    text: |+
+      Everything and more about Flow Blockchain!
+
     textPt: |
-      Seu time vai ser fluente na web3?
+      Tudo e mais um pouco sobre Flow Blockchain!
     actions:
       - type: Button
         label: Contact Us

@@ -16,7 +16,7 @@ excerptFr: >-
 featuredImage:
   type: ImageBlock
   url: /images/CAPAS-Entendendo como os opcionais funcionam.png
-  altText: Como evitar e corrigir erros de null reference em seu código
+  altText: Como evitar e corrigir erros reference em seu código
   caption: ''
 media:
   type: ImageBlock

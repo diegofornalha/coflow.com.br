@@ -11,8 +11,8 @@ excerpt: >-
   Em parceria com a NBA, NBPA e Dapper Labs, a Top Shot NBA é a nova sensação em
   colecionar jogadas memoráveis de basquete.
 excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Em parceria com a NBA, NBPA e Dapper Labs, a Top Shot NBA é a nova sensação em
+  colecionar jogadas memoráveis de basquete.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

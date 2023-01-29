@@ -27,7 +27,7 @@ bottomSections:
     showDate: false
     showAuthor: false
     showExcerpt: false
-    showReadMoreLink: true
+    showReadMoreLink: false
     readMoreLinkLabel: Saiba Mais
     variant: variant-b
     actions: []

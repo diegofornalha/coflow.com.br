@@ -22,6 +22,7 @@ media:
   altText: ' Cadence: a importância da estruturação e padronização'
   caption: ' Cadence: a importância da estruturação e padronização'
   width: 800
+  height: 450
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

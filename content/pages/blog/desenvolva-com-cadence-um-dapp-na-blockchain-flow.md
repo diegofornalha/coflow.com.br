@@ -8,8 +8,8 @@ titlePt: Desenvolva com Cadence um DApp na Blockchain Flow
 colors: colors-d
 date: '2023-01-10'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Uma lista de recursos gratuitos para aprender Cadence e desenvolvimento de
+  DApp na Blockchain Flow.
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

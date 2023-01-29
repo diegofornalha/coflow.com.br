@@ -75,7 +75,7 @@ featuredImage:
   altText: Ecosistema
   caption: Ecosistema
   width: 800
-  height: 300
+  height: 450
   elementId: ''
 ---
 

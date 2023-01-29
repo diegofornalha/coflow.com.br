@@ -43,6 +43,7 @@ media:
     se integrar com a rede Ethereum. A Dapper Labs acredita que a NBA Top Shot
     pode mudar fundamentalmente o valor que a marca da NBA traz para os fãs,
     permitindo-lhes se divertir e criar eventos geradores de receita.
+  width: 800
 bottomSections: []
 metaDescription: >-
   A Dapper Labs anunciou uma parceria com a NBA e a NBPA em 2019, com o objetivo

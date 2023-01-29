@@ -38,6 +38,7 @@ media:
     cumpridas. A arquitetura de rede Flow é mais simples e menos problemática do
     que outras opções no mercado.
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   Flow é uma blockchain projetada para ser usada em jogos e aplicativos,

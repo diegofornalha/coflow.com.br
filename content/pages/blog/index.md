@@ -6,7 +6,7 @@ addTitleSuffix: true
 socialImage: null
 metaTags: []
 title: Blog
-titlePt: Titre de la page
+titlePt: Blog
 numOfPostsPerPage: 10
 postFeed:
   title: null

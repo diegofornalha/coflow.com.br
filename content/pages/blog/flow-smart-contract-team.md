@@ -7,9 +7,7 @@ title: Flow Smart Contract Team
 titlePt: Flow Smart Contract Team
 colors: colors-d
 date: '2023-01-01'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Oferecendo uma experiência única
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

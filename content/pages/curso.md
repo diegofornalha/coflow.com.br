@@ -68,6 +68,7 @@ sections:
           self:
             textAlign: left
         isIcon: true
+        featuredIcon: document
     actions: []
     columns: 3
     spacingX: 16

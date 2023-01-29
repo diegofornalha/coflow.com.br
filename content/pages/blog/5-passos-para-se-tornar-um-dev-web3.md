@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: '5 passos para se tornar um dev Web3 '
 colors: colors-d
-date: '2023-01-25'
+date: '0202-12-25'
 excerpt: >-
   O Web3 é a próxima geração da web, descentralizada e baseada em blockchain.
   Para se tornar um desenvolvedor Web3 de sucesso, é importante dominar os

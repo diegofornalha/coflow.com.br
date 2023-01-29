@@ -36,6 +36,7 @@ featuredImage:
     carteira criptográfica multichain que também possui um sistema de pagamento
     seguro chamado Simplex, que permite a compra de Ethers ou Flow com cartões
     de crédito ou débito.
+  width: 800
 media:
   type: ImageBlock
   url: /images/capas/NFTs LaLiga na Flow Blockchain diegofornalha.png

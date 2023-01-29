@@ -16,7 +16,7 @@ excerptFr: >-
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: A revolução da programação de contratos inteligentes
   caption: ''
 media:
   type: ImageBlock

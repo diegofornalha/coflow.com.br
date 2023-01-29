@@ -7,9 +7,7 @@ title: 'Cadence: da teoria à prática'
 titlePt: 'Cadence: da teoria à prática'
 colors: colors-d
 date: '2023-10-10'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Vamos dar os primeiros passos juntos e tornar o aprendizado divertido
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

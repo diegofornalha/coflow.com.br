@@ -29,6 +29,7 @@ featuredImage:
     pode mudar fundamentalmente o valor que a marca da NBA traz para os fãs,
     permitindo-lhes se divertir e criar eventos geradores de receita.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/NBA Top Shot na Flow Blockchain diegofornalha.png

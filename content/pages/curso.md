@@ -61,12 +61,6 @@ sections:
     subtitle: Essa Nova Linguagem De Programação Está Revolucionando o Mundo Todo!
     subtitlePt: Aprenda Essa Nova Linguagem De Programação
     text: >+
-      Não fique de Fora, essa é a sua oportunidade!
-
-
-      CADENCE - FLOW BLOCKCHAIN
-
-
       ### Fale agora mesmo com a minha equipe pelo WhatsApp e tire todas as suas
       dúvidas com relação ao curso, às formas de pagamento e aos acessos.
 

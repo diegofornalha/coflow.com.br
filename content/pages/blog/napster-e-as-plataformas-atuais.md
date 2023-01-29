@@ -8,9 +8,7 @@ titlePt: Napster e as Plataformas Atuais
 colors: colors-d
 date: '2023-01-01'
 excerpt: Equilibrando o Espectro de Propriedade Digital para um Mundo Melhor.
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: Equilibrando o Espectro de Propriedade Digital para um Mundo Melhor.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

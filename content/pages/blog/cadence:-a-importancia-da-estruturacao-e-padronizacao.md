@@ -7,9 +7,7 @@ title: ' Cadence: a importância da estruturação e padronização'
 titlePt: ' Cadence: a importância da estruturação e padronização'
 colors: colors-d
 date: '2023-01-10'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Dicas e técnicas para organizar seus projetos Cadence
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

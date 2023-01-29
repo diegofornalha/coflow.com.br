@@ -25,8 +25,9 @@ bottomSections:
     elementId: ''
     backgroundSize: full
     title: Curso Cadence
-    text: |
-      Aprenda a linguagem de programação Cadence com os melhores professores
+    text: >
+      Aprenda a linguagem de programação Cadence e comece a programar contratos
+      inteligentes na Blockchain
     actions:
       - type: Button
         label: Saiba Mais

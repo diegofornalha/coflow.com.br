@@ -20,7 +20,9 @@ excerpt: >-
   para os jogadores.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Chainmonsters Um Crypto Game da Flow Blockchain Diego Fornalha.png
+  url: >-
+    /images/capas/Chainmonsters Um Crypto Game da Flow Blockchain Diego
+    Fornalha.png
   altText: Chainmonsters Um Crypto Game da Flow Blockchain
   caption: >-
     Chainmonsters é um jogo multijogador online onde os jogadores podem
@@ -34,9 +36,12 @@ featuredImage:
     porque ela é projetada para ser centrada no consumidor e amigável ao
     desenvolvedor, permitindo integração fácil com o jogo e uma conta Flow
     anônima criada automaticamente para os jogadores.
+  width: 800
 media:
   type: ImageBlock
-  url: /images/capas/Chainmonsters Um Crypto Game da Flow Blockchain Diego Fornalha.png
+  url: >-
+    /images/capas/Chainmonsters Um Crypto Game da Flow Blockchain Diego
+    Fornalha.png
   altText: Chainmonsters Um Crypto Game da Flow Blockchain
   caption: >-
     Chainmonsters é um jogo multijogador online onde os jogadores podem
@@ -63,7 +68,9 @@ metaDescription: >-
   para ser centrada no consumidor e amigável ao desenvolvedor, permitindo
   integração fácil com o jogo e uma conta Flow anônima criada automaticamente
   para os jogadores.
-socialImage: /images/capas/Chainmonsters Um Crypto Game da Flow Blockchain Diego Fornalha.png
+socialImage: >-
+  /images/capas/Chainmonsters Um Crypto Game da Flow Blockchain Diego
+  Fornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 Chainmonsters é um jogo desenvolvido pela B-Side Games. Um novo e emocionante jogo multiplayer e multiplataforma online, onde você captura, batalha, troca e compete com monstros digitais em uma experiência massiva de mundo aberto. O jogo está em desenvolvimento há mais de 3 anos e combina uma excelente experiência de jogo tradicional com recursos interessantes possibilitados pela integração com a Flow. Trajes, itens, monstros e muitos outros objetos especiais do jogo são todos NFTs pertencentes e controlados pelos usuários.

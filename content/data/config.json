@@ -264,5 +264,6 @@
             "property": "og:title",
             "content": "CoFlow"
         }
-    ]
+    ],
+    "favicon": "/images/padrao/flow-coflow-logo.png"
 }

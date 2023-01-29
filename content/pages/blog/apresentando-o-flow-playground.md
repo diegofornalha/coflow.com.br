@@ -5,7 +5,6 @@ addTitleSuffix: true
 metaTags: []
 title: Apresentando o Flow Playground
 colors: colors-a
-date: '2023-01-12'
 excerpt: >-
   O Flow é uma plataforma de blockchain de alto desempenho projetada para
   suportar o desenvolvimento de aplicativos descentralizados, incluindo tokens
@@ -75,6 +74,7 @@ metaDescription: >-
   recursos e consultoria para projetos qualificados.
 socialImage: /images/capas/Apresentando o Flow Playground diego fornalha.png
 author: content/data/team/hilary-ouse.json
+date: '2023-01-02'
 ---
 ![https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4de523cfa2de7857f29\_5f6294c0c7a8cd8265b1c95f_FlowPlayground_OG_Images_Social%2520Image%2520copy.png](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4de523cfa2de7857f29\_5f6294c0c7a8cd8265b1c95f_FlowPlayground_OG_Images_Social%2520Image%2520copy.png)
 

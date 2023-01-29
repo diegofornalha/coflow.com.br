@@ -57,6 +57,7 @@ media:
     capacidades específicas. É recomendado que os desenvolvedores tenham um
     entendimento completo do controle de acesso em Cadence antes de implantar
     seus projetos na rede principal.
+  width: 800
 bottomSections: []
 metaDescription: >-
   O controle de acesso em contratos inteligentes escritos em Cadence, uma

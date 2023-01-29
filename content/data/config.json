@@ -94,7 +94,7 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
+                "label": "Blog ",
                 "altText": "Blog",
                 "url": "/blog",
                 "showIcon": true,

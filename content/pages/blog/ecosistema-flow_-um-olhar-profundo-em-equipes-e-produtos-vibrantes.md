@@ -14,18 +14,6 @@ excerpt: >-
   digitais em sua entrada no espaço web3, e como a Flow está se tornando a
   blockchain de escolha para plataformas sociais populares como Instagram e
   Twitter.
-featuredImage:
-  type: ImageBlock
-  url: /imagescapas/Ecosystem Overview diegofornalha.png
-  altText: 'Ecosistema Flow: um olhar profundo em equipes e produtos vibrantes'
-  caption: >-
-    Crescimento significativo de desenvolvedores na plataforma, com um aumento
-    de 2,5 vezes no número de novos desenvolvedores implantando contratos na
-    testnet e uma taxa de crescimento mensal de 31% desde novembro de 2020. Além
-    disso, o impacto da Flow como parceira confiável para empresas estabelecidas
-    e startups digitais em sua entrada no espaço web3, e como a Flow está se
-    tornando a blockchain de escolha para plataformas sociais populares como
-    Instagram e Twitter.
 media:
   type: ImageBlock
   url: /images/capas/Ecosystem Overview diegofornalha.png

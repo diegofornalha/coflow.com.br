@@ -21,7 +21,7 @@ media:
   url: /images/CAPAS-Tudo sobre Tokens Smart Contract.png
   altText: Tudo sobre Tokens Smart Contract
   caption: Tudo sobre Tokens Smart Contract
-  width: 850
+  width: 800
   height: 400
 bottomSections: []
 markdown_content_pt: >-

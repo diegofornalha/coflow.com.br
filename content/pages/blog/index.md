@@ -11,11 +11,13 @@ numOfPostsPerPage: 10
 postFeed:
   title: null
   subtitle: null
-  showDate: true
-  showAuthor: true
-  variant: variant-a
-  colors: colors-a
+  showDate: false
+  showAuthor: false
+  variant: variant-b
+  colors: colors-b
   actions: []
+  showExcerpt: false
+  showReadMoreLink: false
 topSections: []
 bottomSections: []
 styles:

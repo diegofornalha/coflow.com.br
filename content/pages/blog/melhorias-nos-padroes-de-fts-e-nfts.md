@@ -13,7 +13,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Melhorias nos padrões de FTs e NFTs
-  caption: ''
+  caption: Melhorias nos padrões de FTs e NFTs
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

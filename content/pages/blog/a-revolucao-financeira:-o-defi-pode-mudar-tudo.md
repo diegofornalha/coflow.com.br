@@ -11,8 +11,8 @@ excerpt: >-
   Da agricultura ao blockchain: como a descentralização está transformando a
   indústria financeira
 excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Da agricultura ao blockchain: como a descentralização está transformando a
+  indústria financeira
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

@@ -37,6 +37,7 @@ featuredImage:
     capacidades específicas. É recomendado que os desenvolvedores tenham um
     entendimento completo do controle de acesso em Cadence antes de implantar
     seus projetos na rede principal.
+  width: 800
 media:
   type: ImageBlock
   url: /images/capas/Controle básico de acesso em Cadence diegofornalha.png

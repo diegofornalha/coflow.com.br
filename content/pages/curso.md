@@ -1,6 +1,6 @@
 ---
 layout: PageLayout
-metaTitle: GeekHunter
+metaTitle: Curso Cadence
 metaDescription: Encontre os melhores profissionais de Smart Contrats Cadence
 addTitleSuffix: true
 socialImage: /images/padrao/flow-coflow-logo.png

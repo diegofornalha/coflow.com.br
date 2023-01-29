@@ -21,6 +21,7 @@ media:
   url: /images/CAPAS-bem vindos criadores e defensores.png
   altText: Bem vindos Criadores Defensores CoFlow
   caption: Bem vindos Criadores Defensores CoFlow
+  width: 800
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

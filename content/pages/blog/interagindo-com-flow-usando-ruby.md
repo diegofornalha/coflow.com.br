@@ -26,6 +26,7 @@ media:
   altText: Interagindo com Flow usando Ruby
   caption: Interagindo com Flow usando Ruby
   width: 800
+  height: 450
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

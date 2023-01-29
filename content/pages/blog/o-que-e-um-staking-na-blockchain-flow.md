@@ -38,6 +38,7 @@ featuredImage:
     são recompensados ​​com tokens. O staking é um componente importante do
     protocolo de prova de participação utilizado pelo Flow para manter a
     descentralização e segurança da rede.
+  width: 800
 media:
   type: ImageBlock
   url: /images/capas/diegofornalha staking flow blockchain.png

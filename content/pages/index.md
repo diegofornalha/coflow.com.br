@@ -64,7 +64,7 @@ sections:
         justifyContent: center
     backgroundImage:
       type: BackgroundImage
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: /images/Lil Miquela flow blockchain.png
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat

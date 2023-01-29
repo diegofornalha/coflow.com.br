@@ -52,7 +52,7 @@ sections:
     colors: colors-e
     elementId: ''
     backgroundSize: full
-    title: Time to leave your desk. Let’s go flying
+    title: APRENDA A CRIAR SEU CONTRATO INTELIGENTE NA BLOCKCHAIN
     titlePt: Ceci est un titre caractéristique
     subtitle: ''
     subtitlePt: Section sous-titre

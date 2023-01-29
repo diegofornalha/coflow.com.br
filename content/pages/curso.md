@@ -32,7 +32,7 @@ sections:
       NOSSO COMPROMISSO É TE ENSINAR!
     items:
       - type: FeaturedItem
-        title: Faster
+        title: 'Nível:Iniciante'
         titlePt: Plus rapide
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante

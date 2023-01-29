@@ -17,7 +17,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: A revolução da programação de contratos inteligentes
-  caption: ''
+  caption: A revolução da programação de contratos inteligentes
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

@@ -67,6 +67,7 @@ sections:
         styles:
           self:
             textAlign: left
+        isIcon: true
     actions: []
     columns: 3
     spacingX: 16

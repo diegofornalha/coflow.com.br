@@ -58,6 +58,7 @@ media:
     aquelas que não têm, o que pode ajudar a evitar erros no código e a torná-lo
     mais legível.
   width: 800
+  height: 850
 bottomSections: []
 metaDescription: Opcionais em Cadence? Não opcionais!
 socialImage: /images/capas/Opcionais em Cadence diegofornalha.png

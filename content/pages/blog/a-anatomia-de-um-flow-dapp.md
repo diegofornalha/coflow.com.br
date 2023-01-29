@@ -18,7 +18,7 @@ media:
   url: /images/capas/a anatomia da uma dapp diego fornalha.png
   altText: A anatomia de um Flow Dapp
   width: 800
-  height: 300
+  height: 400
   caption: A anatomia de um Flow Dapp
 bottomSections:
   - type: FeaturedPostsSection

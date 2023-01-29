@@ -18,7 +18,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CAPAS-Um Ano de Desafios e Realizações.png
   altText: ' participe de eventos exclusivos e muito mais com FLOW.'
   caption: ' participe de eventos exclusivos e muito mais com FLOW.'
 bottomSections: []

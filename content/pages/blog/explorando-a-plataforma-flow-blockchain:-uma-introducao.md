@@ -21,6 +21,7 @@ media:
   url: /images/Unindo forças para construir o Metaverse Diego Fornalha Coflow.png
   altText: Unindo forças para construir o Metaverse
   caption: Unindo forças para construir o Metaverse
+  width: 800
 bottomSections: []
 markdown_content_pt: >+
   Você já ouviu falar da constelação de criativos, desenvolvedores e jogadores

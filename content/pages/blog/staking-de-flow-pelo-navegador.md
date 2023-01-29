@@ -40,6 +40,7 @@ media:
     através de carteiras como Blocto ou Ledger. O jogo Chainmonsters também está
     integrado ao blockchain Flow, permitindo que os usuários usem NFTs e outros
     objetos do jogo em um mundo aberto multijogador.
+  width: 800
 bottomSections: []
 metaDescription: >-
   O Flow é um blockchain construído para a próxima geração de aplicativos, jogos

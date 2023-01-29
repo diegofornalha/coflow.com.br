@@ -8,9 +8,7 @@ titlePt: 'Cadence: da teoria à prática'
 colors: colors-d
 date: '2023-10-10'
 excerpt: Vamos dar os primeiros passos juntos e tornar o aprendizado divertido
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: Vamos dar os primeiros passos juntos e tornar o aprendizado divertido
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

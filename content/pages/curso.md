@@ -66,7 +66,7 @@ sections:
       - type: Button
         label: Get Started
         showIcon: true
-        icon: arrowRight
+        icon: cart
         style: primary
         url: /
     backgroundImage:

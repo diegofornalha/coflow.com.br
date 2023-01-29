@@ -8,8 +8,8 @@ titlePt: 'A Revolução Financeira: Como o DeFi pode mudar tudo'
 colors: colors-d
 date: '2023-01-01'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Da agricultura ao blockchain: como a descentralização está transformando a
+  indústria financeira
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

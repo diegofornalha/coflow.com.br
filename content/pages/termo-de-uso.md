@@ -20,7 +20,7 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@diegofornalha'
-title: Curso Cadence
+title: Termo de uso
 sections:
   - type: TextSection
     colors: colors-e

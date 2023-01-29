@@ -11,8 +11,8 @@ excerpt: >-
   Entendendo a tecnologia por trás da criptomoeda Flow e sua aplicação no mundo
   financeiro
 excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Entendendo a tecnologia por trás da criptomoeda Flow e sua aplicação no mundo
+  financeiro
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

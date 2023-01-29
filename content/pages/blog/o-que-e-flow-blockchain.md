@@ -31,6 +31,7 @@ featuredImage:
     criptomoedas, criar tokens fungíveis e NFTs, e mercados. O preço do token
     FLOW aumentou significativamente desde o seu lançamento.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/O que é Flow Blockchain diegofornalha-84b9c032.png

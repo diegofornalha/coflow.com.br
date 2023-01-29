@@ -25,6 +25,7 @@ featuredImage:
     permitindo que os usuários resgatam suas estacas e recompensas geradas de
     forma rápida e fácil.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-

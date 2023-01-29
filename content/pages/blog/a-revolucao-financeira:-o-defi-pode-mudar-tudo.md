@@ -15,7 +15,7 @@ excerptFr: >-
   indústria financeira
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CAPAS-A Revolução Financeira O DeFi pode mudar tudo.png
   altText: >-
     Da agricultura ao blockchain: como a descentralização está transformando a
     indústria financeira

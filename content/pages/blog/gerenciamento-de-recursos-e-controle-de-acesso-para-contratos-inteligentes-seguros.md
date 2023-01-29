@@ -33,7 +33,9 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
+  altText: >-
+    Gerenciamento de recursos e controle de acesso para contratos inteligentes
+    seguros
   caption: >-
     Gerenciamento de recursos e controle de acesso para contratos inteligentes
     seguros

@@ -12,7 +12,7 @@ excerptFr: A importância do controle de acesso e como usá-lo no Cadence
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: Proteja seu código com segurança!
   caption: Proteja seu código com segurança!
 media:
   type: ImageBlock

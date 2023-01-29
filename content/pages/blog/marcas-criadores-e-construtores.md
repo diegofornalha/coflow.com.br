@@ -25,6 +25,7 @@ media:
   url: '/images/CAPAS-Marcas, Criadores e Construtores.png'
   altText: 'Marcas, Criadores e Construtores'
   caption: 'Marcas, Criadores e Construtores'
+  width: 800
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

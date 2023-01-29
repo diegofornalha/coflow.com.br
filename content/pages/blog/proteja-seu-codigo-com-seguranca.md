@@ -20,6 +20,7 @@ media:
   type: ImageBlock
   url: /images/CAPAS-Proteja seu código com segurança.png
   altText: Proteja seu código com segurança!
+  caption: Proteja seu código com segurança!
 bottomSections: []
 markdown_content_pt: >
   Você sabe o que é controle de acesso? É a restrição de campos, funções e tipos

@@ -78,12 +78,17 @@ markdown_content_pt: >+
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Hoje eu quero falar sobre algo importante para todos os desenvolvedores de contratos inteligentes: a organização e padronização do seu código.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Muitos de vocês já devem saber, mas é fundamental manter seu código claro e organizado, especialmente quando se trata de contratos inteligentes. Isso inclui a forma como você nomeia campos e funções, como organiza as definições e estruturas dentro de um contrato ou transação, e a qualidade da documentação do código. Todos esses aspectos são muito importantes e eu vou escrever um post futuramente para compartilhar minhas opiniões e dicas sobre como organizar o código Cadence de forma eficiente.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Mas hoje, eu quero falar sobre algo um pouco mais alto nível: como organizar os arquivos de seu projeto no seu repositório do Github.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Se você estiver construindo um projeto que espera que outras pessoas queiram usar, colaborar e, eventualmente, estender ou imitar, é fundamental que você torna seu projeto o mais acessível possível. Uma parte disso é como você organiza o repositório do seu projeto.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Projetos construídos na Ethereum têm o framework Truffle, que é uma ferramenta para desenvolvedores que ajuda a configurar facilmente os projetos, testá-los e implantá-los. No Flow, ainda não temos uma solução automatizada para isso, mas esperamos ter em breve! Temos uma equipe incrível trabalhando na Flow CLI que resolve alguns desses problemas, e há alguns esforços da comunidade para simplificar a experiência do desenvolvedor no Flow.
+
+É importante que a comunidade de desenvolvedores se alinhe a padrões de fluxo de trabalho de desenvolvimento, para que as práticas possam ser padronizadas, repetidas e melhoradas, para que todos possam se beneficiar.
+
+Enquanto isso, temos que gerenciar isso sozinhos, e eu acho que encontrei uma forma de fazer isso. Uma das maneiras de gerenciar essa situação é aplicando técnicas de gerenciamento de projetos, como a definição de objetivos claros, a criação de um cronograma detalhado e o estabelecimento de responsabilidades claras para cada membro da equipe. Além disso, é importante estabelecer uma comunicação clara e eficiente para garantir que todos estejam alinhados e trabalhando em direção ao mesmo objetivo.
+

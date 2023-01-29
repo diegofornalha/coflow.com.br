@@ -29,7 +29,7 @@ sections:
     title: Curso cadence totalmente em português
     titlePt: Curso Cadence
     subtitle: >-
-      Você vai aprender a melhor linguagens de programação para contrato
+      Você vai aprender a melhor linguagem de programação para contrato
       inteligente. Esse é o diferencial que você busca na WEB 3.0!
     text: Curso Cadence
     textPt: Curso Cadence

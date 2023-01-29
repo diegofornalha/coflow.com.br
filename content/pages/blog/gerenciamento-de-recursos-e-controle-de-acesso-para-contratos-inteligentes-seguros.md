@@ -32,7 +32,9 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/CAPAS-Gerenciamento de recursos e controle de acesso para contratos
+    inteligentes seguros.png
   altText: >-
     Gerenciamento de recursos e controle de acesso para contratos inteligentes
     seguros

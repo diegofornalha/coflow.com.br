@@ -38,7 +38,7 @@ bottomSections:
       - type: Link
         showIcon: true
         icon: arrowRight
-        url: /
+        url: 'https://wa.me/5521997806363?text=Ol%C3%A1'
         label: Entre em Contato
         altText: Entre em Contato
     backgroundImage: null

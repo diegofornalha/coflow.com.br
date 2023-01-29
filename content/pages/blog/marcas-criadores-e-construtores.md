@@ -28,8 +28,11 @@ media:
   width: 800
   height: 450
 bottomSections: []
-markdown_content_pt: >2+
-   Descubra como aproveitar as novas oportunidades de negócios geradas pelos bens digitais baseados em blockchain e seja um dos primeiros a entrar em um mercado já avaliado em bilhões de dólares
+markdown_content_pt: >
+  Descubra como aproveitar as novas oportunidades de negócios geradas pelos bens
+  digitais baseados em blockchain e seja um dos primeiros a entrar em um mercado
+  já avaliado em bilhões de dólares
+
 
   Você já ouviu falar de NBA Top Shot? Pois é, essa é a prova de que a
   tecnologia blockchain está criando novos fluxos de receita que antes nem
@@ -63,9 +66,7 @@ markdown_content_pt: >2+
 
   Em resumo, a tecnologia blockchain está abrindo novas possibilidades de
   negócios e criando novos fluxos de receita para marcas, criadores e
-  desenvolvedores. Então, por que não ser um dos primeiros a aproveitar essa
-  oportunidade?
-
+  desenvolvedores.
 metaDescription: null
 socialImage: null
 ---

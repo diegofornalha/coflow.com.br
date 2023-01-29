@@ -14,6 +14,7 @@ featuredImage:
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Unindo forças para construir o Metaverse
   caption: Unindo forças para construir o Metaverse
+  width: 800
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

@@ -15,7 +15,7 @@ excerptFr: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CAPAS-Verificar msg sender no Cadence As Capabilidades.png
   altText: 'Verificar msg.sender no Cadence: As Capabilidades!'
   caption: 'Verificar msg.sender no Cadence: As Capabilidades!'
 media:

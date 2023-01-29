@@ -33,6 +33,7 @@ media:
   caption: >-
     Da agricultura ao blockchain: como a descentralização está transformando a
     indústria financeira
+  width: 800
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

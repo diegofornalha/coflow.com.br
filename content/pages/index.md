@@ -18,7 +18,7 @@ sections:
   - type: CtaSection
     colors: colors-b
     elementId: ''
-    title: Accelerate every step!
+    title: Create your World!
     titlePt: Crie seu Mundo!
     text: |+
       Everything and more about Flow Blockchain!

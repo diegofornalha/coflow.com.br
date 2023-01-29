@@ -26,7 +26,6 @@ sections:
     colors: colors-d
     elementId: ''
     title: Curso Cadence Totalmente Em Português
-    titlePt: À la une
     subtitle: >-
       Você vai aprender a melhor linguagem de programação para contrato
       inteligente. Esse vai ser o seu diferencial, entre agora para WEB 3.0!

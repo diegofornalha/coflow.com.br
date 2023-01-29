@@ -29,7 +29,7 @@ bottomSections:
       Aprenda a linguagem de programação Cadence com os melhores professores
     actions:
       - type: Button
-        label: Try it now
+        label: SaibaMais
         url: /
         showIcon: true
         icon: arrowRight

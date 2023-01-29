@@ -40,6 +40,7 @@ bottomSections:
         icon: arrowRight
         url: /
         label: Entre em Contato
+        altText: Entre em Contato
     backgroundImage: null
     styles:
       self:

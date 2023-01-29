@@ -21,6 +21,7 @@ media:
   url: /images/CAPAS-Melhorias nos padrões de FTs e NFTs.png
   altText: Melhorias nos padrões de FTs e NFTs
   caption: Melhorias nos padrões de FTs e NFTs
+  width: 800
 bottomSections: []
 markdown_content_pt: >+
   Caso essa seja a primeira vez que você está lendo um dos meus posts, eu sou

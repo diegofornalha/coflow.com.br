@@ -16,16 +16,14 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: CtaSection
-    colors: colors-e
+    colors: colors-b
     elementId: ''
-    backgroundSize: full
-    title: Accelerate every step!
-    titlePt: Acelere cada etapa!
-    text: |+
-      Everything and more about Flow Blockchain!
-
+    title: Create your World!
+    titlePt: Crie seu Mundo!
+    text: |
+      Everything and more about Flow!
     textPt: |
-      Tudo e mais um pouco sobre Flow Blockchain!
+      Tudo e mais um pouco sobre Flow!
     actions:
       - type: Button
         label: Contact Us
@@ -64,11 +62,12 @@ sections:
         justifyContent: center
     backgroundImage:
       type: BackgroundImage
-      url: /images/gifs/realidade virtual.gif
-      backgroundSize: cover
+      url: /images/Lil Miquela flow blockchain.png
+      backgroundSize: auto
       backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 15
+      backgroundRepeat: repeat
+      opacity: 68
+    backgroundSize: full
 addTitleSuffix: true
 metaTags:
   - type: MetaTag

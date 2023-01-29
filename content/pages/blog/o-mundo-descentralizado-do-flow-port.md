@@ -8,8 +8,8 @@ titlePt: 'O Mundo descentralizado do Flow Port  '
 colors: colors-d
 date: '2023-01-01'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Staking e Delegação com um Clique: Conheça as Opções Disponíveis para
+  Maximizar seus Lucros com FLOW
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

@@ -17,7 +17,7 @@ featuredImage:
   type: ImageBlock
   url: /images/CAPAS-Entendendo como os opcionais funcionam.png
   altText: Como evitar e corrigir erros de referências vazias em seu código
-  caption: ''
+  caption: Como evitar e corrigir erros de referências vazias em seu código
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

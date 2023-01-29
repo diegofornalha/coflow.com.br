@@ -65,6 +65,7 @@ media:
     podem ter um único proprietário direto. No modelo de recursos, o próprio
     CryptoKitty é armazenado diretamente na conta do proprietário, enquanto no
     modelo de ledger, é armazenado em um contrato inteligente centralizado.
+  width: 800
 bottomSections: []
 metaDescription: null
 socialImage: null

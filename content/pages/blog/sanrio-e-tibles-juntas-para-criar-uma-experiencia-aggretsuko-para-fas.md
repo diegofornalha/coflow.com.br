@@ -11,7 +11,9 @@ excerpt: A nova maneira de colecionar digital com personagens adorados de Aggret
 excerptFr: A nova maneira de colecionar digital com personagens adorados de Aggretsuko
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/CAPAS-Sanrio e Tibles juntas para criar uma experiência Aggretsuko
+    para fãs.png
   altText: Sanrio e Tibles juntas para criar uma experiência Aggretsuko para fãs
   caption: Sanrio e Tibles juntas para criar uma experiência Aggretsuko para fãs
 media:

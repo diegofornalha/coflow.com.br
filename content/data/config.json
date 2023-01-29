@@ -144,15 +144,39 @@
             },
             {
                 "type": "Link",
-                "label": "Who We Are",
-                "url": "/about",
-                "altText": "Quem Somos"
-            },
-            {
-                "type": "Link",
                 "label": "Contact Us",
                 "altText": "Contact Us",
                 "url": "https://wa.me/5521997806363?text=Ol%C3%A1",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "CURSO CADENCE",
+                "altText": "CURSO CADENCE",
+                "url": "/curso",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "TERMO DE USO",
+                "altText": "TERMO DE USO",
+                "url": "/termo-de-uso",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "POLÍTICA DE PRIVACIDADE",
+                "altText": "POLÍTICA DE PRIVACIDADE",
+                "url": "/politica-de-privacidade",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

@@ -31,8 +31,8 @@ sections:
     subtitle: >-
       Você vai aprender a melhor linguagem de programação para contrato
       inteligente. Esse vai ser o seu diferencial, entre agora para WEB 3.0!
-    text: Curso Cadence
-    textPt: Curso Cadence
+    text: "(VIDEO)\n\nNão fique de Fora, essa é a sua oportunidade!\n\nCADENCE - FLOW BLOCKCHAIN\n\n##De\_R$597\_por apenas\n## R$397,00 ou em\n##até 12x de\n## R$ 38,68\n\n![](https://bafkreiesz7tpwc5iq6hzz4roene4bkxqtwmhp5sol5epuhf2mskyswrkb4.ipfs.nftstorage.link/)\n\n*   Pagamento 100% seguro\n*   Acesso imediato\n*   7 dias de garantia\n"
+    textPt: "(VIDEO)\n\nNão fique de Fora, essa é a sua oportunidade!\n\nCADENCE - FLOW BLOCKCHAIN\n\n\\##De\_R$597\_por apenas\n\\## R$397,00 ou em\n\\##até 12x de\n\\## R$ 38,68\n\n!\\[]\\(https://bafkreiesz7tpwc5iq6hzz4roene4bkxqtwmhp5sol5epuhf2mskyswrkb4.ipfs.nftstorage.link/)\n\n\\*   Pagamento 100% seguro\n\\*   Acesso imediato\n\\*   7 dias de garantia\n\n\n"
     styles:
       self:
         height: auto
@@ -51,7 +51,7 @@ sections:
         textAlign: left
     subtitlePt: >-
       Você vai aprender a melhor linguagem de programação para contrato
-      inteligente. Esse vai ser o seu diferencial, entre para WEB 3.0!
+      inteligente. Esse vai ser o seu diferencial, entre agora para WEB 3.0!
   - type: FeatureHighlightSection
     colors: colors-e
     elementId: ''
@@ -60,22 +60,25 @@ sections:
     titlePt: APRENDA A CRIAR CONTRATO INTELIGENTE NA BLOCKCHAIN
     subtitle: Essa Nova Linguagem De Programação Está Revolucionando o Mundo Todo!
     subtitlePt: Aprenda Essa Nova Linguagem De Programação
-    text: |
-      Não fique de Fora, essa é a sua oportunidade!
+    text: >+
+      ### Fale agora mesmo com a minha equipe pelo WhatsApp e tire todas as suas
+      dúvidas com relação ao curso, às formas de pagamento e aos acessos.
 
-      CADENCE - FLOW BLOCKCHAIN
+
+      ## Ainda com dúvidas?​
+
     textPt: |+
       CADENCE - FLOW BLOCKCHAIN
 
     actions:
       - type: Button
-        label: Compre Agora
+        label: Chame no Suporte
         showIcon: true
         icon: cart
         style: primary
-        url: /
+        url: 'https://wa.me/5521997806363?text=Ol%C3%A1'
         iconPosition: left
-        altText: Comprar Agora
+        altText: Chamar o Suporte
     backgroundImage:
       type: ImageBlock
       url: /images/hero-4.jpg

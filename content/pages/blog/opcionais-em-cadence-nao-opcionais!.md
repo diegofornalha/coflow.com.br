@@ -57,6 +57,7 @@ media:
     o programador faça uma distinção explícita entre variáveis que têm valores e
     aquelas que não têm, o que pode ajudar a evitar erros no código e a torná-lo
     mais legível.
+  width: 800
 bottomSections: []
 metaDescription: Opcionais em Cadence? Não opcionais!
 socialImage: /images/capas/Opcionais em Cadence diegofornalha.png

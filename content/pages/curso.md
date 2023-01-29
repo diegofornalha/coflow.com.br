@@ -78,7 +78,7 @@ sections:
         style: primary
         url: /
         iconPosition: left
-        altText: Comprar Agora
+        altText: Chame no Suporte
     backgroundImage:
       type: ImageBlock
       url: /images/hero-4.jpg

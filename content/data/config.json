@@ -10,8 +10,12 @@
             {
                 "type": "Link",
                 "label": "Home",
+                "altText": "Inicio",
                 "url": "/",
-                "altText": "Home"
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             },
             {
                 "type": "DropdownLink",

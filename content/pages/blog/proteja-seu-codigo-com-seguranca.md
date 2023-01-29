@@ -13,7 +13,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Post thumbnail image
-  caption: ''
+  caption: Proteja seu código com segurança!
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

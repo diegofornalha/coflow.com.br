@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: NBA Top Shot na Flow Blockchain
 colors: colors-d
-date: '2022-12-01'
+date: '2022-12-14'
 excerpt: >-
   A Dapper Labs anunciou uma parceria com a NBA e a NBPA em 2019, com o objetivo
   de criar uma plataforma que permita aos fãs da NBA colecionar e trocar

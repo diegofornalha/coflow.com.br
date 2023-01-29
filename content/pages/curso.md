@@ -55,6 +55,7 @@ sections:
           self:
             textAlign: left
         isIcon: true
+        featuredIcon: circuit
       - type: FeaturedItem
         title: 'Formato: Online'
         titlePt: Concentré

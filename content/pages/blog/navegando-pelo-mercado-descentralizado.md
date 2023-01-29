@@ -7,9 +7,7 @@ title: Navegando pelo mercado descentralizado
 titlePt: Navegando pelo mercado descentralizado
 colors: colors-d
 date: '2023-01-01'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Explorando as possibilidades das organizações descentralizadas autónomas.
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

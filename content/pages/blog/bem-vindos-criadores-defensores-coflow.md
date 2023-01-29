@@ -7,7 +7,9 @@ title: 'Bem-vindos, Criadores, Defensores CoFlow'
 titlePt: 'Bem-vindos, Criadores, Defensores CoFlow'
 colors: colors-d
 date: '2023-01-10'
-excerpt: Desvendando as possibilidades infinitas dos NFTs
+excerpt: >-
+  Descubra novas formas de monetizar e se conectar com o seu público através de
+  tecnologia descentralizada
 excerptFr: Desvendando as possibilidades infinitas dos NFTs
 featuredImage:
   type: ImageBlock

@@ -43,7 +43,7 @@ media:
     Web3 ou em um uso específico, e ficar atualizado sobre as últimas tendências
     e tecnologias. Mantendo-se atualizado e especializado, você poderá
     aproveitar ao máximo as oportunidades neste campo em rápido crescimento.
-  width: 98
+  width: 800
 bottomSections:
   - type: FeaturedPostsSection
     colors: colors-d

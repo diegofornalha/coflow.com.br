@@ -16,7 +16,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: CtaSection
-    colors: colors-e
+    colors: colors-a
     elementId: ''
     backgroundSize: full
     title: Accelerate every step!

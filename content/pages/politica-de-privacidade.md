@@ -20,7 +20,7 @@ metaTags:
   - type: MetaTag
     property: 'twitter:site'
     content: '@diegofornalha'
-title: Termo de uso
+title: Política de Privacidade
 sections:
   - type: TextSection
     colors: colors-e

@@ -19,9 +19,38 @@ media:
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Post image
 bottomSections: []
-markdown_content_pt: >-
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-  doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
+markdown_content_pt: >+
+  Você sabe o que é controle de acesso? É a restrição de campos, funções e tipos
+  a certos escopos e usuários. É extremamente importante para os desenvolvedores
+  considerarem profundamente para garantir que seu código esteja protegido
+  contra vulnerabilidades potenciais. A tecnologia blockchain certamente teve
+  sua cota justa de bugs e explorações e muitos deles poderiam ter sido evitados
+  com um controle de acesso melhor gerenciado.
+
+
+  Eu acredito que todo desenvolvedor deveria ter um entendimento completo do
+  controle de acesso do Cadence antes mesmo de pensar em implantar seu projeto
+  na mainnet. Padrões altos, eu sei, mas estamos lidando com coisas de
+  verdadeiro valor aqui! (e a maioria de vocês provavelmente não vai me ouvir de
+  qualquer maneira e simplesmente copiar o código do Top Shot sem pensar).
+
+
+  Ao contrário de muitos idiomas, o Cadence fornece duas camadas diferentes de
+  controle de acesso que são ambas incorporadas ao idioma:
+
+
+  Controle de acesso baseado em palavra-chave
+
+  Controle de acesso baseado em capacidade
+
+  Eu recomendo conferir esses antes de ler mais deste post.
+
+
+  Eu não vou fornecer uma explicação detalhada dos diferentes tipos de controle
+  de acesso neste post, mas vou falar sobre algumas das razões para utilizá-los
+  e alguns exemplos de como eles podem ser usados ​​efetivamente em contratos
+  inteligentes.
+
 metaDescription: null
 socialImage: null
 ---

@@ -37,6 +37,7 @@ featuredImage:
     envolvimento das comunidades, bem como para permitir que os fãs apoiem
     criadores e comunidades e expressem a própria individualidade.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/Sendo um Criador Web3 na Flow Blockchain Diego Fornalha.png

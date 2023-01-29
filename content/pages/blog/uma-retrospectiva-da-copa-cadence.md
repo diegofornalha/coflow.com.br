@@ -46,6 +46,7 @@ media:
     avaliadas por um júri e os vencedores recebiam prêmios. Os links fornecidos
     no texto dão mais detalhes sobre cada rodada da Cadence Cup, incluindo os
     resultados finais e as submissões dos participantes.
+  width: 800
 bottomSections: []
 metaDescription: >-
   A Cadence Cup foi uma série de desafios que incentivavam os participantes a

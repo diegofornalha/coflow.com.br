@@ -59,6 +59,7 @@ media:
     pessoas da ação e ampliando o envolvimento da comunidade. A campanha de
     lançamento inclui uma série de capacetes exclusivos com diferentes
     características, como materiais de viseira, decalques
+  width: 850
 bottomSections: []
 metaDescription: null
 socialImage: null

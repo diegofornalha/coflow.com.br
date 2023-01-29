@@ -26,9 +26,8 @@ bottomSections:
     backgroundSize: full
     title: Curso Cadence
     titlePt: Allons-y !
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |
+      Aprenda a linguagem de programação Cadence com os melhores professores
     textPt: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.

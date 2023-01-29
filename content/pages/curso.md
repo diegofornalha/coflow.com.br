@@ -55,7 +55,7 @@ sections:
     title: APRENDA A CRIAR SEU CONTRATO INTELIGENTE NA BLOCKCHAIN
     titlePt: APRENDA A CRIAR SEU CONTRATO INTELIGENTE NA BLOCKCHAIN
     subtitle: Aprenda Essa Nova Linguagem
-    subtitlePt: Section sous-titre
+    subtitlePt: Aprenda Essa Nova Linguagem
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
     textPt: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.

@@ -42,6 +42,9 @@ markdown_content_pt: >+
   importantes na descentralização do Flow.
 
 
+  <!---->
+
+
   *   Padrão de Metadados NFT: Isso é algo de que todos nós estamos muito
   orgulhosos. Três membros da comunidade que não possuem afiliação formal com a
   equipe central do Flow enviaram uma proposta para um padrão genérico que
@@ -54,7 +57,36 @@ markdown_content_pt: >+
   definimos algumas das estruturas padrão, conhecidas como views, que são usadas
   para retornar conjuntos de dados específicos. Ainda há mais a adicionar, e
   qualquer pessoa pode enviar uma proposta para uma view padrão! Dê uma olhada
-  no NFT READ
+  no NFT README também!
+
+
+      Enfim, esses são apenas alguns dos projetos incríveis que estamos trabalhando, e esperamos que você esteja animado para ver o que mais está por vir. E agora, vamos falar sobre o assunto principal deste post: as grandes mudanças propostas para os padrões de token fungíveis e não fungíveis do Flow.
+
+  <!---->
+
+
+  Como desenvolvedores de contratos inteligentes na equipe principal do Flow
+  Blockchain, aprendemos muito desde que criamos os padrões originais há três
+  anos. E agora, estamos chegando ao final da janela onde será possível fazer
+  uma atualização, pois com o alcance da meta "Stable Cadence", provavelmente
+  antes do final de 2022, não haverão mais mudanças quebradas no Cadence!
+  Acreditamos que, embora a atualização possa ser um pouco desafiadora para os
+  desenvolvedores no momento, os benefícios de usar um padrão mais eficiente e
+  poderoso valerão a pena no longo prazo. Nós esperamos que o Flow e o Cadence
+  estejam sempre presentes, então agora é o momento mais importante para nos
+  prepararmos e prepararmos os desenvolvedores futuros para o sucesso.
+
+
+  <!---->
+
+
+  No forum post que fizemos, apresentamos uma proposta para atualizar os padrões
+  para suas formas finais. Você pode encontrar mais detalhes no próprio post,
+  onde descrevemos os problemas dos padrões atuais, as mudanças propostas e o
+  código de exemplo do que acreditamos que as novas versões dos padrões devem
+  parecer. Se recebermos um bom feedback da comunidade, avançaremos com uma
+  proposta de melhoria do Flow e começaremos a escrever o código para as versões
+  finais dos padrões.
 
 metaDescription: null
 socialImage: null

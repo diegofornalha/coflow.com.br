@@ -13,7 +13,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Napster e as Plataformas Atuais
-  caption: ''
+  caption: Napster e as Plataformas Atuais
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

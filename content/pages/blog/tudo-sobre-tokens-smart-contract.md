@@ -7,9 +7,7 @@ title: Tudo sobre Tokens Smart Contract
 titlePt: Tudo sobre Tokens Smart Contract
 colors: colors-d
 date: '2023-01-10'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Não esqueça esse DETALHE VITAL
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

@@ -21,6 +21,7 @@ media:
   url: /images/CAPAS-Entendendo como os opcionais funcionam.png
   altText: Como evitar e corrigir erros de referências vazias em seu código
   caption: Como evitar e corrigir erros de referências vazias em seu código
+  width: 800
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

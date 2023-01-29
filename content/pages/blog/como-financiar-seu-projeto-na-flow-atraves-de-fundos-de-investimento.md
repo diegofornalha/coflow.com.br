@@ -43,6 +43,7 @@ featuredImage:
     de aceleração de startups especializados em blockchain, bem como
     oportunidades de financiamento governamental e empresarial.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-

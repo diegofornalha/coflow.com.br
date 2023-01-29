@@ -11,8 +11,8 @@ excerpt: >-
   Staking e Delegação com um Clique: Conheça as Opções Disponíveis para
   Maximizar seus Lucros com FLOW
 excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Staking e Delegação com um Clique: Conheça as Opções Disponíveis para
+  Maximizar seus Lucros com FLOW
 featuredImage:
   type: ImageBlock
   url: /images/O Mundo descentralizado do Flow Port.png

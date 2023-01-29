@@ -23,7 +23,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
+  altText: 'Verificar msg.sender no Cadence: As Capabilidades!'
   caption: 'Verificar msg.sender no Cadence: As Capabilidades!'
 bottomSections: []
 markdown_content_pt: >-

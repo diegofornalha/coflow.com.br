@@ -65,6 +65,7 @@ media:
     startups de blockchain receberem financiamento, e existem vários programas
     de aceleração de startups especializados em blockchain, bem como
     oportunidades de financiamento governamental e empresarial.
+  width: 800
 bottomSections: []
 metaDescription: >-
   O blockchain é uma tecnologia descentralizada que se baseia nas leis da oferta

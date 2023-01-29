@@ -19,6 +19,7 @@ featuredImage:
   altText: 'Verificar msg.sender no Cadence: As Capabilidades!'
   caption: 'Verificar msg.sender no Cadence: As Capabilidades!'
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

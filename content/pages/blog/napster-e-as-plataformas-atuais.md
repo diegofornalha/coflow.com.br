@@ -20,6 +20,7 @@ media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Napster e as Plataformas Atuais
+  caption: Napster e as Plataformas Atuais
 bottomSections: []
 markdown_content_pt: >+
   1999 foi um ano importante na história da tecnologia, não só pelo famoso bug

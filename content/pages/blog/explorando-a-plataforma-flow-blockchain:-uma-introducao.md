@@ -8,9 +8,7 @@ titlePt: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 colors: colors-d
 date: '2023-01-01'
 excerpt: Unindo forças para construir o Metaverse
-excerptFr: >-
-  Entendendo a tecnologia por trás da criptomoeda Flow e sua aplicação no mundo
-  financeiro
+excerptFr: Unindo forças para construir o Metaverse
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

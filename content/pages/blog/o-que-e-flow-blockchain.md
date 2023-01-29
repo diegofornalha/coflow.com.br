@@ -37,6 +37,7 @@ media:
   url: /images/capas/O que é Flow Blockchain diegofornalha-84b9c032.png
   altText: Post image
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   A Flow é uma blockchain projetada para suportar a criação de aplicativos

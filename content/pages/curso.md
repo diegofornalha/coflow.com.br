@@ -49,7 +49,7 @@ sections:
         textAlign: left
     subtitlePt: Curso Cadence
   - type: FeatureHighlightSection
-    colors: colors-b
+    colors: colors-e
     elementId: ''
     backgroundSize: full
     title: Time to leave your desk. Let’s go flying

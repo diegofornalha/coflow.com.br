@@ -69,6 +69,7 @@ sections:
         icon: cart
         style: primary
         url: /
+        iconPosition: left
     backgroundImage:
       type: ImageBlock
       url: /images/hero-4.jpg

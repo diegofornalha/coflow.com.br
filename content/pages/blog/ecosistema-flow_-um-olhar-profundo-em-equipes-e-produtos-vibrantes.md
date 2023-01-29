@@ -27,6 +27,7 @@ media:
     tornando a blockchain de escolha para plataformas sociais populares como
     Instagram e Twitter.
   width: 500
+  height: 300
 bottomSections:
   - type: FeaturedPostsSection
     colors: colors-a

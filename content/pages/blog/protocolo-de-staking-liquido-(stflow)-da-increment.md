@@ -24,6 +24,8 @@ featuredImage:
     estacas. O protocolo ajuda a descentralizar a rede e aumenta a liquidez,
     permitindo que os usuários resgatam suas estacas e recompensas geradas de
     forma rápida e fácil.
+  width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-
@@ -36,6 +38,8 @@ media:
     estacas. O protocolo ajuda a descentralizar a rede e aumenta a liquidez,
     permitindo que os usuários resgatam suas estacas e recompensas geradas de
     forma rápida e fácil.
+  width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   A Increment lançou um protocolo de estacas líquidas no Flow que permite aos

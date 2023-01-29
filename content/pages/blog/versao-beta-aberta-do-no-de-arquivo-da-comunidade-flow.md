@@ -41,6 +41,7 @@ featuredImage:
     observador, que são responsáveis por fornecer acesso ao estado atual da
     cadeia e aos dados do protocolo, respectivamente.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-

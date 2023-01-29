@@ -58,6 +58,7 @@ media:
     entendimento completo do controle de acesso em Cadence antes de implantar
     seus projetos na rede principal.
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   O controle de acesso em contratos inteligentes escritos em Cadence, uma

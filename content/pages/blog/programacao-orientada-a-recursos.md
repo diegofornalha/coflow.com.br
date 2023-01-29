@@ -30,6 +30,8 @@ featuredImage:
     e possui tipos de dados especiais para representar a propriedade de
     recursos. A Flow está trabalhando para tornar o Cadence a linguagem padrão
     para a escrita de contratos inteligentes na plataforma.
+  width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/Programação orientada a recursos Diego Fornalha.png
@@ -44,6 +46,8 @@ media:
     e possui tipos de dados especiais para representar a propriedade de
     recursos. A Flow está trabalhando para tornar o Cadence a linguagem padrão
     para a escrita de contratos inteligentes na plataforma.
+  width: 800
+  height: 450
 bottomSections: []
 metaDescription: null
 socialImage: null

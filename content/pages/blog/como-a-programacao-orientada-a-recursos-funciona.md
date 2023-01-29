@@ -21,7 +21,9 @@ excerpt: >-
   individualidade.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Como a programação orientada a recursos funciona diegofornalha.png
+  url: >-
+    /images/capas/Como a programação orientada a recursos funciona
+    diegofornalha.png
   altText: Como a programação orientada a recursos funciona?
   caption: >-
     O EVM (Ethereum Virtual Machine) ou WASM (WebAssembly) são opções ideais
@@ -39,9 +41,13 @@ featuredImage:
     podem ter um único proprietário direto. No modelo de recursos, o próprio
     CryptoKitty é armazenado diretamente na conta do proprietário, enquanto no
     modelo de ledger, é armazenado em um contrato inteligente centralizado.
+  width: 800
+  height: 450
 media:
   type: ImageBlock
-  url: /images/capas/Como a programação orientada a recursos funciona diegofornalha.png
+  url: >-
+    /images/capas/Como a programação orientada a recursos funciona
+    diegofornalha.png
   altText: 'Como a programação orientada a recursos funciona? '
   caption: >-
     O EVM (Ethereum Virtual Machine) ou WASM (WebAssembly) são opções ideais
@@ -59,6 +65,8 @@ media:
     podem ter um único proprietário direto. No modelo de recursos, o próprio
     CryptoKitty é armazenado diretamente na conta do proprietário, enquanto no
     modelo de ledger, é armazenado em um contrato inteligente centralizado.
+  width: 800
+  height: 450
 bottomSections: []
 metaDescription: null
 socialImage: null

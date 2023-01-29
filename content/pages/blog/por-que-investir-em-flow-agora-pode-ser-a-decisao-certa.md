@@ -25,6 +25,8 @@ featuredImage:
     importante lembrar de fazer a sua própria pesquisa e entender os riscos
     envolvidos antes de investir.
   altText: Por que investir em flow agora pode ser a decisão certa
+  width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-
@@ -38,6 +40,8 @@ media:
     negócios, adoção antecipada, resiliência e impacto positivo. No entanto, é
     importante lembrar de fazer a sua própria pesquisa e entender os riscos
     envolvidos antes de investir.
+  width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   O flow blockchain é uma plataforma de tecnologia de blockchain promissora que

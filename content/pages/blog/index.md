@@ -7,7 +7,7 @@ socialImage: null
 metaTags: []
 title: Blog em pt-Br
 titlePt: Blog em pt-Br
-numOfPostsPerPage: 10
+numOfPostsPerPage: 80
 postFeed:
   title: null
   subtitle: null

@@ -36,6 +36,8 @@ featuredImage:
     não tiver uma conta no Flow, o dispositivo pode iniciar o processo de
     criação de uma nova conta. Depois de configurado, o usuário pode assinar
     transações ao usar dApps compatíveis com o Flow.
+  width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/Usando o Ledger Nano com Flow Diego Fornalha.png
@@ -53,6 +55,8 @@ media:
     não tiver uma conta no Flow, o dispositivo pode iniciar o processo de
     criação de uma nova conta. Depois de configurado, o usuário pode assinar
     transações ao usar dApps compatíveis com o Flow.
+  width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   O aplicativo Flow é um software que permite aos usuários armazenar e acessar

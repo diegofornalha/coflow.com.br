@@ -37,6 +37,8 @@ featuredImage:
     aos aplicativos descentralizados, criando e beneficiando casos de uso reais.
     A FLOW reunirá todas as comunidades que constroem a rede para criar e
     compartilhar valor.
+  width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/Ampla distribuição do token flow diego fornalha.png
@@ -55,6 +57,8 @@ media:
     aos aplicativos descentralizados, criando e beneficiando casos de uso reais.
     A FLOW reunirá todas as comunidades que constroem a rede para criar e
     compartilhar valor.
+  width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   A distribuição do token nativo da Flow é importante para a descentralização da

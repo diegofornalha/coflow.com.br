@@ -42,6 +42,8 @@ featuredImage:
     startups de blockchain receberem financiamento, e existem vários programas
     de aceleração de startups especializados em blockchain, bem como
     oportunidades de financiamento governamental e empresarial.
+  width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-
@@ -63,6 +65,8 @@ media:
     startups de blockchain receberem financiamento, e existem vários programas
     de aceleração de startups especializados em blockchain, bem como
     oportunidades de financiamento governamental e empresarial.
+  width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   O blockchain é uma tecnologia descentralizada que se baseia nas leis da oferta
@@ -80,8 +84,8 @@ metaDescription: >-
   aceleração de startups especializados em blockchain, bem como oportunidades de
   financiamento governamental e empresarial.
 socialImage: >-
-  /images/capas/Como financiar Seu Projeto na Flow Através de Fundos de Investimento 
-  diegofornalha.png
+  /images/capas/Como financiar Seu Projeto na Flow Através de Fundos de
+  Investimento  diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 **Blockchain joga de acordo com suas próprias regras.**

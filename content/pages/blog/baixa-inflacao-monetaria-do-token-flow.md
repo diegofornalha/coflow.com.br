@@ -38,6 +38,8 @@ featuredImage:
     usadas para compensar a inflação futura indefinidamente. A Flow cobra taxas
     de processamento e taxas de cálculo dos usuários ou dos aplicativos que eles
     estão usando pelos serviços de processamento de transações.
+  width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/Baixa Inflação Monetária do token flow diegofornalha.png
@@ -56,6 +58,8 @@ media:
     de processamento e taxas de cálculo dos usuários ou dos aplicativos que eles
     estão usando pelos serviços de processamento de transações.
   altText: Baixa Inflação Monetária do token flow
+  width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   Blockchains como a Flow são alimentadas por comunidades descentralizadas que

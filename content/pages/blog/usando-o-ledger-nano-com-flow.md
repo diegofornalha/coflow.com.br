@@ -37,6 +37,7 @@ featuredImage:
     criação de uma nova conta. Depois de configurado, o usuário pode assinar
     transações ao usar dApps compatíveis com o Flow.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/Usando o Ledger Nano com Flow Diego Fornalha.png

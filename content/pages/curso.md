@@ -72,7 +72,6 @@ sections:
       - type: ImageBlock
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
-        height: 300
         elementId: ''
     spacing: 46
     columns: 4

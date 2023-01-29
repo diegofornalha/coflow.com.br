@@ -22,7 +22,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CAPAS-Dapper Labs junta-se à Zeedz.png
   altText: Dapper Labs junta-se à Zeedz
   caption: Dapper Labs junta-se à Zeedz
   width: 800

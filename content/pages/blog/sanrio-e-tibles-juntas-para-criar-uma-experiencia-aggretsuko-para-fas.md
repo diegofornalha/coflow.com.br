@@ -7,9 +7,7 @@ title: Sanrio e Tibles juntas para criar uma experiência Aggretsuko para fãs
 titlePt: Sanrio e Tibles juntas para criar uma experiência Aggretsuko para fãs
 colors: colors-d
 date: '2023-01-10'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: A nova maneira de colecionar digital com personagens adorados de Aggretsuko
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

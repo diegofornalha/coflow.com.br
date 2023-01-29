@@ -25,6 +25,7 @@ media:
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Dapper Labs junta-se à Zeedz
   caption: Dapper Labs junta-se à Zeedz
+  width: 850
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

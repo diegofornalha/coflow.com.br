@@ -12,7 +12,7 @@ excerptFr: Equilibrando o Espectro de Propriedade Digital para um Mundo Melhor.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: Napster e as Plataformas Atuais
   caption: ''
 media:
   type: ImageBlock

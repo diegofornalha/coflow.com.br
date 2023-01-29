@@ -14,6 +14,7 @@ featuredImage:
   url: /images/CAPAS-Napster e as Plataformas Atuais.png
   altText: Napster e as Plataformas Atuais
   caption: Napster e as Plataformas Atuais
+  width: 800
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

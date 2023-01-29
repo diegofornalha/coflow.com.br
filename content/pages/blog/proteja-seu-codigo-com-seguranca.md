@@ -22,6 +22,7 @@ media:
   altText: Proteja seu código com segurança!
   caption: Proteja seu código com segurança!
   width: 800
+  height: 450
 bottomSections: []
 markdown_content_pt: >
   Você sabe o que é controle de acesso? É a restrição de campos, funções e tipos

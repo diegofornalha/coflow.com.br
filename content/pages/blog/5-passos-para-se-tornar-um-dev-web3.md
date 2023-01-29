@@ -44,6 +44,7 @@ media:
     e tecnologias. Mantendo-se atualizado e especializado, você poderá
     aproveitar ao máximo as oportunidades neste campo em rápido crescimento.
   width: 800
+  height: 450
 bottomSections:
   - type: FeaturedPostsSection
     colors: colors-d

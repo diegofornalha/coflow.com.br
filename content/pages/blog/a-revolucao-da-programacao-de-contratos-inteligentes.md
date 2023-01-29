@@ -11,8 +11,8 @@ excerpt: >-
   Como projetar uma estrutura de dados escalável e segura para atender às
   necessidades do negócio
 excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Como projetar uma estrutura de dados escalável e segura para atender às
+  necessidades do negócio
 featuredImage:
   type: ImageBlock
   url: /images/CAPAS-a revolução da programação de contratos inteligentes.png

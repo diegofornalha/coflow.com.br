@@ -39,6 +39,7 @@ featuredImage:
     protocolo de prova de participação utilizado pelo Flow para manter a
     descentralização e segurança da rede.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/diegofornalha staking flow blockchain.png

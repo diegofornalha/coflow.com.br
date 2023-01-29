@@ -24,7 +24,7 @@ bottomSections:
     colors: colors-e
     elementId: ''
     backgroundSize: full
-    title: Let's do this
+    title: Curso Cadence
     titlePt: Allons-y !
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage

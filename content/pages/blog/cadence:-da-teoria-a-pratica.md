@@ -11,7 +11,7 @@ excerpt: Vamos dar os primeiros passos juntos e tornar o aprendizado divertido
 excerptFr: Vamos dar os primeiros passos juntos e tornar o aprendizado divertido
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CAPAS-Cadence da teoria à prática.png
   altText: 'Cadence: da teoria à prática'
   caption: 'Cadence: da teoria à prática'
 media:

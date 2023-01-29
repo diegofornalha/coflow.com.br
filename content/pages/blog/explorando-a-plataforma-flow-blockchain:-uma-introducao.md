@@ -18,7 +18,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Unindo forças para construir o Metaverse Diego Fornalha Coflow.png
   altText: Post image
 bottomSections: []
 markdown_content_pt: >+

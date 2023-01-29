@@ -18,7 +18,7 @@ excerpt: >-
   significativamente desde o seu lançamento.
 featuredImage:
   type: ImageBlock
-  url: /images/O que é Flow Blockchain diegofornalha.png
+  url: /images/capas/O que é Flow Blockchain diegofornalha.png
   altText: O que é Flow Blockchain?
   caption: >-
     A Flow é uma blockchain projetada para suportar a criação de aplicativos
@@ -32,7 +32,7 @@ featuredImage:
     FLOW aumentou significativamente desde o seu lançamento.
 media:
   type: ImageBlock
-  url: /images/O que é Flow Blockchain diegofornalha-84b9c032.png
+  url: /images/capas/O que é Flow Blockchain diegofornalha-84b9c032.png
   altText: Post image
 bottomSections: []
 metaDescription: >-
@@ -45,7 +45,7 @@ metaDescription: >-
   aplicativos descentralizados poderosos, como enviar e receber criptomoedas,
   criar tokens fungíveis e NFTs, e mercados. O preço do token FLOW aumentou
   significativamente desde o seu lançamento.
-socialImage: /images/O que é Flow Blockchain diegofornalha-84b9c032.png
+socialImage: /images/capas/O que é Flow Blockchain diegofornalha-84b9c032.png
 author: content/data/team/hilary-ouse.json
 ---
 Blockchain eu expliquei no link acima. Como a ethereum, A flow também permite que você crie aplicações descentralizas (dApps).

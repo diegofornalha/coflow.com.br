@@ -1,7 +1,7 @@
 model: HeroSection
 presets:
   - label: Hero light - image right
-    thumbnail: images/hero-light-image-right.png
+    thumbnail: images/capas/hero-light-image-right.png
     data:
       colors: colors-d
       backgroundImage:
@@ -17,7 +17,7 @@ presets:
           url: '/'
       media:
         type: ImageBlock
-        url: '/images/hero-2.png'
+        url: '/images/capas/hero-2.png'
         altText: Hero image
       styles:
         self:
@@ -40,7 +40,7 @@ presets:
         actions:
           justifyContent: flex-start
   - label: Hero light - image left
-    thumbnail: images/hero-light-image-left.png
+    thumbnail: images/capas/hero-light-image-left.png
     data:
       colors: colors-d
       backgroundImage:
@@ -56,7 +56,7 @@ presets:
           url: '/'
       media:
         type: ImageBlock
-        url: '/images/hero-2.png'
+        url: '/images/capas/hero-2.png'
         altText: Hero image
       styles:
         self:
@@ -79,13 +79,13 @@ presets:
         actions:
           justifyContent: flex-start
   - label: Hero light - bg image
-    thumbnail: images/hero-light-bg-image.png
+    thumbnail: images/capas/hero-light-bg-image.png
     data:
       colors: colors-d
       backgroundSize: inset
       backgroundImage:
         type: ImageBlock
-        url: '/images/hero.webp'
+        url: '/images/capas/hero.webp'
         backgroundSize: cover
         backgroundPosition: center
         opacity: 100

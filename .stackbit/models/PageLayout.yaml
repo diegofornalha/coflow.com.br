@@ -46,7 +46,7 @@ fields:
             style: secondary
         media:
           type: ImageBlock
-          url: /images/hero.webp
+          url: /images/capas/hero.webp
           altText: Image alt text
         styles:
           self:

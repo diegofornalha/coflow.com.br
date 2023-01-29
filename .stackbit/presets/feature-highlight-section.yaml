@@ -1,7 +1,7 @@
 model: FeatureHighlightSection
 presets:
   - label: Feature secondary - left
-    thumbnail: images/feature-secondary-left.png
+    thumbnail: images/capas/feature-secondary-left.png
     data:
       colors: colors-c
       title: Time to leave your desk. Let’s go flying
@@ -16,7 +16,7 @@ presets:
           url: '/'
       backgroundImage:
         type: ImageBlock
-        url: '/images/hero-3.png'
+        url: '/images/capas/hero-3.png'
         backgroundSize: cover
         backgroundPosition: center
         opacity: 100
@@ -39,7 +39,7 @@ presets:
         actions:
           justifyContent: flex-start
   - label: Feature light - center
-    thumbnail: images/feature-light-center.png
+    thumbnail: images/capas/feature-light-center.png
     data:
       colors: colors-d
       title: Time to leave your desk. Let’s go flying
@@ -54,7 +54,7 @@ presets:
           url: '/'
       backgroundImage:
         type: ImageBlock
-        url: '/images/hero-4.jpg'
+        url: '/images/capas/hero-4.jpg'
         backgroundSize: cover
         backgroundPosition: center
         opacity: 100

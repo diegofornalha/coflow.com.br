@@ -1,7 +1,7 @@
 model: QuoteSection
 presets:
   - label: Quote light - no bg image, text center
-    thumbnail: images/quote-light-center.png
+    thumbnail: images/capas/quote-light-center.png
     data:
       colors: colors-d
       backgroundImage:
@@ -26,11 +26,11 @@ presets:
           fontStyle: normal
           textAlign: center
   - label: Quote dark - with bg image, text left
-    thumbnail: images/quote-dark-bg-image-left.png
+    thumbnail: images/capas/quote-dark-bg-image-left.png
     data:
       colors: colors-b
       backgroundImage:
-        url: '/images/bg.jpg'
+        url: '/images/capas/bg.jpg'
         opacity: 70
       styles:
         self:
@@ -53,7 +53,7 @@ presets:
           fontStyle: normal
           textAlign: left
   - label: Quote secondary - no bg image, text center
-    thumbnail: images/quote-secondary-center.png
+    thumbnail: images/capas/quote-secondary-center.png
     data:
       colors: colors-c
       backgroundImage:

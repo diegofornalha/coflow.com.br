@@ -160,7 +160,7 @@ sections:
         justifyContent: flex-start
     backgroundImage:
       type: BackgroundImage
-      url: /images/Gifs/flowlabs.gif
+      url: /images/gifs/flowlabs.gif
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat

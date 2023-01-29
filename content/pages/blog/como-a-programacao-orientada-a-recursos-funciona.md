@@ -21,7 +21,7 @@ excerpt: >-
   individualidade.
 featuredImage:
   type: ImageBlock
-  url: /images/Como a programação orientada a recursos funciona diegofornalha.png
+  url: /images/capas/Como a programação orientada a recursos funciona diegofornalha.png
   altText: Como a programação orientada a recursos funciona?
   caption: >-
     O EVM (Ethereum Virtual Machine) ou WASM (WebAssembly) são opções ideais
@@ -41,7 +41,7 @@ featuredImage:
     modelo de ledger, é armazenado em um contrato inteligente centralizado.
 media:
   type: ImageBlock
-  url: /images/Como a programação orientada a recursos funciona diegofornalha.png
+  url: /images/capas/Como a programação orientada a recursos funciona diegofornalha.png
   altText: 'Como a programação orientada a recursos funciona? '
   caption: >-
     O EVM (Ethereum Virtual Machine) ou WASM (WebAssembly) são opções ideais

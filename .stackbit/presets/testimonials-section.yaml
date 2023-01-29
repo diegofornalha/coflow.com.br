@@ -1,7 +1,7 @@
 model: TestimonialsSection
 presets:
   - label: Testimonials light - small images, two columns
-    thumbnail: images/testimonials-light-small-images-col.png
+    thumbnail: images/capas/testimonials-light-small-images-col.png
     data:
       colors: colors-d
       variant: variant-a
@@ -14,7 +14,7 @@ presets:
           title: Head chef at Parks
           image:
             type: ImageBlock
-            url: '/images/gallery-2.jpg'
+            url: '/images/capas/gallery-2.jpg'
             altText: A man fishing
         - quote: "“I have been fishing steelhead and salmon with the SB for over 5 years.
             I have never been disappointed.”\n"
@@ -22,7 +22,7 @@ presets:
           title: Product Marketing Manager at Acme
           image:
             type: ImageBlock
-            url: '/images/ambassador.png'
+            url: '/images/capas/ambassador.png'
             altText: Hilary ouse
       styles:
         self:
@@ -37,7 +37,7 @@ presets:
         subtitle:
           textAlign: center
   - label: Testimonials dark - small images, list
-    thumbnail: images/testimonials-dark-small-images-list.png
+    thumbnail: images/capas/testimonials-dark-small-images-list.png
     data:
       colors: colors-e
       variant: variant-b
@@ -50,7 +50,7 @@ presets:
           title: Head chef at Parks
           image:
             type: ImageBlock
-            url: '/images/gallery-2.jpg'
+            url: '/images/capas/gallery-2.jpg'
             altText: A man fishing
         - quote: "“I have been fishing steelhead and salmon with the SB for over 5 years.
             I have never been disappointed.”\n"
@@ -58,7 +58,7 @@ presets:
           title: Product Marketing Manager at Acme
           image:
             type: ImageBlock
-            url: '/images/ambassador.png'
+            url: '/images/capas/ambassador.png'
             altText: Hilary ouse
       styles:
         self:
@@ -73,7 +73,7 @@ presets:
         subtitle:
           textAlign: left
   - label: Testimonials light - big images, list
-    thumbnail: images/testimonials-light-big-image-list.png
+    thumbnail: images/capas/testimonials-light-big-image-list.png
     data:
       colors: colors-d
       variant: variant-c
@@ -86,7 +86,7 @@ presets:
           title: Head chef at Parks
           image:
             type: ImageBlock
-            url: '/images/gallery-2.jpg'
+            url: '/images/capas/gallery-2.jpg'
             altText: A man fishing
         - quote: "“I have been fishing steelhead and salmon with the SB for over 5 years.
             I have never been disappointed.”\n"
@@ -94,7 +94,7 @@ presets:
           title: Product Marketing Manager at Acme
           image:
             type: ImageBlock
-            url: '/images/ambassador.png'
+            url: '/images/capas/ambassador.png'
             altText: Hilary ouse
       styles:
         self:

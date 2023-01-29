@@ -1,7 +1,7 @@
 model: ContactSection
 presets:
   - label: Contact light - no media
-    thumbnail: images/contact-light-no-media.png
+    thumbnail: images/capas/contact-light-no-media.png
     data:
       colors: colors-d
       title: Contact us
@@ -51,7 +51,7 @@ presets:
         text:
           textAlign: center
   - label: Contact light - image right
-    thumbnail: images/contact-light-image-right.png
+    thumbnail: images/capas/contact-light-image-right.png
     data:
       colors: colors-d
       title: Contact us
@@ -88,7 +88,7 @@ presets:
         submitLabel: Send Message
       media:
         type: ImageBlock
-        url: '/images/hero-2.png'
+        url: '/images/capas/hero-2.png'
         altText: Contact form image
       styles:
         self:
@@ -107,7 +107,7 @@ presets:
         text:
           textAlign: left
   - label: Contact dark - no media
-    thumbnail: images/contact-secondary-no-media.png
+    thumbnail: images/capas/contact-secondary-no-media.png
     data:
       colors: colors-c
       title: Get early access

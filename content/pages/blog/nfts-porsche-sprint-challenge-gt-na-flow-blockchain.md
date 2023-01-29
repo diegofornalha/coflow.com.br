@@ -22,7 +22,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/diegofornalha NFTs Porsche Sprint Challenge GT na Flow
+    /images/capas/diegofornalha NFTs Porsche Sprint Challenge GT na Flow
     Blockchain.png
   altText: NFTs Porsche Sprint Challenge GT na Flow Blockchain
   caption: >-
@@ -41,7 +41,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: >-
-    /images/diegofornalha NFTs Porsche Sprint Challenge GT na Flow
+    /images/capas/diegofornalha NFTs Porsche Sprint Challenge GT na Flow
     Blockchain.png
   altText: NFTs Porsche Sprint Challenge GT na Flow Blockchain
   caption: >-

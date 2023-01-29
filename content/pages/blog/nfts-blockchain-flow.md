@@ -22,7 +22,7 @@ excerpt: >-
   registro do NFT e o processo de cunhagem/mintagem.
 featuredImage:
   type: ImageBlock
-  url: /images/NFTs Blockchain flow diego fornalha.png
+  url: /images/capas/NFTs Blockchain flow diego fornalha.png
   altText: NFTs Blockchain flow
   caption: >-
     Os tokens não fungíveis (NFTs) são ativos digitais exclusivos que estão
@@ -41,7 +41,7 @@ featuredImage:
     processo de cunhagem/mintagem.
 media:
   type: ImageBlock
-  url: /images/NFTs Blockchain flow diego fornalha.png
+  url: /images/capas/NFTs Blockchain flow diego fornalha.png
   altText: NFTs Blockchain flow
   caption: >-
     Os tokens não fungíveis (NFTs) são ativos digitais exclusivos que estão
@@ -73,7 +73,7 @@ metaDescription: >-
   processo de criação de NFTs. Existem diversas etapas envolvidas no processo de
   criação de NFTs na Flow, incluindo a criação de um contrato inteligente, o
   registro do NFT e o processo de cunhagem/mintagem.
-socialImage: /images/NFTs Blockchain flow diego fornalha.png
+socialImage: /images/capas/NFTs Blockchain flow diego fornalha.png
 ---
 Os tokens não fungíveis, ou NFTs, são ativos digitais exclusivos que estão ganhando popularidade no mundo da blockchain e da criptomoeda.
 

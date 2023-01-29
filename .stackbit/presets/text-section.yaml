@@ -1,7 +1,7 @@
 model: TextSection
 presets:
   - label: Text light left
-    thumbnail: images/text-light-left.png
+    thumbnail: images/capas/text-light-left.png
     data:
       colors: colors-d
       title: The Section Title
@@ -23,7 +23,7 @@ presets:
         text:
           textAlign: left
   - label: Text dark center
-    thumbnail: images/text-dark-center.png
+    thumbnail: images/capas/text-dark-center.png
     data:
       colors: colors-e
       title: The Section Title
@@ -45,7 +45,7 @@ presets:
         text:
           textAlign: center
   - label: Text light left
-    thumbnail: images/text-light-left-b.png
+    thumbnail: images/capas/text-light-left-b.png
     data:
       colors: colors-d
       variant: variant-b

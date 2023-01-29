@@ -21,7 +21,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/Escreva Contratos Inteligente em Cadence Para Votações
+    /images/capas/Escreva Contratos Inteligente em Cadence Para Votações
     diegofornalha.png
   altText: Escreva Contratos Inteligente em Cadence Para Votações
   caption: >-
@@ -39,7 +39,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: >-
-    /images/Escreva Contratos Inteligente em Cadence Para Votações
+    /images/capas/Escreva Contratos Inteligente em Cadence Para Votações
     diegofornalha.png
   altText: Escreva Contratos Inteligente em Cadence Para Votações
   caption: >-
@@ -68,7 +68,7 @@ metaDescription: >-
   Administrar permite que o administrador inicialize as propostas e crie novas
   instâncias do recurso Voto.
 socialImage: >-
-  /images/Escreva Contratos Inteligente em Cadence Para Votações
+  /images/capas/Escreva Contratos Inteligente em Cadence Para Votações
   diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---

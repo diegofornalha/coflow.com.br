@@ -1,7 +1,7 @@
 model: RecentPostsSection
 presets:
   - label: Latest posts light - mixed
-    thumbnail: images/posts-light-mixed.png
+    thumbnail: images/capas/posts-light-mixed.png
     data:
       variant: variant-c
       colors: colors-d

@@ -22,12 +22,12 @@ excerpt: >-
   de informações de token.
 featuredImage:
   type: ImageBlock
-  url: /images/Sobre a atualização padrão do token Flow FT & NFT diegofornalha.png
+  url: /images/capas/Sobre a atualização padrão do token Flow FT & NFT diegofornalha.png
   altText: Sobre a atualização padrão do token Flow FT & NFT
   caption: ''
 media:
   type: ImageBlock
-  url: /images/Sobre a atualização padrão do token Flow FT & NFT diegofornalha.png
+  url: /images/capas/Sobre a atualização padrão do token Flow FT & NFT diegofornalha.png
   altText: Sobre a atualização padrão do token Flow FT & NFT
   caption: >-
     O Flow Playground é uma plataforma online interativa que permite que os
@@ -58,7 +58,7 @@ metaDescription: >-
   o contrato padrão de tokens fungíveis, que adicionam recursos de roteamento e
   informações de metadados para melhorar a integração de terceiros e a exibição
   de informações de token.
-socialImage: /images/Sobre a atualização padrão do token Flow FT & NFT diegofornalha.png
+socialImage: /images/capas/Sobre a atualização padrão do token Flow FT & NFT diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 Faz 11 meses desde que o último padrão NFT MetadataView foi lançado. Tokens fungíveis da flow inerentes ao [Padrão MetadataView](https://github.com/onflow/flow-ft/blob/master/contracts/FungibleTokenMetadataViews.cdc), embora ainda esteja em fase de teste, podemos esperar a adoção formal do padrão. Esta atualização não apenas nos traz a `MetadataView` contrato padrão de tokens fungíveis.

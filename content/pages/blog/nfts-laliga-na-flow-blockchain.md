@@ -21,7 +21,7 @@ excerpt: >-
   ou débito.
 featuredImage:
   type: ImageBlock
-  url: /images/NFTs LaLiga na Flow Blockchain diegofornalha.png
+  url: /images/capas/NFTs LaLiga na Flow Blockchain diegofornalha.png
   altText: NFTs LaLiga na Flow Blockchain
   caption: >-
     Non-fungible tokens (NFTs) são tokens virtuais exclusivos e únicos que podem
@@ -38,7 +38,7 @@ featuredImage:
     de crédito ou débito.
 media:
   type: ImageBlock
-  url: /images/NFTs LaLiga na Flow Blockchain diegofornalha.png
+  url: /images/capas/NFTs LaLiga na Flow Blockchain diegofornalha.png
   altText: NFTs LaLiga na Flow Blockchain
   caption: >-
     Non-fungible tokens (NFTs) são tokens virtuais exclusivos e únicos que podem
@@ -67,7 +67,7 @@ metaDescription: >-
   criptográfica multichain que também possui um sistema de pagamento seguro
   chamado Simplex, que permite a compra de Ethers ou Flow com cartões de crédito
   ou débito.
-socialImage: /images/NFTs LaLiga na Flow Blockchain diegofornalha.png
+socialImage: /images/capas/NFTs LaLiga na Flow Blockchain diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 

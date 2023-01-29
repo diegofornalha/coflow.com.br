@@ -1,7 +1,7 @@
 model: FeaturedPostsSection
 presets:
   - label: Featured posts light - 2 columns
-    thumbnail: images/posts-light-2-col.png
+    thumbnail: images/capas/posts-light-2-col.png
     data:
       variant: variant-a
       colors: colors-d
@@ -41,7 +41,7 @@ presets:
         actions:
           justifyContent: flex-start
   - label: Featured posts dark - 3 columns
-    thumbnail: images/posts-dark-3-col.png
+    thumbnail: images/capas/posts-dark-3-col.png
     data:
       variant: variant-b
       colors: colors-e
@@ -70,7 +70,7 @@ presets:
         actions:
           justifyContent: center
   - label: Featured posts light - mixed
-    thumbnail: images/posts-light-mixed.png
+    thumbnail: images/capas/posts-light-mixed.png
     data:
       variant: variant-c
       colors: colors-d
@@ -111,7 +111,7 @@ presets:
         actions:
           justifyContent: flex-start
   - label: Featured posts light - list
-    thumbnail: images/posts-light-list.png
+    thumbnail: images/capas/posts-light-list.png
     data:
       variant: variant-d
       colors: colors-d

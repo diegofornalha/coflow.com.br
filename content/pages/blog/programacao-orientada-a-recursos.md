@@ -18,7 +18,7 @@ excerpt: >-
   de contratos inteligentes na plataforma.
 featuredImage:
   type: ImageBlock
-  url: /images/Programação orientada a recursos Diego Fornalha.png
+  url: /images/capas/Programação orientada a recursos Diego Fornalha.png
   altText: Programação orientada a recursos
   caption: >-
     O Cadence é uma linguagem de programação orientada a recursos de alto nível
@@ -32,7 +32,7 @@ featuredImage:
     para a escrita de contratos inteligentes na plataforma.
 media:
   type: ImageBlock
-  url: /images/Programação orientada a recursos Diego Fornalha.png
+  url: /images/capas/Programação orientada a recursos Diego Fornalha.png
   altText: Programação orientada a recursos
   caption: >-
     O Cadence é uma linguagem de programação orientada a recursos de alto nível

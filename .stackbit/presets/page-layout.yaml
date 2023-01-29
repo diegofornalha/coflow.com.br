@@ -1,7 +1,7 @@
 model: PageLayout
 presets:
   - label: Empty page
-    thumbnail: images/page-empty.png
+    thumbnail: images/capas/page-empty.png
     data:
       title: Empty page
       sections:
@@ -32,7 +32,7 @@ presets:
             text:
               textAlign: left
   - label: Landing
-    thumbnail: images/page-landing.png
+    thumbnail: images/capas/page-landing.png
     data:
       title: Landing
       sections:
@@ -53,7 +53,7 @@ presets:
           media:
           backgroundImage:
             type: BackgroundImage
-            url: '/images/hero.webp'
+            url: '/images/capas/hero.webp'
             backgroundSize: cover
             backgroundPosition: top
             opacity: 100
@@ -174,7 +174,7 @@ presets:
               iconPosition: right
           backgroundImage:
             type: BackgroundImage
-            url: '/images/hero-3.png'
+            url: '/images/capas/hero-3.png'
             backgroundSize: cover
             backgroundPosition: top
             opacity: 100
@@ -273,7 +273,7 @@ presets:
             text:
               textAlign: center
   - label: About
-    thumbnail: images/page-about.png
+    thumbnail: images/capas/page-about.png
     data:
       title: About
       sections:
@@ -310,7 +310,7 @@ presets:
           title: ''
           backgroundImage:
             type: BackgroundImage
-            url: '/images/bg.jpg'
+            url: '/images/capas/bg.jpg'
             backgroundSize: cover
             backgroundPosition: center
             opacity: 70

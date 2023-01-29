@@ -63,7 +63,7 @@ sections:
         justifyContent: center
     backgroundImage:
       type: BackgroundImage
-      url: /images/Gifs/realidade virtual.gif
+      url: /images/gifs/realidade virtual.gif
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat

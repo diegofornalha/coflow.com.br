@@ -21,7 +21,7 @@ excerpt: >-
   usar dApps compatíveis com o Flow.
 featuredImage:
   type: ImageBlock
-  url: /images/Usando o Ledger Nano com Flow Diego Fornalha.png
+  url: /images/capas/Usando o Ledger Nano com Flow Diego Fornalha.png
   altText: Usando o Ledger Nano com Flow
   caption: >-
     O aplicativo Flow é um software que permite aos usuários armazenar e acessar
@@ -38,7 +38,7 @@ featuredImage:
     transações ao usar dApps compatíveis com o Flow.
 media:
   type: ImageBlock
-  url: /images/Usando o Ledger Nano com Flow Diego Fornalha.png
+  url: /images/capas/Usando o Ledger Nano com Flow Diego Fornalha.png
   altText: Usando o Ledger Nano com Flow
   caption: >-
     O aplicativo Flow é um software que permite aos usuários armazenar e acessar
@@ -67,7 +67,7 @@ metaDescription: >-
   tiver uma conta no Flow, o dispositivo pode iniciar o processo de criação de
   uma nova conta. Depois de configurado, o usuário pode assinar transações ao
   usar dApps compatíveis com o Flow.
-socialImage: /images/Usando o Ledger Nano com Flow Diego Fornalha.png
+socialImage: /images/capas/Usando o Ledger Nano com Flow Diego Fornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 ![https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4ee01f8f107ede9c866\_5fb30888a4dc02b18befd0c5\_ledger2.jpeg](https://assets-global.website-files.com/618c953e65cc2ba3f44d1a02/62f3a4ee01f8f107ede9c866\_5fb30888a4dc02b18befd0c5\_ledger2.jpeg)

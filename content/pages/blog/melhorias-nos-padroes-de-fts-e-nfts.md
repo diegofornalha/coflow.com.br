@@ -12,7 +12,7 @@ excerptFr: Novidades sensacionais para desenvolvedores de Flow!
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: Melhorias nos padrões de FTs e NFTs
   caption: ''
 media:
   type: ImageBlock

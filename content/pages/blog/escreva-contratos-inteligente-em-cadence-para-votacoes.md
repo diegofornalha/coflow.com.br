@@ -37,6 +37,7 @@ featuredImage:
     variável escolha. O recurso Administrar permite que o administrador
     inicialize as propostas e crie novas instâncias do recurso Voto.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-

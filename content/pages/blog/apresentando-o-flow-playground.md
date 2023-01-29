@@ -37,6 +37,7 @@ featuredImage:
     programa de parceiros que oferece acesso exclusivo a um canal de Discord,
     oportunidades de co-marketing, recursos e consultoria para projetos
     qualificados.
+  width: 800
 media:
   type: ImageBlock
   url: /images/capas/Apresentando o Flow Playground diego fornalha.png

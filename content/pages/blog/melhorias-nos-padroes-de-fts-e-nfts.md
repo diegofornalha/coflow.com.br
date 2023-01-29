@@ -14,6 +14,7 @@ featuredImage:
   url: /images/CAPAS-Melhorias nos padrões de FTs e NFTs.png
   altText: Melhorias nos padrões de FTs e NFTs
   caption: Melhorias nos padrões de FTs e NFTs
+  width: 800
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

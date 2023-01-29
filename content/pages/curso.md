@@ -23,7 +23,7 @@ metaTags:
 title: Curso Cadence
 sections:
   - type: FeaturedItemsSection
-    colors: colors-d
+    colors: colors-e
     elementId: ''
     title: Curso Cadence Totalmente Em Português
     subtitle: >-

@@ -56,7 +56,9 @@ sections:
     titlePt: APRENDA A CRIAR SEU CONTRATO INTELIGENTE NA BLOCKCHAIN
     subtitle: Aprenda Essa Nova Linguagem
     subtitlePt: Aprenda Essa Nova Linguagem
-    text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'
+    text: |+
+      CADENCE - FLOW BLOCKCHAIN
+
     textPt: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet

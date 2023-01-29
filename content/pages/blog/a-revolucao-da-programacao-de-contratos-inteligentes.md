@@ -24,6 +24,7 @@ media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: A revolução da programação de contratos inteligentes
+  caption: A revolução da programação de contratos inteligentes
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

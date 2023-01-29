@@ -55,12 +55,11 @@ markdown_content_pt: >+
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+A Sanrio se uniu com a Tibles e a Dapper Labs para dar vida aos fãs de Aggretsuko com a nova experiência Aggretsuko Tibles. Essa nova maneira de colecionar digital oferece conteúdo exclusivo da série animada de Aggretsuko, incluindo Retsuko e outros personagens queridos. As cartas digitais interativas possuem arte, animações e trivia exclusiva, aumentando o valor e a experiência.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+A Sanrio está explorando novas formas de interagir com os personagens de Aggretsuko e dar aos fãs uma nova maneira de mergulhar no mundo de colecionáveis digitais e storytelling inovador. A Tibles é responsável por criar a plataforma e já lançou a experiência Aggretsuko Tibles em iOS na App Store da Apple, além de desktop e navegadores móveis para fãs nos EUA e Canadá.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Com a experiência Aggretsuko Tibles, fãs podem comprar novos pacotes, exibir suas coleções e competir com outros colecionadores nas leaderboards. Além disso, a plataforma permite que os colecionadores comprem e vendam cartas digitais com a ajuda de tokens FLOW e da carteira Dapper. A nova aplicação também inclui fóruns comunitários, bate-papo privado, amigo, presentes e trocas gratuitas. Não se preocupe, participar não vai arruinar seu orçamento - pacotes de lançamento começarão a partir de apenas US$ 4,99.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+A Tibles já lançou outras duas experiências de colecionáveis digitais para fãs e a experiência Aggretsuko Tibles é mais uma maneira de colecionar mais do que amamos e criar comunidades em torno de nossas paixões compartilhadas. Comece a colecionar agora mesmo se inscrevendo em uma conta e acesse o site em app.aggretsuko.tibles.com ou siga a Aggretsuko Tibles no Twitter, Facebook e Instagram.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.

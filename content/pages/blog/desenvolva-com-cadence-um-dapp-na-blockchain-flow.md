@@ -22,7 +22,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CAPAS-Desenvolva com Cadence um DApp na Blockchain Flow.png
   altText: Desenvolva com Cadence um DApp na Blockchain Flow
   caption: Desenvolva com Cadence um DApp na Blockchain Flow
 bottomSections: []

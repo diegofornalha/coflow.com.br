@@ -70,7 +70,7 @@ socialImage: /images/capas/Ecosystem Overview diegofornalha.png
 featuredImage:
   type: ImageBlock
   url: /images/capas/Ecosystem Overview diegofornalha.png
-  altText: altText of the image
+  altText: eco
   caption: Caption of the image
   width: 300
   height: 300

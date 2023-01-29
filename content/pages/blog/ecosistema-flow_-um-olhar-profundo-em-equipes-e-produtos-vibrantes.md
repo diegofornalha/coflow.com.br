@@ -69,7 +69,7 @@ metaDescription: >-
 socialImage: /images/capas/Ecosystem Overview diegofornalha.png
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/capas/Ecosystem Overview diegofornalha.png
   altText: altText of the image
   caption: Caption of the image
   width: 300

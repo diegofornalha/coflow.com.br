@@ -25,6 +25,7 @@ featuredImage:
     importante lembrar de fazer a sua própria pesquisa e entender os riscos
     envolvidos antes de investir.
   altText: Por que investir em flow agora pode ser a decisão certa
+  width: 800
 media:
   type: ImageBlock
   url: >-

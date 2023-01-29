@@ -26,6 +26,7 @@ media:
   altText: Flow Smart Contract Team
   caption: Flow Smart Contract Team
   width: 800
+  height: 450
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

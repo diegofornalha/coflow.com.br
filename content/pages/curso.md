@@ -108,7 +108,7 @@ sections:
       text:
         textAlign: left
     title: NOSSO COMPROMISSO É TE ENSINAR!
-    subtitle: Se Inscreva no ‘Curso Cadence’ HOJE MESMO!
+    subtitle: Se Inscreva no ‘Curso Cadence’ HOJE MESMO
     subtitlePt: Se Inscreva no ‘Curso Cadence’ HOJE
   - type: FeatureHighlightSection
     colors: colors-e

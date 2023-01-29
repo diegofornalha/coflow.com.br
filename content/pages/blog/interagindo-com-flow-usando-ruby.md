@@ -17,7 +17,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Interagindo com Flow usando Ruby
-  caption: ''
+  caption: Interagindo com Flow usando Ruby
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

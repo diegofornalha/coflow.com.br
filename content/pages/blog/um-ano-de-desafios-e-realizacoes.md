@@ -11,7 +11,7 @@ excerpt: ' participe de eventos exclusivos e muito mais com FLOW.'
 excerptFr: ' participe de eventos exclusivos e muito mais com FLOW.'
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CAPAS-Um Ano de Desafios e Realizações.png
   altText: ' participe de eventos exclusivos e muito mais com FLOW.'
   caption: ' participe de eventos exclusivos e muito mais com FLOW.'
   width: 800

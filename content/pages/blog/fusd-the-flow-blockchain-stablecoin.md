@@ -32,6 +32,7 @@ featuredImage:
     Instituições financeiras e provedores de carteira podem oferecer acesso
     fiduciário globalmente ao amplo ecossistema Flow, o que é ótimo para quem
     quer usar criptomoedas, mas não sabe por onde começar.
+  width: 800
 media:
   type: ImageBlock
   url: /images/capas/FUSD o stablecoin da flow Blockchain diegofornalha.png

@@ -7,9 +7,7 @@ title: 'Verificar msg.sender no Cadence: As Capabilidades!'
 titlePt: 'Verificar msg.sender no Cadence: As Capabilidades!'
 colors: colors-d
 date: '2023-10-01'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: ' Segurança por Capacidade'
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

@@ -28,9 +28,6 @@ bottomSections:
     titlePt: Allons-y !
     text: |
       Aprenda a linguagem de programação Cadence com os melhores professores
-    textPt: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
     actions:
       - type: Button
         label: Try it now

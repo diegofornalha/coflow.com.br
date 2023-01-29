@@ -65,7 +65,7 @@ sections:
       url: /images/Lil Miquela flow blockchain.png
       backgroundSize: auto
       backgroundPosition: center
-      backgroundRepeat: repeat
+      backgroundRepeat: no-repeat
       opacity: 68
     backgroundSize: full
 addTitleSuffix: true

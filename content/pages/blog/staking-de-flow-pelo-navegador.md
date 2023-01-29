@@ -23,6 +23,7 @@ featuredImage:
     integrado ao blockchain Flow, permitindo que os usuários usem NFTs e outros
     objetos do jogo em um mundo aberto multijogador.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/Staking de Flow pelo Navegador Diego Fornalha.png

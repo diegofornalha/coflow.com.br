@@ -106,6 +106,17 @@
         "secondaryLinks": [
             {
                 "type": "Button",
+                "label": "Learn More",
+                "altText": "",
+                "url": "/curso",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Button",
                 "label": "Join Discord",
                 "altText": "Entrar no Discord",
                 "style": "secondary",

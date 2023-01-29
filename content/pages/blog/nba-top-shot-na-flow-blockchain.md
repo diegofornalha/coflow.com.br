@@ -28,6 +28,7 @@ featuredImage:
     se integrar com a rede Ethereum. A Dapper Labs acredita que a NBA Top Shot
     pode mudar fundamentalmente o valor que a marca da NBA traz para os fãs,
     permitindo-lhes se divertir e criar eventos geradores de receita.
+  width: 800
 media:
   type: ImageBlock
   url: /images/capas/NBA Top Shot na Flow Blockchain diegofornalha.png

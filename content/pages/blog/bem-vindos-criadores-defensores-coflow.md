@@ -19,7 +19,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
+  altText: Bem vindos Criadores Defensores CoFlow
   caption: Bem vindos Criadores Defensores CoFlow
 bottomSections: []
 markdown_content_pt: >-

@@ -53,7 +53,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: APRENDA A CRIAR CONTRATO INTELIGENTE NA BLOCKCHAIN
-    titlePt: APRENDA A CRIAR SEU CONTRATO INTELIGENTE NA BLOCKCHAIN
+    titlePt: APRENDA A CRIAR CONTRATO INTELIGENTE NA BLOCKCHAIN
     subtitle: Aprenda Essa Nova Linguagem
     subtitlePt: Aprenda Essa Nova Linguagem
     text: |+

@@ -41,6 +41,7 @@ media:
     integrado ao blockchain Flow, permitindo que os usuários usem NFTs e outros
     objetos do jogo em um mundo aberto multijogador.
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   O Flow é um blockchain construído para a próxima geração de aplicativos, jogos

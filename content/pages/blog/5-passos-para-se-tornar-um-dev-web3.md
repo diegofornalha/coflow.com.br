@@ -29,7 +29,7 @@ featuredImage:
     aproveitar ao máximo as oportunidades neste campo em rápido crescimento.
   altText: 5 passos para se tornar um dev Web3
   width: 800
-  height: 460
+  height: 490
 media:
   type: ImageBlock
   url: /images/capas/5 passos para se tornar um dev Web3 DiegoFornalha.png

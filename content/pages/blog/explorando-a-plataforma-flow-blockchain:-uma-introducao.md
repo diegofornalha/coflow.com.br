@@ -11,7 +11,7 @@ excerpt: Unindo forças para construir o Metaverse
 excerptFr: Unindo forças para construir o Metaverse
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/Unindo forças para construir o Metaverse Diego Fornalha Coflow.png
   altText: Unindo forças para construir o Metaverse
   caption: Unindo forças para construir o Metaverse
   width: 800

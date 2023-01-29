@@ -23,7 +23,7 @@ metaTags:
 title: Curso Cadence
 sections:
   - type: TextSection
-    colors: colors-a
+    colors: colors-e
     elementId: ''
     variant: variant-a
     title: Curso Cadence

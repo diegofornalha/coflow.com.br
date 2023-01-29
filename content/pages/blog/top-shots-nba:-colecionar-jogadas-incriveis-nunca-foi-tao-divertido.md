@@ -23,9 +23,25 @@ media:
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Post image
 bottomSections: []
-markdown_content_pt: >-
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-  doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
+markdown_content_pt: >+
+  O Top Shot NBA é a primeira experiência completamente licenciada da NBA para
+  colecionadores e jogadores. Finalmente, os fãs da NBA podem ter uma peça da
+  ação e trocá-la por dinheiro real em uma nova economia de basquete.
+
+
+  Você começa com pacotes, desafios e uma market place peer-to-peer. Pacotes são
+  vendidos por edições limitadas, com momentos raros e lendários dentro deles. A
+  autenticidade e a escassez de cada momento são garantidas pela blockchain
+  Flow, desenvolvida pela Dapper Labs.
+
+
+  Desafios permitem desbloquear conteúdo exclusivo e a market place peer-to-peer
+  permite comprar e vender momentos para aprimorar sua coleção e fazer dinheiro.
+
+
+  Não perca a chance de ser um colecionador de Top Shot NBA, onde o drama e
+  habilidade da NBA se tornam colecionáveis. Comece agora em nbatopshot.com!
+
 metaDescription: null
 socialImage: null
 ---

@@ -23,9 +23,9 @@
                 "dropdownLinks": [
                     {
                         "type": "Link",
-                        "label": "Curso",
-                        "url": "/about",
-                        "altText": "Curso"
+                        "label": "Curso Cadence",
+                        "url": "/curso",
+                        "altText": "Curso Cadence"
                     },
                     {
                         "type": "Link",

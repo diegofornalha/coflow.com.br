@@ -25,7 +25,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-d
     elementId: ''
-    title: Key value propositions
+    title: Curso Cadence Totalmente Em Português
     titlePt: À la une
     subtitle: ''
     subtitlePt: Section sous-titre

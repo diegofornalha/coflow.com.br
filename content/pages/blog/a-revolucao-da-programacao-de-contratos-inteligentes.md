@@ -18,6 +18,7 @@ featuredImage:
   url: /images/CAPAS-a revolução da programação de contratos inteligentes.png
   altText: A revolução da programação de contratos inteligentes
   caption: A revolução da programação de contratos inteligentes
+  width: 800
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

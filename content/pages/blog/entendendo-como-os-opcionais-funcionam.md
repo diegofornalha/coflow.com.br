@@ -8,9 +8,7 @@ titlePt: Entendendo como os opcionais funcionam
 colors: colors-d
 date: '2023-01-10'
 excerpt: Como evitar e corrigir erros de referências vazias em seu código
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: Como evitar e corrigir erros de referências vazias em seu código
 featuredImage:
   type: ImageBlock
   url: /images/CAPAS-Entendendo como os opcionais funcionam.png

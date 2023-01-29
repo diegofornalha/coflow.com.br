@@ -74,7 +74,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: 'Formato:Online'
+        title: 'Formato: Online'
         titlePt: Concentré
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante

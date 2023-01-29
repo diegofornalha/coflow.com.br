@@ -20,9 +20,8 @@ sections:
     elementId: ''
     title: Create your World!
     titlePt: Crie seu Mundo!
-    text: |+
-      Everything and more about Flow Blockchain!
-
+    text: |
+      Everything and more about Flow!
     textPt: |
       Tudo e mais um pouco sobre Flow!
     actions:

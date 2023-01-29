@@ -72,7 +72,6 @@ sections:
       - type: ImageBlock
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
-        caption: Caption of the image
         width: 300
         height: 300
         elementId: ''

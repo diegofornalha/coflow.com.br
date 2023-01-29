@@ -19,7 +19,7 @@ sections:
     colors: colors-b
     elementId: ''
     title: Accelerate every step!
-    titlePt: Acelere cada etapa!
+    titlePt: Crie seu Mundo!
     text: |+
       Everything and more about Flow Blockchain!
 

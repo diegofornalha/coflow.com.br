@@ -97,7 +97,7 @@
                 "label": "Blog",
                 "altText": "Blog",
                 "url": "/blog",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowLeft",
                 "iconPosition": "right",
                 "elementId": ""

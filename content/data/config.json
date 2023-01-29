@@ -98,7 +98,7 @@
                 "altText": "Blog",
                 "url": "/blog",
                 "showIcon": false,
-                "icon": "arrowRight",
+                "icon": "arrowLeft",
                 "iconPosition": "right",
                 "elementId": ""
             }

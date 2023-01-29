@@ -24,7 +24,9 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: >-
+    /images/CAPAS-Top Shots NBA colecionar jogadas incriveis nunca foi tao
+    divertido.png
   altText: 'Top Shots NBA: colecionar jogadas incríveis nunca foi tão divertido'
   caption: 'Top Shots NBA: colecionar jogadas incríveis nunca foi tão divertido'
   width: 800

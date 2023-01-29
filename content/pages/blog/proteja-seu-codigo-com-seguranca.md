@@ -8,9 +8,7 @@ titlePt: Proteja seu código com segurança!
 colors: colors-d
 date: '2023-01-10'
 excerpt: A importância do controle de acesso e como usá-lo no Cadence
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: A importância do controle de acesso e como usá-lo no Cadence
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

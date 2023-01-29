@@ -155,7 +155,7 @@
             {
                 "type": "Link",
                 "label": "TERMO DE USO",
-                "altText": "",
+                "altText": "TERMO DE USO",
                 "url": "/termos-de-uso",
                 "showIcon": false,
                 "icon": "arrowRight",

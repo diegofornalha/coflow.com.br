@@ -53,7 +53,7 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        title: Smarter
+        title: 'Duração:+5 horas'
         titlePt: Plus intelligent
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante

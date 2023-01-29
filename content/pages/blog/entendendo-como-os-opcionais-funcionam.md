@@ -20,6 +20,7 @@ media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Como evitar e corrigir erros de referências vazias em seu código
+  caption: Como evitar e corrigir erros de referências vazias em seu código
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

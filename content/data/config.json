@@ -154,6 +154,16 @@
             },
             {
                 "type": "Link",
+                "label": "Learn More",
+                "altText": "",
+                "url": "/curso",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "TERMO DE USO",
                 "altText": "TERMO DE USO",
                 "url": "/termo-de-uso",

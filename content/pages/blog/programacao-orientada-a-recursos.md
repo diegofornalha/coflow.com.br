@@ -47,6 +47,7 @@ media:
     recursos. A Flow está trabalhando para tornar o Cadence a linguagem padrão
     para a escrita de contratos inteligentes na plataforma.
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: null
 socialImage: null

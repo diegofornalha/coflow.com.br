@@ -57,6 +57,7 @@ media:
     desenvolvedor, permitindo integração fácil com o jogo e uma conta Flow
     anônima criada automaticamente para os jogadores.
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   Chainmonsters é um jogo multijogador online onde os jogadores podem capturar,

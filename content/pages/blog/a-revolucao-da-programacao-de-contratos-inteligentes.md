@@ -8,8 +8,8 @@ titlePt: A revolução da programação de contratos inteligentes
 colors: colors-d
 date: '2023-01-01'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Como projetar uma estrutura de dados escalável e segura para atender às
+  necessidades do negócio
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

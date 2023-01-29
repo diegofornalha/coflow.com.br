@@ -55,7 +55,7 @@ sections:
     title: APRENDA A CRIAR CONTRATO INTELIGENTE NA BLOCKCHAIN
     titlePt: APRENDA A CRIAR CONTRATO INTELIGENTE NA BLOCKCHAIN
     subtitle: Aprenda Essa Nova Linguagem De Programação
-    subtitlePt: Aprenda Essa Nova Linguagem
+    subtitlePt: Aprenda Essa Nova Linguagem De Programação
     text: |+
       CADENCE - FLOW BLOCKCHAIN
 

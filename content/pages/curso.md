@@ -55,8 +55,6 @@ sections:
       - type: FeaturedItem
         title: 'Formato: Online'
         titlePt: Concentré
-        text: |
-          ![](https://www.rocketseat.com.br/assets/icons/laptop.svg)
         textPt: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas

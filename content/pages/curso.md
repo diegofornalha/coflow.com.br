@@ -71,7 +71,7 @@ sections:
         url: /images/Embaixadores/avatar-diegofornalha-flow.png
         altText: Image four
         caption: Image four caption
-    spacing: 38
+    spacing: 66
     columns: 4
     aspectRatio: '4:3'
     showCaption: false

@@ -67,6 +67,14 @@ metaDescription: >-
   blockchain de escolha para plataformas sociais populares como Instagram e
   Twitter.
 socialImage: /images/capas/Ecosystem Overview diegofornalha.png
+featuredImage:
+  type: ImageBlock
+  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  altText: altText of the image
+  caption: Caption of the image
+  width: 300
+  height: 300
+  elementId: ''
 ---
 
 

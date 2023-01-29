@@ -51,6 +51,7 @@ media:
     disponíveis online. A comunidade Flow também é uma fonte valiosa de
     aprendizado e suporte para aqueles que desejam aprender mais sobre a
     tecnologia.
+  width: 800
 bottomSections: []
 metaDescription: >-
   O Flow é uma blockchain projetada para ser rápida, descentralizada e amigável

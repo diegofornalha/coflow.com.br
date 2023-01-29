@@ -16,7 +16,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: CtaSection
-    colors: colors-a
+    colors: colors-b
     elementId: ''
     title: Accelerate every step!
     titlePt: Acelere cada etapa!

@@ -42,6 +42,7 @@ media:
     de desenvolvimento e as ferramentas disponíveis, praticar a escrita de
     código na linguagem de programação Cadence e participar da comunidade Flow e
     interagir com outros desenvolvedores.
+  width: 800
 bottomSections:
   - type: FeaturedPostsSection
     colors: colors-d

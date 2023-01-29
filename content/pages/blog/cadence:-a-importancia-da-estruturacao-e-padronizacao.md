@@ -8,9 +8,7 @@ titlePt: ' Cadence: a importância da estruturação e padronização'
 colors: colors-d
 date: '2023-01-10'
 excerpt: Dicas e técnicas para organizar seus projetos Cadence
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: Dicas e técnicas para organizar seus projetos Cadence
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

@@ -13,7 +13,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Tudo sobre Tokens Smart Contract
-  caption: ''
+  caption: Tudo sobre Tokens Smart Contract
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

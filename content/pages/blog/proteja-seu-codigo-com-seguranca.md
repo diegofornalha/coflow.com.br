@@ -7,7 +7,7 @@ title: Proteja seu código com segurança!
 titlePt: Proteja seu código com segurança!
 colors: colors-d
 date: '2023-01-10'
-excerpt: a importância do controle de acesso e como usá-lo no Cadence
+excerpt: A importância do controle de acesso e como usá-lo no Cadence
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

@@ -25,7 +25,7 @@ sections:
       Everything and more about Flow Blockchain!
 
     textPt: |
-      Tudo e mais um pouco sobre Flow Blockchain!
+      Tudo e mais um pouco sobre Flow!
     actions:
       - type: Button
         label: Contact Us

@@ -94,7 +94,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn More",
+                "label": "Blog",
                 "altText": "",
                 "url": "/blog",
                 "showIcon": false,

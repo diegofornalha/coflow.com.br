@@ -25,7 +25,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
+  altText: 'Top Shots NBA: colecionar jogadas incríveis nunca foi tão divertido'
   caption: 'Top Shots NBA: colecionar jogadas incríveis nunca foi tão divertido'
 bottomSections: []
 markdown_content_pt: >+

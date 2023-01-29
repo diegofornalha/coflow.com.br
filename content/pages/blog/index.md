@@ -30,7 +30,7 @@ bottomSections:
     actions:
       - type: Button
         label: Saiba Mais
-        url: /
+        url: /curso
         showIcon: true
         icon: arrowRight
         style: primary

@@ -21,6 +21,7 @@ media:
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Tudo sobre Tokens Smart Contract
   caption: Tudo sobre Tokens Smart Contract
+  width: 850
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

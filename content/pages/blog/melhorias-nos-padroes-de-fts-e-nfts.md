@@ -20,6 +20,7 @@ media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Melhorias nos padrões de FTs e NFTs
+  caption: Melhorias nos padrões de FTs e NFTs
 bottomSections: []
 markdown_content_pt: >+
   Caso essa seja a primeira vez que você está lendo um dos meus posts, eu sou

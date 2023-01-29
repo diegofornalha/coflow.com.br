@@ -104,12 +104,25 @@ markdown_content_pt: >+
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Criadores são mais do que simples desenvolvedores de conteúdo que amamos consumir, eles definem a cultura em uma variedade de verticais. Mas infelizmente, eles nem sempre conseguiram perceber o valor do seu trabalho. Acreditamos que a tecnologia descentralizada pode dar poder aos criadores para criar experiências inovadoras, monetizar seu conteúdo e criar conexões mais profundas através de um mundo digital.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+A Dapper Labs tem sido uma líder em tecnologia web3 desde 2017, quando iniciamos a revolução dos NFTs em torno do que acreditávamos ser um dos verdadeiros superpoderes da web3 - um mundo onde as pessoas podem possuir e trocar seus ativos digitais sem fronteiras, e bilhões de produtos e serviços são predominantemente trocados online, peer-to-peer.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Desde então, demos a prova de como é possível redefinir criatividade, fãs e experiências de consumo na blockchain através de experiências incríveis como NBA Top Shot, CryptoKitties, NFL All Day, Dapper Wallet e muitos outros. Esses produtos mudaram o curso da história da internet, abrindo uma indústria inteiramente nova e introduzindo a web3 diretamente para milhões de usuários. Isso inclui as equipes trabalhando em Dapper Creator, CAST, VESSEL, Miquela e nosso trabalho com influenciadores virtuais.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Acreditamos que estamos apenas raspando a superfície do que é possível com NFTs. Para os criadores, isso não é apenas uma nova mídia através da qual a criatividade pode ser trocada e expressa, mas também expande as experiências que podem ser criadas. Além disso, cria novas e significativas oportunidades de monetização e dá a eles visibilidade única sobre quem são seus maiores fãs. Para comunidades, NFTs são incrivelmente poderosos em permitir participação, engajamento, ligação e co-criação e estão se tornando cada vez mais profundos e multifacetados nas experiências que estão entregando. 
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Para os fãs, colecionadores e usuários, os NFTs permitem que eles apoiem os criadores e comunidades, expressem sua própria individualidade ou fãs, e desbloquem jornadas digitais novas e cativantes.
+
+É hora de abrir o conhecimento e a tecnologia que construímos ao longo dos anos e torná-los acessíveis para os criadores. Sem necessidade de codificação. Sem jargão técnico complexo. Sem complicações. Estamos limando o caminho para os criadores para que você possa se concentrar no que faz de melhor, enquanto recebe benefícios diretos de sua arte e constrói comunidades mais envolvidas. Não importa qual tipo de criador você é - artistas, músicos, jogadores, streamers, autores, produtores de vídeo, comediantes, designers, influenciadores de estilo de vida e muito mais - você pode acessar um novo mundo de possibilidades através dos NFTs e construir ligações diretas com sua audiência.
+
+Com a introdução de nossa nova unidade de negócios para criadores sob o Dapper, estamos anunciando que a equipe de gerenciamento de Dapper Collectives - Trevor McFedries, Kara Weber, Nicole de Ayora, Isaac Bratzel e Amie Jordan - estará saindo do Dapper Labs. Conforme ampliamos nossa forma de apoiar os criadores, agradecemos a Trevor, Kara, Nicole, Isaac e Amie por suas contribuições pioneiras enquanto eles seguem em frente para suas próximas etapas.
+
+Com o Dapper Creator, haverá maneiras completamente novas e interessantes de monetizar, recompensar e construir ligações individualizadas entre você e sua audiência, em todas as plataformas. É nosso objetivo levantar a economia dos criadores no processo e dar a eles ferramentas poderosas para se juntarem à revolução web3 com a gente.
+
+Junte-se a nós e descubra como os NFTs podem transformar sua criatividade, suas monetizações e suas conexões com sua audiência
+
+
+
+
+

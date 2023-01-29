@@ -18,6 +18,7 @@ featuredImage:
   url: /images/CAPAS-Aprenda os fundamentos do Flow Playground.png
   altText: Aprenda os fundamentos do Flow Playground
   caption: Aprenda os fundamentos do Flow Playground
+  width: 800
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

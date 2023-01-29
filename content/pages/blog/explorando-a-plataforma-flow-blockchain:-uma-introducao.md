@@ -7,9 +7,7 @@ title: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 titlePt: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 colors: colors-d
 date: '2023-01-01'
-excerpt: >-
-  Entendendo a tecnologia por trás da criptomoeda Flow e sua aplicação no mundo
-  financeiro
+excerpt: Unindo forças para construir o Metaverse
 excerptFr: >-
   Entendendo a tecnologia por trás da criptomoeda Flow e sua aplicação no mundo
   financeiro

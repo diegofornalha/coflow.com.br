@@ -155,7 +155,7 @@
             {
                 "type": "Link",
                 "label": "CURSO CADENCE",
-                "altText": "",
+                "altText": "CURSO CADENCE",
                 "url": "/curso",
                 "showIcon": false,
                 "icon": "arrowRight",

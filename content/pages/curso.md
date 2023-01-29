@@ -69,6 +69,14 @@ sections:
         url: /images/Embaixadores/avatar-diegofornalha-flow.png
         altText: Image four
         caption: Image four caption
+      - type: ImageBlock
+        url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        width: 300
+        height: 300
+        elementId: ''
     spacing: 46
     columns: 4
     aspectRatio: auto

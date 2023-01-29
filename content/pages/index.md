@@ -62,13 +62,6 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
-    backgroundImage:
-      type: BackgroundImage
-      url: /images/gifs/realidade virtual.gif
-      backgroundSize: cover
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 15
 addTitleSuffix: true
 metaTags:
   - type: MetaTag

@@ -16,6 +16,7 @@ postFeed:
   variant: variant-a
   colors: colors-b
   actions: []
+  showExcerpt: true
 topSections: []
 bottomSections: []
 styles:

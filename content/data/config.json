@@ -81,6 +81,16 @@
                         "elementId": ""
                     }
                 ]
+            },
+            {
+                "type": "Link",
+                "label": "Learn More",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "secondaryLinks": [

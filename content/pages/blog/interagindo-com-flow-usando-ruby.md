@@ -15,7 +15,7 @@ excerptFr: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CAPAS-Interagindo com Flow usando Ruby.png
   altText: Interagindo com Flow usando Ruby
   caption: Interagindo com Flow usando Ruby
   width: 800

@@ -53,7 +53,7 @@ sections:
     elementId: ''
     backgroundSize: full
     title: APRENDA A CRIAR SEU CONTRATO INTELIGENTE NA BLOCKCHAIN
-    titlePt: Ceci est un titre caractéristique
+    titlePt: APRENDA A CRIAR SEU CONTRATO INTELIGENTE NA BLOCKCHAIN
     subtitle: ''
     subtitlePt: Section sous-titre
     text: 'We’re local, seasonal fisherman, supporting fishing restrictions.'

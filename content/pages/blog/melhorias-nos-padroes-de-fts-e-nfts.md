@@ -8,9 +8,7 @@ titlePt: Melhorias nos padrões de FTs e NFTs
 colors: colors-d
 date: '2023-01-01'
 excerpt: Novidades sensacionais para desenvolvedores de Flow!
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: Novidades sensacionais para desenvolvedores de Flow!
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

@@ -41,14 +41,6 @@ sections:
         styles:
           self:
             textAlign: left
-        featuredImage:
-          type: ImageBlock
-          url: /images/padrao/target.svg
-          altText: altText of the image
-          caption: Caption of the image
-          width: 100
-          height: 100
-          elementId: ''
       - type: FeaturedItem
         title: 'Duração: +5 horas'
         titlePt: Plus intelligent

@@ -62,6 +62,13 @@ sections:
         textAlign: center
       actions:
         justifyContent: center
+    backgroundImage:
+      type: BackgroundImage
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
 addTitleSuffix: true
 metaTags:
   - type: MetaTag

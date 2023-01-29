@@ -7,7 +7,8 @@ const Analytics = () => {
         <>
             <Script
                 async
-                src={`https://www.googletagmanager.com/gtag/js?id=G-GC2P2Z5BYT`}
+                src={`https://www.googletagmanager.com/gtag/js?id=
+GTM-MGJJQLC`}
             />
             <Script
                 dangerouslySetInnerHTML={{

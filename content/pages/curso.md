@@ -31,7 +31,8 @@ sections:
     subtitle: >-
       Você vai aprender a melhor linguagem de programação para contrato
       inteligente. Esse vai ser o seu diferencial, entre agora para WEB 3.0!
-    text: Curso Cadence
+    text: |
+      video
     textPt: Curso Cadence
     styles:
       self:

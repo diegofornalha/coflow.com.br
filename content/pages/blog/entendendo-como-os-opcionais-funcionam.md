@@ -19,6 +19,7 @@ featuredImage:
   altText: Como evitar e corrigir erros de referências vazias em seu código
   caption: Como evitar e corrigir erros de referências vazias em seu código
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

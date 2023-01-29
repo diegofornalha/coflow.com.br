@@ -116,12 +116,46 @@ markdown_content_pt: >+
 metaDescription: null
 socialImage: null
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Você já ouviu falar do Flow? Ele é uma criptomoeda que usa tecnologias avançadas para criar uma rede descentralizada para aplicativos financeiros. E você sabe o que é incrível? Você pode interagir com ela usando o Ruby! Isso mesmo, você não precisa se preocupar em ficar limitado a linguagens específicas, com o Ruby você tem uma gama ainda maior de escolhas.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Neste artigo, vamos explorar como interagir com o Flow usando a linguagem de programação Ruby. E o melhor de tudo, o código deste artigo está disponível no Github para você brincar à vontade.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+Antes de começarmos, verifique se você tem o Ruby instalado. No terminal, digite "ruby -v" e você verá a versão atual. Caso não tenha, você pode baixá-lo em [https://www.ruby-lang.org](https://www.ruby-lang.org/).
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Vamos criar uma pasta para o nosso projeto e chamá-la de "flow-ruby". Usaremos o gRPC e Protocol Buffers para interagir com o nó Flow. E para isso, vamos instalar as gems grpc, grpc-tools e json.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Depois, vamos clonar o repositório do Flow no GitHub e gerar o código Ruby a partir dos arquivos .proto. Copie a pasta flow gerada para dentro da pasta flow-ruby.
+
+Agora é hora de abrir o seu editor de código favorito e criar um novo arquivo chamado "flow.rb". Adicione o código abaixo:
+
+class Flow
+def initialize(node_address)
+@stub = Access::AccessAPI::Stub.new(node_address, :this_channel_is_insecure)
+end
+
+def ping
+req = Access::PingRequest.new
+@stub.ping(req)
+end
+
+def get_account(address)
+req = Access::GetAccountAtLatestBlockRequest.new(address: to_bytes(address))
+res = @stub.get_account_at_latest_block(req)
+res.account
+end
+
+def execute_script(script, args = \[])
+req = Access::ExecuteScriptAtLatestBlockRequest.new(
+script: script,
+arguments: args
+)
+res = @stub.execute_script_at_latest_block(req)
+parse_json(res.value)
+end
+
+end
+
+E pronto! Agora você tem uma classe Flow para interagir com a rede Flow usando Ruby. Lembre-se, essa é apenas uma amostra básica do que é possível fazer, então sinta-se livre para explorar e criar coisas incríveis!
+
+
+

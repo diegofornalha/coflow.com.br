@@ -58,6 +58,7 @@ media:
     nome. A Flow também possui a capacidade de usar leilões de lote frequentes
     para garantir a segurança de trocas descentralizadas de tokens na rede. A
     longo prazo, a FLOW pode ser usada para participar da governança da rede.
+  width: 800
 bottomSections: []
 metaDescription: >-
   O token FLOW é a moeda nativa da rede de blockchain Flow. Ele é usado para

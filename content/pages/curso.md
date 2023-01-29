@@ -76,7 +76,7 @@ sections:
         showIcon: true
         icon: cart
         style: primary
-        url: /
+        url: 'https://wa.me/5521997806363?text=Ol%C3%A1'
         iconPosition: left
         altText: Chamar o Suporte
     backgroundImage:

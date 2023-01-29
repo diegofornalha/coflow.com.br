@@ -57,6 +57,7 @@ media:
     programa de parceiros que oferece acesso exclusivo a um canal de Discord,
     oportunidades de co-marketing, recursos e consultoria para projetos
     qualificados.
+  width: 800
 bottomSections: []
 metaDescription: >-
   O Flow é uma plataforma de blockchain de alto desempenho projetada para

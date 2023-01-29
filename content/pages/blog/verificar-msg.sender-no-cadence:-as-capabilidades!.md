@@ -6,7 +6,6 @@ metaTags: []
 title: 'Verificar msg.sender no Cadence: As Capabilidades!'
 titlePt: 'Verificar msg.sender no Cadence: As Capabilidades!'
 colors: colors-d
-date: '2023-10-01'
 excerpt: ' Segurança por Capacidade'
 excerptFr: ' Segurança por Capacidade'
 featuredImage:

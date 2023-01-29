@@ -23,9 +23,9 @@
                 "dropdownLinks": [
                     {
                         "type": "Link",
-                        "label": "Who We Are",
+                        "label": "Curso",
                         "url": "/about",
-                        "altText": "About"
+                        "altText": "Curso"
                     },
                     {
                         "type": "Link",
@@ -33,6 +33,16 @@
                         "altText": "Blog",
                         "url": "/blog",
                         "showIcon": true,
+                        "icon": "arrowRight",
+                        "iconPosition": "right",
+                        "elementId": ""
+                    },
+                    {
+                        "type": "Link",
+                        "label": "Learn More",
+                        "altText": "",
+                        "url": "/curso",
+                        "showIcon": false,
                         "icon": "arrowRight",
                         "iconPosition": "right",
                         "elementId": ""
@@ -264,5 +274,6 @@
             "property": "og:title",
             "content": "CoFlow"
         }
-    ]
+    ],
+    "titleSuffix": "Coflow"
 }

@@ -67,15 +67,11 @@ sections:
       CADENCE - FLOW BLOCKCHAIN
 
 
-
-
-      ## Fale agora mesmo com a minha equipe pelo WhatsApp e tire todas as suas
+      ### Fale agora mesmo com a minha equipe pelo WhatsApp e tire todas as suas
       dúvidas com relação ao curso, às formas de pagamento e aos acessos.
 
 
       ## Ainda com dúvidas?​
-
-
 
     textPt: |+
       CADENCE - FLOW BLOCKCHAIN

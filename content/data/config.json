@@ -10,7 +10,7 @@
             {
                 "type": "Link",
                 "label": "Home",
-                "altText": "",
+                "altText": "Ínicio",
                 "url": "/",
                 "showIcon": false,
                 "icon": "arrowRight",

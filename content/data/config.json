@@ -156,7 +156,7 @@
                 "type": "Link",
                 "label": "TERMO DE USO",
                 "altText": "TERMO DE USO",
-                "url": "/termos-de-uso",
+                "url": "/termo-de-uso",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",

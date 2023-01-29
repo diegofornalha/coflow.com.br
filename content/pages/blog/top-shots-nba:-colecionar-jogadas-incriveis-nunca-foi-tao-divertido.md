@@ -3,9 +3,7 @@ layout: PostLayout
 metaTitle: null
 addTitleSuffix: true
 metaTags: []
-title: >-
-  Em parceria com a NBA, NBPA e Dapper Labs, a Top Shot NBA é a nova sensação em
-  colecionar jogadas memoráveis de basquete.
+title: 'Top Shots NBA: colecionar jogadas incríveis nunca foi tão divertido'
 titlePt: 'Top Shots NBA: colecionar jogadas incríveis nunca foi tão divertido'
 colors: colors-d
 date: '2023-01-10'

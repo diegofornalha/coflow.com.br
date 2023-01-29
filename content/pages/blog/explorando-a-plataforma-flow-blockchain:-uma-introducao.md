@@ -26,12 +26,15 @@ metaDescription: null
 socialImage: null
 author: content/data/team/people/rikki-romana.json
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+Você já ouviu falar da constelação de criativos, desenvolvedores e jogadores apaixonados que estão construindo o futuro do entretenimento digital? Eles são a alma do Metaverse e, sem eles, nada disso seria possível. É por isso que a Animoca entrou no mundo da blockchain - eles viram o potencial da CryptoKitties e ajudaram a levar esse sucesso ao redor do mundo.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Desde então, a Animoca tem sido um dos maiores apoiadores do crescimento da indústria de NFTs. Eles investiram em projetos importantes como OpenSea, dapp.com, Axie Infinity, Lucid Sight e, é claro, Dapper e Flow. Com suas aquisições, eles permitiram que empresas como Pixowl/The Sandbox e NWAY migrassem para jogos descentralizados e também levaram marcas incríveis, como F1, Care Bears e MotoGP™, para o blockchain.
 
-![Placeholder Image](https://assets.stackbit.com/components/images/default/post-4.jpeg)
+A Animoca e a Dapper Labs compartilham uma visão do Metaverse e veem os jogos e aplicativos que criamos como peças de lego que os desenvolvedores e a comunidade podem usar para criar coisas incríveis. Por isso, estamos muito animados em dar as boas-vindas à Star Girl e ao MotoGP™ ao novo blockchain Flow, como primeiro passo em uma parceria ainda mais profunda com a Animoca Brands.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Com a chegada da Star Girl, do MotoGP™ e da comunidade REVV ao Flow, juntamente com outros jogos em desenvolvimento, estamos dando início a um Metaverse vibrante que atrairá novas comunidades ao blockchain pela primeira vez. Além disso, permite que desenvolvedores expandam a oferta de jogos e experiências para essas comunidades.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+A Star Girl, em particular, com seus 1 milhão de usuários ativos por mês, trará um importante e apaixonado ecossistema de jogadoras para a indústria, ampliando a diversidade de pessoas no crypto e quebrando os moldes demográficos de nossa indústria. Quando for lançada, esperamos que a popularidade da Star Girl abra novas dimensões para a atratividade do crypto, expandindo exponencialmente as possibilidades de aplicativos e experiências comerciais viáveis.
+
+"Vamos juntos construir o futuro do entretenimento digital!"
+

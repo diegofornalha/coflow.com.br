@@ -75,7 +75,7 @@ sections:
         label: Chame no Suporte
         showIcon: true
         icon: cart
-        style: secondary
+        style: primary
         url: /
         iconPosition: left
         altText: Chamar o Suporte

@@ -29,6 +29,7 @@ featuredImage:
     código na linguagem de programação Cadence e participar da comunidade Flow e
     interagir com outros desenvolvedores.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-

@@ -54,7 +54,7 @@ sections:
       Você vai aprender a melhor linguagem de programação para contrato
       inteligente. Esse vai ser o seu diferencial, entre para WEB 3.0!
   - type: MediaGallerySection
-    colors: colors-c
+    colors: colors-e
     elementId: ''
     title: Gallery
     titlePt: Galerie

@@ -24,7 +24,7 @@
                     {
                         "type": "Link",
                         "label": "Curso",
-                        "url": "/about",
+                        "url": "/curso",
                         "altText": "Curso"
                     },
                     {

@@ -161,6 +161,16 @@
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Learn More",
+                "altText": "",
+                "url": "/politicas-de-privacidade",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "socialLinks": [

@@ -17,6 +17,7 @@ media:
   altText: A anatomia de um Flow Dapp
   width: 500
   height: 300
+  caption: A anatomia de um Flow Dapp
 bottomSections:
   - type: FeaturedPostsSection
     colors: colors-a

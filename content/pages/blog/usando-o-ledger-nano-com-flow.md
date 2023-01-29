@@ -36,6 +36,7 @@ featuredImage:
     não tiver uma conta no Flow, o dispositivo pode iniciar o processo de
     criação de uma nova conta. Depois de configurado, o usuário pode assinar
     transações ao usar dApps compatíveis com o Flow.
+  width: 800
 media:
   type: ImageBlock
   url: /images/capas/Usando o Ledger Nano com Flow Diego Fornalha.png

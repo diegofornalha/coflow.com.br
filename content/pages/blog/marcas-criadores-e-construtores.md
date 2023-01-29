@@ -11,8 +11,8 @@ excerpt: >-
   Aproveite a nova economia de bens digitais e seja um dos primeiros a entrar em
   um mercado já valioso
 excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Aproveite a nova economia de bens digitais e seja um dos primeiros a entrar em
+  um mercado já valioso
 featuredImage:
   type: ImageBlock
   url: '/images/CAPAS-Marcas, Criadores e Construtores.png'

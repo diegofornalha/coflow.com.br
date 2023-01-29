@@ -7,9 +7,7 @@ title: Napster e as Plataformas Atuais
 titlePt: Napster e as Plataformas Atuais
 colors: colors-d
 date: '2023-01-01'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Equilibrando o Espectro de Propriedade Digital para um Mundo Melhor.
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

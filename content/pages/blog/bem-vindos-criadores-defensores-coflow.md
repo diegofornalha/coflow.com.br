@@ -8,9 +8,7 @@ titlePt: 'Bem-vindos, Criadores, Defensores CoFlow'
 colors: colors-d
 date: '2023-01-10'
 excerpt: Desvendando as possibilidades infinitas dos NFTs
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: Desvendando as possibilidades infinitas dos NFTs
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

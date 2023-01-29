@@ -78,7 +78,7 @@ sections:
         style: primary
         url: /
         iconPosition: left
-        altText: Chame no Suporte
+        altText: Chamar o Suporte
     backgroundImage:
       type: ImageBlock
       url: /images/hero-4.jpg

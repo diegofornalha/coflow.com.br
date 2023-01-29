@@ -22,7 +22,7 @@ media:
   altText: Tudo sobre Tokens Smart Contract
   caption: Tudo sobre Tokens Smart Contract
   width: 800
-  height: 400
+  height: 450
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

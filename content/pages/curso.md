@@ -27,7 +27,7 @@ sections:
     elementId: ''
     variant: variant-a
     title: Curso Cadence
-    titlePt: Encontre os melhores profissionais de Smart Contrats Cadence
+    titlePt: Curso Cadence
     subtitle: Curso Cadence
     text: Curso Cadence
     textPt: >

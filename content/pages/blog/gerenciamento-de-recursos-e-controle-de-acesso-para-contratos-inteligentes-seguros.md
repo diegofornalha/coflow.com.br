@@ -26,6 +26,7 @@ featuredImage:
   caption: >-
     Gerenciamento de recursos e controle de acesso para contratos inteligentes
     seguros
+  width: 800
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

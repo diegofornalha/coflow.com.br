@@ -23,7 +23,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/CAPAS-Interagindo com Flow usando Ruby.png
-  altText: Post image
+  altText: Interagindo com Flow usando Ruby
   caption: Interagindo com Flow usando Ruby
 bottomSections: []
 markdown_content_pt: >-

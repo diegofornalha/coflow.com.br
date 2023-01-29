@@ -4,7 +4,7 @@ metaTitle: null
 addTitleSuffix: true
 metaTags: []
 title: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
-titlePt: 'Explorando a Plataforma Flow Blockchain: Uma Introdução'
+titlePt: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 colors: colors-d
 date: '2023-01-01'
 excerpt: >-

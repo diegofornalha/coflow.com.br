@@ -26,7 +26,7 @@ sections:
     colors: colors-e
     elementId: ''
     variant: variant-a
-    title: Curso Cadence
+    title: Curso Cadence totalmente em português
     titlePt: Curso Cadence
     subtitle: Curso Cadence
     text: Curso Cadence

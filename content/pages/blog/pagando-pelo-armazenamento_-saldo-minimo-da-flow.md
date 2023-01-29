@@ -64,6 +64,7 @@ media:
     Descentralizada (DRIP). Isso ajuda a garantir que o token nativo da Flow
     esteja nas mãos das pessoas certas para incentivar o crescimento e a
     descentralização da rede.
+  width: 800
 bottomSections: []
 metaDescription: 'Pagando pelo armazenamento: saldo mínimo da FLOW'
 socialImage: >-

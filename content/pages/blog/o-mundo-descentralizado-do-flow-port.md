@@ -26,6 +26,7 @@ media:
   altText: 'O Mundo descentralizado do Flow Port  '
   caption: 'O Mundo descentralizado do Flow Port  '
   width: 800
+  height: 450
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

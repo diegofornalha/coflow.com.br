@@ -30,7 +30,7 @@ media:
   height: 300
 bottomSections:
   - type: FeaturedPostsSection
-    colors: colors-a
+    colors: colors-b
     elementId: ''
     showDate: true
     showAuthor: false

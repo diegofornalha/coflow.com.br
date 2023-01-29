@@ -22,7 +22,7 @@ media:
   caption: A anatomia de um Flow Dapp
 bottomSections:
   - type: FeaturedPostsSection
-    colors: colors-a
+    colors: colors-b
     elementId: ''
     showDate: false
     showAuthor: false

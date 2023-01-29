@@ -66,6 +66,7 @@ media:
     CryptoKitty é armazenado diretamente na conta do proprietário, enquanto no
     modelo de ledger, é armazenado em um contrato inteligente centralizado.
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: null
 socialImage: null

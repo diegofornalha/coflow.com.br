@@ -41,7 +41,7 @@ O objetivo desse tutorial é ajudá-lo a se familiarizar com o Flow Playground e
 🗣️ FYI: o Google Chrome é o navegador recomendado de acordo com a documentação do Flow.
 
 Contas
-O Flow Playground começa com cinco contas padrão. Cada conta tem um endereço diferente começando com 0x01. As contas estão localizadas na barra lateral esquerda. 
+O Flow Playground começa com cinco contas padrão. Cada conta tem um endereço diferente começando com 0x01. As contas estão localizadas na barra lateral esquerda.
 
 Implantando um contrato
 Para implantar um contrato, você precisa primeiro selecionar uma conta. As contas estão localizadas na esquerda e são rotuladas pelo endereço, por exemplo, 0x01, 0x02.
@@ -60,9 +60,6 @@ Se você vir esta mensagem, bem feito! Você implantou com sucesso um contrato n
 
 Transações
 As transações são uma maneira de interagir com a blockchain Flow. As transações são usadas para fazer mudanças na blockchain e custam dinheiro para serem executadas.
-
-
-
 
 Na parte esquerda da tela, abaixo de Contas, você verá Templates de Transação. Selecione o template de transação chamado "Transaction". Uma transação pré-carregada aparecerá.
 
@@ -104,20 +101,17 @@ Você conseguiu! Você é oficialmente um Pro do Playground 💪 Você implantou
 Tutoriais do Playground
 O playground também inclui os seguintes tutoriais que você pode completar:
 
-Hello World
+[Hello World](https://developers.flow.com/cadence/tutorial/02-hello-world)
 
-Mint Fungible Tokens
+[Mint Fungible Tokens](https://developers.flow.com/cadence/tutorial/06-fungible-tokens)
 
-Create Non-Fungible Tokens
+[Create Non-Fungible Tokens](https://developers.flow.com/cadence/tutorial/05-non-fungible-tokens-1)
 
-Build a Marketplace
+[Build a Marketplace](https://developers.flow.com/cadence/tutorial/08-marketplace-compose)
 
-Expand Non-Fungible Tokens
+[Expand Non-Fungible Tokens](https://developers.flow.com/cadence/tutorial/10-resources-compose)
 
-Voting Contract
+[Voting Contract](https://developers.flow.com/cadence/tutorial/09-voting)
+
+
 Cada tutorial contém todo o código de exemplo necessário para seguir junto, bem como explicações detalhadas sobre como o código funciona e como ele se relaciona com a blockchain Flow. Ao seguir esses tutoriais, você poderá aprender como criar sua própria aplicação blockchain usando a plataforma Flow.
-
-
-
-
-

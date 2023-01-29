@@ -18,7 +18,7 @@ featuredImage:
   height: 450
 media:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CAPAS-Proteja seu código com segurança.png
   altText: Post image
 bottomSections: []
 markdown_content_pt: >

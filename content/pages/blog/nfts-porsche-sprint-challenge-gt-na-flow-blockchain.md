@@ -39,6 +39,7 @@ featuredImage:
     lançamento inclui uma série de capacetes exclusivos com diferentes
     características, como materiais de viseira, decalques
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-

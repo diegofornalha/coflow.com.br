@@ -61,7 +61,6 @@ sections:
     images:
       - type: ImageBlock
         url: /images/gallery-1.jpg
-        altText: Image one
         caption: Image one caption
       - type: ImageBlock
         url: /images/gallery-2.jpg

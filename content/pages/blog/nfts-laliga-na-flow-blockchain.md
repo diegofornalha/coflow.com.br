@@ -55,6 +55,8 @@ media:
     carteira criptográfica multichain que também possui um sistema de pagamento
     seguro chamado Simplex, que permite a compra de Ethers ou Flow com cartões
     de crédito ou débito.
+  width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   Non-fungible tokens (NFTs) são tokens virtuais exclusivos e únicos que podem

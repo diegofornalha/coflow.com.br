@@ -39,6 +39,7 @@ bottomSections:
         showIcon: true
         icon: arrowRight
         url: /
+        label: Entre em Contato
     backgroundImage: null
     styles:
       self:

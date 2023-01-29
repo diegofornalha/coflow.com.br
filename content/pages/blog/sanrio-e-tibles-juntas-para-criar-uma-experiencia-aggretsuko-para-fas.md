@@ -8,9 +8,7 @@ titlePt: Sanrio e Tibles juntas para criar uma experiência Aggretsuko para fãs
 colors: colors-d
 date: '2023-01-10'
 excerpt: A nova maneira de colecionar digital com personagens adorados de Aggretsuko
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: A nova maneira de colecionar digital com personagens adorados de Aggretsuko
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

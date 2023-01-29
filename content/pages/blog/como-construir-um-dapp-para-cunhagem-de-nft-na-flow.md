@@ -31,6 +31,7 @@ featuredImage:
     chaves e seguir as instruções fornecidas pela plataforma para configurar a
     conta. Depois de configurar a conta, você poderá implantar seu contrato
     inteligente no blockchain Flow.
+  width: 800
 media:
   type: ImageBlock
   url: >-
@@ -58,7 +59,9 @@ metaDescription: >-
   seguir as instruções fornecidas pela plataforma para configurar a conta.
   Depois de configurar a conta, você poderá implantar seu contrato inteligente
   no blockchain Flow.
-socialImage: /images/capas/Como construir um Dapp para cunhagem de NFT na Flow diegofornalha.png
+socialImage: >-
+  /images/capas/Como construir um Dapp para cunhagem de NFT na Flow
+  diegofornalha.png
 title: Como construir um Dapp para cunhagem de NFT na Flow
 author: content/data/team/hilary-ouse.json
 ---

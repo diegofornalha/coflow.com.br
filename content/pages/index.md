@@ -67,7 +67,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: repeat
-      opacity: 100
+      opacity: 46
     backgroundSize: full
 addTitleSuffix: true
 metaTags:

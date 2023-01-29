@@ -17,6 +17,7 @@ postFeed:
   colors: colors-b
   actions: []
   showExcerpt: true
+  showReadMoreLink: true
 topSections: []
 bottomSections: []
 styles:

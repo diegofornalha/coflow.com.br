@@ -11,8 +11,8 @@ excerpt: >-
   Uma lista de recursos gratuitos para aprender Cadence e desenvolvimento de
   DApp na Blockchain Flow.
 excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Uma lista de recursos gratuitos para aprender Cadence e desenvolvimento de
+  DApp na Blockchain Flow.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

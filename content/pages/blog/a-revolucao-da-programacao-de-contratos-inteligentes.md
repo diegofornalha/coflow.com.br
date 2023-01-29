@@ -25,6 +25,7 @@ media:
   url: /images/CAPAS-a revolução da programação de contratos inteligentes.png
   altText: A revolução da programação de contratos inteligentes
   caption: A revolução da programação de contratos inteligentes
+  width: 800
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

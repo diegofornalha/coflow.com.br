@@ -27,7 +27,7 @@ media:
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: 'Top Shots NBA: colecionar jogadas incríveis nunca foi tão divertido'
   caption: 'Top Shots NBA: colecionar jogadas incríveis nunca foi tão divertido'
-  width: 850
+  width: 800
 bottomSections: []
 markdown_content_pt: >+
   O Top Shot NBA é a primeira experiência completamente licenciada da NBA para

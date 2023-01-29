@@ -17,6 +17,7 @@ featuredImage:
   altText: Sanrio e Tibles juntas para criar uma experiência Aggretsuko para fãs
   caption: Sanrio e Tibles juntas para criar uma experiência Aggretsuko para fãs
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

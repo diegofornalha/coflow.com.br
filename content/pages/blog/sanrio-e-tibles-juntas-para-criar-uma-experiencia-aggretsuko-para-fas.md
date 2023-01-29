@@ -24,6 +24,7 @@ media:
   altText: Sanrio e Tibles juntas para criar uma experiência Aggretsuko para fãs
   caption: Sanrio e Tibles juntas para criar uma experiência Aggretsuko para fãs
   width: 800
+  height: 450
 bottomSections: []
 markdown_content_pt: >+
   A Sanrio se uniu com a Tibles e a Dapper Labs para dar vida aos fãs de

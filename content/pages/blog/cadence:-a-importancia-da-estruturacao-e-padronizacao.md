@@ -12,7 +12,7 @@ excerptFr: Dicas e técnicas para organizar seus projetos Cadence
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: ' Cadence: a importância da estruturação e padronização'
   caption: ''
 media:
   type: ImageBlock

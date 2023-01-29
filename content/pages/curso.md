@@ -56,7 +56,6 @@ sections:
   - type: MediaGallerySection
     colors: colors-e
     elementId: ''
-    title: Gallery
     titlePt: Galerie
     subtitle: This is the subtitle
     subtitlePt: Sous-titre

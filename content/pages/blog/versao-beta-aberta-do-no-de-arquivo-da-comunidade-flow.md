@@ -40,6 +40,7 @@ featuredImage:
     dados. Ele é diferente de outros tipos de nós, como o nó de acesso e o nó
     observador, que são responsáveis por fornecer acesso ao estado atual da
     cadeia e aos dados do protocolo, respectivamente.
+  width: 800
 media:
   type: ImageBlock
   url: >-

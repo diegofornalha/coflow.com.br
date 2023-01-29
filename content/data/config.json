@@ -31,7 +31,7 @@
                         "type": "Link",
                         "label": "Blog",
                         "altText": "Blog",
-                        "url": "https://flow.coflow.com.br/blog",
+                        "url": "/blog",
                         "showIcon": true,
                         "icon": "arrowRight",
                         "iconPosition": "right",

@@ -7,9 +7,7 @@ title: 'Bem-vindos, Criadores, Defensores CoFlow'
 titlePt: 'Bem-vindos, Criadores, Defensores CoFlow'
 colors: colors-d
 date: '2023-01-10'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Desvendando as possibilidades infinitas dos NFTs
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

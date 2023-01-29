@@ -21,7 +21,7 @@ excerpt: >-
   todas as comunidades que constroem a rede para criar e compartilhar valor.
 featuredImage:
   type: ImageBlock
-  url: /images/Ampla distribuição do token flow diego fornalha.png
+  url: /images/capas/Ampla distribuição do token flow diego fornalha.png
   altText: Ampla distribuição do token flow
   caption: >-
     A distribuição do token nativo da Flow é importante para a descentralização
@@ -39,7 +39,7 @@ featuredImage:
     compartilhar valor.
 media:
   type: ImageBlock
-  url: /images/Ampla distribuição do token flow diego fornalha.png
+  url: /images/capas/Ampla distribuição do token flow diego fornalha.png
   altText: Post image
   caption: >-
     A distribuição do token nativo da Flow é importante para a descentralização
@@ -69,7 +69,7 @@ metaDescription: >-
   a catalisar o acesso de novas comunidades à blockchain e aos aplicativos
   descentralizados, criando e beneficiando casos de uso reais. A FLOW reunirá
   todas as comunidades que constroem a rede para criar e compartilhar valor.
-socialImage: /images/Ampla distribuição do token flow diego fornalha.png
+socialImage: /images/capas/Ampla distribuição do token flow diego fornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 A distribuição do token nativo é fundamental para a descentralização da rede e o sucesso a longo prazo.

@@ -22,7 +22,7 @@ excerpt: >-
   rede.
 featuredImage:
   type: ImageBlock
-  url: /images/diegofornalha staking flow blockchain.png
+  url: /images/capas/diegofornalha staking flow blockchain.png
   altText: O que é um STAKING na blockchain flow?
   caption: >-
     O staking é um processo utilizado em redes descentralizadas para incentivar
@@ -40,7 +40,7 @@ featuredImage:
     descentralização e segurança da rede.
 media:
   type: ImageBlock
-  url: /images/diegofornalha staking flow blockchain.png
+  url: /images/capas/diegofornalha staking flow blockchain.png
   altText: Post image
 bottomSections: []
 metaDescription: >-
@@ -57,7 +57,7 @@ metaDescription: >-
   tokens. O staking é um componente importante do protocolo de prova de
   participação utilizado pelo Flow para manter a descentralização e segurança da
   rede.
-socialImage: /images/diegofornalha staking flow blockchain.png
+socialImage: /images/capas/diegofornalha staking flow blockchain.png
 ---
 Flow é uma rede global de computadores que trabalham juntos para manter a segurança e a integridade dos dados de seus usuários.
 

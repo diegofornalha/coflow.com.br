@@ -54,7 +54,7 @@ sections:
         justifyContent: flex-start
     backgroundImage:
       type: BackgroundImage
-      url: /images/Gifs/flowlabs.gif
+      url: /images/gifs/flowlabs.gif
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
@@ -115,7 +115,7 @@ sections:
         justifyContent: flex-start
     media:
       type: ImageBlock
-      url: /images/padrao/target.svg
+      url: /images/capas/padrao/target.svg
       altText: altText of the image
       caption: Caption of the image
       width: 1400

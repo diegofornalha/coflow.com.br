@@ -18,7 +18,7 @@ excerpt: >-
   e as submissões dos participantes.
 featuredImage:
   type: ImageBlock
-  url: /images/Uma retrospectiva da Copa Cadence diegofornalha.png
+  url: /images/capas/Uma retrospectiva da Copa Cadence diegofornalha.png
   altText: Uma retrospectiva da Copa Cadence
   caption: >-
     A Cadence Cup foi uma série de desafios que incentivavam os participantes a
@@ -32,7 +32,7 @@ featuredImage:
     resultados finais e as submissões dos participantes.
 media:
   type: ImageBlock
-  url: /images/Uma retrospectiva da Copa Cadence diegofornalha.png
+  url: /images/capas/Uma retrospectiva da Copa Cadence diegofornalha.png
   altText: Uma retrospectiva da Copa Cadence
   caption: >-
     A Cadence Cup foi uma série de desafios que incentivavam os participantes a
@@ -55,7 +55,7 @@ metaDescription: >-
   um júri e os vencedores recebiam prêmios. Os links fornecidos no texto dão
   mais detalhes sobre cada rodada da Cadence Cup, incluindo os resultados finais
   e as submissões dos participantes.
-socialImage: /images/Uma retrospectiva da Copa Cadence diegofornalha.png
+socialImage: /images/capas/Uma retrospectiva da Copa Cadence diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 Isenção de responsabilidade: esses projetos foram escritos usando versões muito anteriores do Cadence do que estão disponíveis agora, portanto não funcionarão com a versão mais recente do Cadence em [o playground.](https://plafly.onflow.org/local?type=account\&id=LOCAL-account-0) Mesmo assim, eles são ótimos para estudar para ver diferentes estilos de codificação. Você pode até se desafiar escolhendo um dos projetos e atualizando-o para que ele funcione com a versão mais recente do Cadence!

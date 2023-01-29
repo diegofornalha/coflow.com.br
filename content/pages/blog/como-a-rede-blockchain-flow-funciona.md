@@ -11,7 +11,7 @@ excerpt: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: /images/Como a rede blockchain flow funciona diegofornalha.png
+  url: /images/capas/Como a rede blockchain flow funciona diegofornalha.png
   altText: Como a rede blockchain flow funciona?
   caption: >-
     Flow é uma blockchain projetada para ser usada em jogos e aplicativos,
@@ -24,7 +24,7 @@ featuredImage:
     que outras opções no mercado.
 media:
   type: ImageBlock
-  url: /images/Como a rede blockchain flow funciona diegofornalha.png
+  url: /images/capas/Como a rede blockchain flow funciona diegofornalha.png
   altText: Como a rede blockchain flow funciona?
   caption: >-
     Flow é uma blockchain projetada para ser usada em jogos e aplicativos,
@@ -45,7 +45,7 @@ metaDescription: >-
   dividindo as tarefas e tornando-as mais fáceis de serem cumpridas. A
   arquitetura de rede Flow é mais simples e menos problemática do que outras
   opções no mercado.
-socialImage: /images/Como a rede blockchain flow funciona diegofornalha.png
+socialImage: /images/capas/Como a rede blockchain flow funciona diegofornalha.png
 ---
 Flow é um da tecnologia blockchain projetada do início ao fim com o objetivo de ser integrado em jogos e aplicativos, tornando-se uma rede blockchain de alta velocidade e uma arquitetura modular extremamente flexível para o desenvolvimento.
 

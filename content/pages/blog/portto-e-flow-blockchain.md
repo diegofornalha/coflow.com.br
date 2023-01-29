@@ -21,7 +21,7 @@ excerpt: >-
   plataformas blockchain, como a Ethereum e a Solana.
 featuredImage:
   type: ImageBlock
-  url: /images/Portto e Flow Blockchain diego fornalha.png
+  url: /images/capas/Portto e Flow Blockchain diego fornalha.png
   altText: Portto e Flow Blockchain
   caption: >-
     A Porto, uma empresa de carteiras de criptomoeda, anunciou uma parceria com
@@ -38,7 +38,7 @@ featuredImage:
     integrações com outras plataformas blockchain, como a Ethereum e a Solana.
 media:
   type: ImageBlock
-  url: /images/Portto e Flow Blockchain diego fornalha.png
+  url: /images/capas/Portto e Flow Blockchain diego fornalha.png
   altText: Portto e Flow Blockchain
   caption: >-
     A Porto, uma empresa de carteiras de criptomoeda, anunciou uma parceria com
@@ -55,7 +55,7 @@ media:
     integrações com outras plataformas blockchain, como a Ethereum e a Solana.
 bottomSections: []
 metaDescription: null
-socialImage: /images/Portto e Flow Blockchain diego fornalha.png
+socialImage: /images/capas/Portto e Flow Blockchain diego fornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 Portto está em parceria com a Flow para oferecer a experiência mais simples em rampa de blockchain aos usuários dapp

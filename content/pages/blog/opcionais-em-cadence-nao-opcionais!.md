@@ -21,7 +21,7 @@ excerpt: >-
   têm, o que pode ajudar a evitar erros no código e a torná-lo mais legível.
 featuredImage:
   type: ImageBlock
-  url: /images/Opcionais em Cadence diegofornalha.png
+  url: /images/capas/Opcionais em Cadence diegofornalha.png
   altText: Opcionais em Cadence? Não opcionais!
   caption: >-
     Os opcionais são uma forma de lidar com variáveis que podem ou não ter um
@@ -39,7 +39,7 @@ featuredImage:
     mais legível.
 media:
   type: ImageBlock
-  url: /images/Opcionais em Cadence diegofornalha.png
+  url: /images/capas/Opcionais em Cadence diegofornalha.png
   altText: Opcionais em Cadence? Não opcionais!
   caption: >-
     Os opcionais são uma forma de lidar com variáveis que podem ou não ter um
@@ -57,7 +57,7 @@ media:
     mais legível.
 bottomSections: []
 metaDescription: Opcionais em Cadence? Não opcionais!
-socialImage: /images/Opcionais em Cadence diegofornalha.png
+socialImage: /images/capas/Opcionais em Cadence diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 

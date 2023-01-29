@@ -16,7 +16,7 @@ excerpt: >-
   Twitter.
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Ecosystem Overview diegofornalha.png
+  url: /imagescapas/Ecosystem Overview diegofornalha.png
   altText: 'Ecosistema Flow: um olhar profundo em equipes e produtos vibrantes'
   caption: >-
     Crescimento significativo de desenvolvedores na plataforma, com um aumento
@@ -28,7 +28,7 @@ featuredImage:
     Instagram e Twitter.
 media:
   type: ImageBlock
-  url: /images/Ecosystem Overview diegofornalha.png
+  url: /images/capas/Ecosystem Overview diegofornalha.png
   altText: 'Ecosistema Flow: um olhar profundo em equipes e produtos vibrantes'
   caption: >-
     Crescimento significativo de desenvolvedores na plataforma, com um aumento
@@ -78,7 +78,7 @@ metaDescription: >-
   digitais em sua entrada no espaço web3, e como a Flow está se tornando a
   blockchain de escolha para plataformas sociais populares como Instagram e
   Twitter.
-socialImage: /images/Ecosystem Overview diegofornalha.png
+socialImage: /images/capas/Ecosystem Overview diegofornalha.png
 ---
 
 

@@ -1,7 +1,7 @@
 model: CtaSection
 presets:
   - label: CTA light - button bottom
-    thumbnail: images/cta-light-btn-bottom.png
+    thumbnail: images/capas/cta-light-btn-bottom.png
     data:
       colors: colors-d
       backgroundImage:
@@ -31,7 +31,7 @@ presets:
         actions:
           justifyContent: flex-start
   - label: CTA secondary - button bottom
-    thumbnail: images/cta-secondary-btn-bottom.png
+    thumbnail: images/capas/cta-secondary-btn-bottom.png
     data:
       colors: colors-c
       backgroundImage:
@@ -61,7 +61,7 @@ presets:
         actions:
           justifyContent: center
   - label: CTA dark - button right
-    thumbnail: images/cta-dark-btn-right.png
+    thumbnail: images/capas/cta-dark-btn-right.png
     data:
       colors: colors-e
       backgroundImage:

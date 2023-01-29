@@ -15,7 +15,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/Protocolo de staking líquido (STFLOW) da Increment - Diego
+    /images/capas/Protocolo de staking líquido (STFLOW) da Increment - Diego
     Fornalha.png
   altText: Protocolo de staking líquido (STFLOW) da Increment
   caption: >-
@@ -27,7 +27,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: >-
-    /images/Protocolo de staking líquido (STFLOW) da Increment - Diego
+    /images/capas/Protocolo de staking líquido (STFLOW) da Increment - Diego
     Fornalha.png
   altText: Protocolo de staking líquido (STFLOW) da Increment
   caption: >-
@@ -44,7 +44,7 @@ metaDescription: >-
   permitindo que os usuários resgatam suas estacas e recompensas geradas de
   forma rápida e fácil.
 socialImage: >-
-  /images/Protocolo de staking líquido (STFLOW) da Increment - Diego
+  /images/capas/Protocolo de staking líquido (STFLOW) da Increment - Diego
   Fornalha.png
 author: content/data/team/hilary-ouse.json
 ---

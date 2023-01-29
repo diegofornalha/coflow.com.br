@@ -8,12 +8,12 @@ colors: colors-d
 date: '2023-01-10'
 featuredImage:
   type: ImageBlock
-  url: /images/a anatomia da uma dapp diego fornalha.png
+  url: /images/capas/a anatomia da uma dapp diego fornalha.png
   altText: A anatomia de um Flow Dapp
   caption: ''
 media:
   type: ImageBlock
-  url: /images/a anatomia da uma dapp diego fornalha.png
+  url: /images/capas/a anatomia da uma dapp diego fornalha.png
   altText: A anatomia de um Flow Dapp
 bottomSections:
   - type: FeaturedPostsSection
@@ -50,11 +50,11 @@ bottomSections:
         content/pages/blog/como-construir-um-dapp-para-cunhagem-de-nft-na-flow.md
       - content/pages/blog/como-a-programacao-orientada-a-recursos-funciona.md
 metaDescription: null
-socialImage: /images/a anatomia da uma dapp diego fornalha.png
+socialImage: /images/capas/a anatomia da uma dapp diego fornalha.png
 ---
 O diagrama abaixo descreve os componentes de um dapp típico construído na blockchain Flow. Embora muitos dapps sejam estruturados de maneira diferente, essa arquitetura apresenta conceitos fundamentais que serão discutidos ao longo deste guia.
 
-![](/images/image.png)
+![](/images/capas/image.png)
 
 **Cliente Dapp**
 O cliente dapp é a interface através da qual os usuários interagem com seu dapp. Aplicativos da Web e móveis são exemplos comuns de clientes dapp.

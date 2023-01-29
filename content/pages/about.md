@@ -62,7 +62,7 @@ sections:
         justifyContent: flex-start
     backgroundImage:
       type: BackgroundImage
-      url: /images/Gifs/metaverso.gif
+      url: /images/gifs/metaverso.gif
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat

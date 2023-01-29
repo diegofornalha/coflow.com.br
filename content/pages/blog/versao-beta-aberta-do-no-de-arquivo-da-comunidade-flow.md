@@ -23,7 +23,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: >-
-    /images/Versão beta aberta do nó de arquivo da comunidade Flow
+    /images/capas/Versão beta aberta do nó de arquivo da comunidade Flow
     Diegofornalha.png
   altText: Versão beta aberta do nó de arquivo da comunidade Flow
   caption: >-
@@ -43,7 +43,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: >-
-    /images/Versão beta aberta do nó de arquivo da comunidade Flow
+    /images/capas/Versão beta aberta do nó de arquivo da comunidade Flow
     Diegofornalha.png
   altText: Versão beta aberta do nó de arquivo da comunidade Flow
   caption: >-
@@ -76,7 +76,7 @@ metaDescription: >-
   são responsáveis por fornecer acesso ao estado atual da cadeia e aos dados do
   protocolo, respectivamente.
 socialImage: >-
-  /images/Versão beta aberta do nó de arquivo da comunidade Flow
+  /images/capas/Versão beta aberta do nó de arquivo da comunidade Flow
   Diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---

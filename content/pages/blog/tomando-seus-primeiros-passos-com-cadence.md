@@ -19,7 +19,7 @@ excerpt: >-
   para aqueles que desejam aprender mais sobre a tecnologia.
 featuredImage:
   type: ImageBlock
-  url: /images/Tomando seus primeiros passos com Cadence diegofornalha.png
+  url: /images/capas/Tomando seus primeiros passos com Cadence diegofornalha.png
   altText: Tomando seus primeiros passos com Cadence
   caption: >-
     O Flow é uma blockchain projetada para ser rápida, descentralizada e
@@ -35,7 +35,7 @@ featuredImage:
     tecnologia.
 media:
   type: ImageBlock
-  url: /images/Tomando seus primeiros passos com Cadence diegofornalha.png
+  url: /images/capas/Tomando seus primeiros passos com Cadence diegofornalha.png
   altText: Tomando seus primeiros passos com Cadence
   caption: >-
     O Flow é uma blockchain projetada para ser rápida, descentralizada e
@@ -61,7 +61,7 @@ metaDescription: >-
   e o Introdução à Cadence, bem como outros materiais de aprendizado disponíveis
   online. A comunidade Flow também é uma fonte valiosa de aprendizado e suporte
   para aqueles que desejam aprender mais sobre a tecnologia.
-socialImage: /images/Tomando seus primeiros passos com Cadence diegofornalha.png
+socialImage: /images/capas/Tomando seus primeiros passos com Cadence diegofornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 A Flow também significa DIVERTIMENTO!

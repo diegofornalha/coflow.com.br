@@ -1,7 +1,7 @@
 model: MediaGallerySection
 presets:
   - label: 3 columns light wide
-    thumbnail: images/media-gallery-3-col.png
+    thumbnail: images/capas/media-gallery-3-col.png
     data:
       colors: colors-d
       title: Gallery
@@ -28,7 +28,7 @@ presets:
         subtitle:
           textAlign: center
   - label: 4 columns light full
-    thumbnail: images/media-gallery-4-col.png
+    thumbnail: images/capas/media-gallery-4-col.png
     data:
       colors: colors-d
       title: Gallery
@@ -55,7 +55,7 @@ presets:
         subtitle:
           textAlign: center
   - label: 2 columns dark narrow
-    thumbnail: images/media-gallery-2-col.png
+    thumbnail: images/capas/media-gallery-2-col.png
     data:
       colors: colors-c
       title: Gallery

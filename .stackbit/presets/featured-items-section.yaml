@@ -1,7 +1,7 @@
 model: FeaturedItemsSection
 presets:
   - label: Featured items secondary - 1 column
-    thumbnail: images/feat-items-secondary-1-col.png
+    thumbnail: images/capas/feat-items-secondary-1-col.png
     data:
       colors: colors-c
       title: Key value propositions
@@ -83,7 +83,7 @@ presets:
         actions:
           justifyContent: flex-start
   - label: Featured items light - 3 columns
-    thumbnail: images/feat-items-light-3-col.png
+    thumbnail: images/capas/feat-items-light-3-col.png
     data:
       colors: colors-d
       title: Key value propositions

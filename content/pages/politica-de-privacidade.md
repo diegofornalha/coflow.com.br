@@ -3,7 +3,7 @@ layout: PageLayout
 metaTitle: Curso Cadence
 metaDescription: Smart Contrats Cadence
 addTitleSuffix: true
-socialImage: /images/padrao/flow-coflow-logo.png
+socialImage: /images/capas/padrao/flow-coflow-logo.png
 metaTags:
   - type: MetaTag
     property: 'og:type'

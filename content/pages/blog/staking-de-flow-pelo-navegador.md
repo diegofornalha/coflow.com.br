@@ -8,7 +8,7 @@ colors: colors-d
 date: '2022-12-19'
 featuredImage:
   type: ImageBlock
-  url: /images/Staking de Flow pelo Navegador Diego Fornalha.png
+  url: /images/capas/Staking de Flow pelo Navegador Diego Fornalha.png
   altText: Staking de Flow pelo Navegador
   caption: >-
     O Flow é um blockchain construído para a próxima geração de aplicativos,
@@ -24,7 +24,7 @@ featuredImage:
     objetos do jogo em um mundo aberto multijogador.
 media:
   type: ImageBlock
-  url: /images/Staking de Flow pelo Navegador Diego Fornalha.png
+  url: /images/capas/Staking de Flow pelo Navegador Diego Fornalha.png
   altText: Staking de Flow pelo Navegador
   caption: >-
     O Flow é um blockchain construído para a próxima geração de aplicativos,
@@ -51,7 +51,7 @@ metaDescription: >-
   Blocto ou Ledger. O jogo Chainmonsters também está integrado ao blockchain
   Flow, permitindo que os usuários usem NFTs e outros objetos do jogo em um
   mundo aberto multijogador.
-socialImage: /images/Staking de Flow pelo Navegador Diego Fornalha.png
+socialImage: /images/capas/Staking de Flow pelo Navegador Diego Fornalha.png
 author: content/data/team/hilary-ouse.json
 ---
 Se ainda não sabe o que é staking, no meu primeiro artigo eu te passo uma definição mais detalhada. [Clique Aqui e Saiba Mais](https://www.web3dev.com.br/diegofornalha/o-que-e-um-staking-na-blockchain-flow-la6)

@@ -17,7 +17,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Desenvolva com Cadence um DApp na Blockchain Flow
-  caption: ''
+  caption: Desenvolva com Cadence um DApp na Blockchain Flow
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

@@ -74,8 +74,8 @@ featuredImage:
   url: /images/capas/Ecosystem Overview diegofornalha.png
   altText: Ecosistema
   caption: Ecosistema
-  width: 500
-  height: 300
+  width: 800
+  height: 450
   elementId: ''
 ---
 

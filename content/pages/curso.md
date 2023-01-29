@@ -71,7 +71,7 @@ sections:
         caption: Image four caption
     spacing: 66
     columns: 5
-    aspectRatio: '4:3'
+    aspectRatio: auto
     showCaption: false
     enableHover: true
     styles:

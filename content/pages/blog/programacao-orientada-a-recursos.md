@@ -46,6 +46,7 @@ media:
     e possui tipos de dados especiais para representar a propriedade de
     recursos. A Flow está trabalhando para tornar o Cadence a linguagem padrão
     para a escrita de contratos inteligentes na plataforma.
+  width: 800
 bottomSections: []
 metaDescription: null
 socialImage: null

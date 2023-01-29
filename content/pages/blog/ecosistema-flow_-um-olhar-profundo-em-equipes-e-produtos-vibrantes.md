@@ -76,7 +76,7 @@ featuredImage:
   width: 800
   height: 450
   elementId: ''
-date: '2020-01-12'
+date: '0002-01-12'
 ---
 
 

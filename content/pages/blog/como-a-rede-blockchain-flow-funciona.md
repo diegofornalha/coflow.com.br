@@ -22,6 +22,7 @@ featuredImage:
     funções específicas, dividindo as tarefas e tornando-as mais fáceis de serem
     cumpridas. A arquitetura de rede Flow é mais simples e menos problemática do
     que outras opções no mercado.
+  width: 800
 media:
   type: ImageBlock
   url: /images/capas/Como a rede blockchain flow funciona diegofornalha.png

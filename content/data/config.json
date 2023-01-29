@@ -23,7 +23,7 @@
                 "dropdownLinks": [
                     {
                         "type": "Link",
-                        "label": "Who We Are",
+                        "label": "Curso",
                         "url": "/about",
                         "altText": "About"
                     },

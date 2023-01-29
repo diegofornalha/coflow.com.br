@@ -40,6 +40,7 @@ featuredImage:
     incluindo a criação de um contrato inteligente, o registro do NFT e o
     processo de cunhagem/mintagem.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/NFTs Blockchain flow diego fornalha.png

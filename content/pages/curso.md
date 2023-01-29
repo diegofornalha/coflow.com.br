@@ -26,7 +26,7 @@ sections:
     colors: colors-e
     elementId: ''
     variant: variant-a
-    title: Curso Cadence totalmente em português
+    title: Curso Cadence Totalmente em português
     titlePt: Curso Cadence
     subtitle: >-
       Você vai aprender a melhor linguagem de programação para contrato

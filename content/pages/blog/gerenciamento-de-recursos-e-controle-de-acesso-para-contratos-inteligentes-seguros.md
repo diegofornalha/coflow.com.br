@@ -42,6 +42,7 @@ media:
     Gerenciamento de recursos e controle de acesso para contratos inteligentes
     seguros
   width: 800
+  height: 400
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

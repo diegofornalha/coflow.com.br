@@ -22,6 +22,7 @@ media:
   altText: ' participe de eventos exclusivos e muito mais com FLOW.'
   caption: ' participe de eventos exclusivos e muito mais com FLOW.'
   width: 800
+  height: 450
 bottomSections: []
 markdown_content_pt: >+
   Um Ano de Desafios e Realizações

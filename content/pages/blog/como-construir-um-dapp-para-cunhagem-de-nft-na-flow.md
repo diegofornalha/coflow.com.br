@@ -32,6 +32,7 @@ featuredImage:
     conta. Depois de configurar a conta, você poderá implantar seu contrato
     inteligente no blockchain Flow.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-

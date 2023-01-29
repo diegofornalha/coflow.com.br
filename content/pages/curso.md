@@ -73,7 +73,7 @@ sections:
     actions:
       - type: Button
         label: Chame no Suporte
-        showIcon: false
+        showIcon: true
         icon: cart
         style: primary
         url: /

@@ -91,6 +91,16 @@
                         "elementId": ""
                     }
                 ]
+            },
+            {
+                "type": "Link",
+                "label": "Learn More",
+                "altText": "",
+                "url": "/blog",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             }
         ],
         "secondaryLinks": [

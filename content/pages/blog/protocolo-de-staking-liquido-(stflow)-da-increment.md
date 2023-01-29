@@ -24,6 +24,7 @@ featuredImage:
     estacas. O protocolo ajuda a descentralizar a rede e aumenta a liquidez,
     permitindo que os usuários resgatam suas estacas e recompensas geradas de
     forma rápida e fácil.
+  width: 800
 media:
   type: ImageBlock
   url: >-

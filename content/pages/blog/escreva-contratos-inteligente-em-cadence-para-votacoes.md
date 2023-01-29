@@ -56,6 +56,8 @@ media:
     participantes votem em uma das propostas e armazenem suas escolhas em uma
     variável escolha. O recurso Administrar permite que o administrador
     inicialize as propostas e crie novas instâncias do recurso Voto.
+  width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   O smart contract em Cadence é um código que é executado em uma rede

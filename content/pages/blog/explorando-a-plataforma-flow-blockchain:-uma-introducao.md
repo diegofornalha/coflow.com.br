@@ -8,8 +8,8 @@ titlePt: 'Explorando a Plataforma Flow Blockchain: Uma Introdução'
 colors: colors-d
 date: '2023-01-01'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Entendendo a tecnologia por trás da criptomoeda Flow e sua aplicação no mundo
+  financeiro
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

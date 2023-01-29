@@ -13,7 +13,7 @@ postFeed:
   subtitle: null
   showDate: false
   showAuthor: false
-  variant: variant-c
+  variant: variant-b
   colors: colors-b
   actions: []
   showExcerpt: false

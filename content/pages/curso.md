@@ -59,8 +59,6 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Embaixadores/avatar-diegofornalha-flow.png
-      - type: ImageBlock
-        url: /images/Embaixadores/avatar-diegofornalha-flow.png
         altText: Image two
         caption: Image two caption
       - type: ImageBlock

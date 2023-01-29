@@ -10,7 +10,9 @@ date: '2023-01-10'
 excerpt: >-
   Descubra novas formas de monetizar e se conectar com o seu público através de
   tecnologia descentralizada
-excerptFr: Desvendando as possibilidades infinitas dos NFTs
+excerptFr: >-
+  Descubra novas formas de monetizar e se conectar com o seu público através de
+  tecnologia descentralizada
 featuredImage:
   type: ImageBlock
   url: /images/CAPAS-bem vindos criadores e defensores.png

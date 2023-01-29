@@ -42,6 +42,7 @@ featuredImage:
     esteja nas mãos das pessoas certas para incentivar o crescimento e a
     descentralização da rede.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: >-

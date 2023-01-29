@@ -8,8 +8,8 @@ titlePt: Aprenda os fundamentos do Flow Playground
 colors: colors-d
 date: '2023-01-10'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Como implantar um contrato e como interagir com contratos implantados usando
+  transações e scripts.
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

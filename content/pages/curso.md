@@ -56,7 +56,6 @@ sections:
   - type: MediaGallerySection
     colors: colors-e
     elementId: ''
-    subtitlePt: Sous-titre
     images:
       - type: ImageBlock
         url: /images/Embaixadores/avatar-diegofornalha-flow.png

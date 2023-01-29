@@ -31,6 +31,7 @@ featuredImage:
     no texto dão mais detalhes sobre cada rodada da Cadence Cup, incluindo os
     resultados finais e as submissões dos participantes.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/Uma retrospectiva da Copa Cadence diegofornalha.png

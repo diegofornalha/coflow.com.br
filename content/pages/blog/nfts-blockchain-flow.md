@@ -39,6 +39,7 @@ featuredImage:
     Existem diversas etapas envolvidas no processo de criação de NFTs na Flow,
     incluindo a criação de um contrato inteligente, o registro do NFT e o
     processo de cunhagem/mintagem.
+  width: 800
 media:
   type: ImageBlock
   url: /images/capas/NFTs Blockchain flow diego fornalha.png

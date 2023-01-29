@@ -18,7 +18,6 @@ sections:
   - type: CtaSection
     colors: colors-a
     elementId: ''
-    backgroundSize: full
     title: Accelerate every step!
     titlePt: Acelere cada etapa!
     text: |+

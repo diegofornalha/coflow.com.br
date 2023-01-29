@@ -8,9 +8,7 @@ titlePt: Flow Smart Contract Team
 colors: colors-d
 date: '2023-01-01'
 excerpt: Oferecendo uma experiência única
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: Oferecendo uma experiência única
 featuredImage:
   type: ImageBlock
   url: /images/CAPAS-Flow Smart Contract Team.png

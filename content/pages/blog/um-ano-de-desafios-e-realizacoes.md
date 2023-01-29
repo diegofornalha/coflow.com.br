@@ -21,6 +21,7 @@ media:
   url: /images/CAPAS-Um Ano de Desafios e Realizações.png
   altText: ' participe de eventos exclusivos e muito mais com FLOW.'
   caption: ' participe de eventos exclusivos e muito mais com FLOW.'
+  width: 800
 bottomSections: []
 markdown_content_pt: >+
   Um Ano de Desafios e Realizações

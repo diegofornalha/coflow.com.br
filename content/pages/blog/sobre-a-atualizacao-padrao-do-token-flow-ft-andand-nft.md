@@ -49,6 +49,7 @@ media:
     e o contrato padrão de tokens fungíveis, que adicionam recursos de
     roteamento e informações de metadados para melhorar a integração de
     terceiros e a exibição de informações de token.
+  width: 800
 bottomSections: []
 metaDescription: >-
   O Flow Playground é uma plataforma online interativa que permite que os

@@ -18,6 +18,7 @@ featuredImage:
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: 'O Mundo descentralizado do Flow Port  '
   caption: 'O Mundo descentralizado do Flow Port  '
+  width: 800
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

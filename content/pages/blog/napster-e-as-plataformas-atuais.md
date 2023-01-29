@@ -22,6 +22,7 @@ media:
   altText: Napster e as Plataformas Atuais
   caption: Napster e as Plataformas Atuais
   width: 800
+  height: 450
 bottomSections: []
 markdown_content_pt: >+
   1999 foi um ano importante na história da tecnologia, não só pelo famoso bug

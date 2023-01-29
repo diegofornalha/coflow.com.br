@@ -21,7 +21,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post image
+  altText: Sanrio e Tibles juntas para criar uma experiência Aggretsuko para fãs
 bottomSections: []
 markdown_content_pt: >+
   A Sanrio se uniu com a Tibles e a Dapper Labs para dar vida aos fãs de

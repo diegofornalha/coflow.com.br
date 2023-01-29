@@ -8,8 +8,8 @@ titlePt: 'Top Shots NBA: colecionar jogadas incríveis nunca foi tão divertido'
 colors: colors-d
 date: '2023-01-10'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Em parceria com a NBA, NBPA e Dapper Labs, a Top Shot NBA é a nova sensação em
+  colecionar jogadas memoráveis de basquete.
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

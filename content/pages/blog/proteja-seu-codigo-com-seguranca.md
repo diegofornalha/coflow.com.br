@@ -14,6 +14,7 @@ featuredImage:
   url: /images/CAPAS-Proteja seu código com segurança.png
   altText: Proteja seu código com segurança!
   caption: Proteja seu código com segurança!
+  width: 850
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

@@ -30,36 +30,7 @@ sections:
     titlePt: Curso Cadence
     subtitle: Curso Cadence
     text: Curso Cadence
-    textPt: >
-      ![](https://s2.glbimg.com/djaJ-7mBc6nerppZnhXnzREWiDs=/620x345/e.glbimg.com/og/ed/f/original/2022/03/11/celso_ferrari_e_tomas_ferrari_fundadores_da_geekhunter.\_credito_jose_somensi.jpg)
-
-
-      Quero te apresentar a **GeekHunter**, é uma empresa especializada em
-      recrutamento de devs. Oferecem uma plataforma para conectar empresas com
-      **devs Cadence** pré-selecionados, invertendo o modelo tradicional de
-      recrutamento. Em vez de os desenvolvedores se candidatarem a empregos, são
-      os empresarios que fazem convites de entrevista, e os candidatos têm a
-      opção de aceitar ou declinar.
-
-
-      Com a GeekHunter, seu projeto terá acesso a uma base diariamente
-      atualizada com apenas um seleto grupo de candidatos com o maior potencial
-      de serem contratados. Para atrair esses devs, inteligência de dados ajudam
-      a atrair e pré-selecionar os melhores interessados, permitindo que seu
-      projeto possa visualizar os candidatos mais adequados para o perfil de sua
-      busca e convidá-los para entrevistas.
-
-
-      Atualmente, estamos conectando muitos desenvolvedores da america latina
-      com projetos estrangeiras. Com a GeekHunter, você economiza tempo e
-      recursos, ao mesmo tempo em que encontra os melhores profissionais.
-
-
-      A GeekHunter pode te ajudar a encontrar os melhores profissionais de
-      Cadence para [Flow Blockchain](https://flow.coflow.com.br/blog/).
-
-
-      **Site:** [geekhunter.com.br](https://bit.ly/geekhunter-flow)
+    textPt: Curso Cadence
     styles:
       self:
         height: auto

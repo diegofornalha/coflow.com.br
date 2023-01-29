@@ -72,7 +72,7 @@ sections:
 
     actions:
       - type: Button
-        label: Compre Agora
+        label: Chame no Suporte
         showIcon: true
         icon: cart
         style: primary

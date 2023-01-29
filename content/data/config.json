@@ -91,6 +91,16 @@
                         "elementId": ""
                     }
                 ]
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "altText": "Blog",
+                "url": "/blog",
+                "showIcon": true,
+                "icon": "arrowRightCircle",
+                "iconPosition": "left",
+                "elementId": ""
             }
         ],
         "secondaryLinks": [

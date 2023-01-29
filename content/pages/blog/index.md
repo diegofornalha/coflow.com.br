@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Blog em pt-Br
+title: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 titlePt: Blog em pt-Br
 numOfPostsPerPage: 80
 postFeed:

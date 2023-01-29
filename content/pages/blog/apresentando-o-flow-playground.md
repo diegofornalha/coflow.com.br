@@ -38,6 +38,7 @@ featuredImage:
     oportunidades de co-marketing, recursos e consultoria para projetos
     qualificados.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/Apresentando o Flow Playground diego fornalha.png

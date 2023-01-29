@@ -10,7 +10,9 @@ date: '2023-01-10'
 excerpt: >-
   Como estabelecer objetivos claros, criar um cronograma detalhado e garantir
   uma comunicação eficiente para superar obstáculos e atingir sucesso.
-excerptFr: Dicas e técnicas para organizar seus projetos Cadence
+excerptFr: >-
+  Como estabelecer objetivos claros, criar um cronograma detalhado e garantir
+  uma comunicação eficiente para superar obstáculos e atingir sucesso.
 featuredImage:
   type: ImageBlock
   url: /images/CAPAS-Cadence a importância da estruturação e padronização.png

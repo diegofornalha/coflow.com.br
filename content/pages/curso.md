@@ -31,7 +31,7 @@ sections:
     subtitle: >-
       Você vai aprender a melhor linguagem de programação para contrato
       inteligente. Esse vai ser o seu diferencial, entre agora para WEB 3.0!
-    text: "Não fique de Fora, essa é a sua oportunidade!\n\nCADENCE - FLOW BLOCKCHAIN\n\n##De\_R$597\_por apenas\n\n## R$397,00 ou em até 12x de\n\n## R$ 38,68\n\n![](https://bafkreiesz7tpwc5iq6hzz4roene4bkxqtwmhp5sol5epuhf2mskyswrkb4.ipfs.nftstorage.link/)\n\n*   Pagamento 100% seguro\n\n*   Acesso imediato\n\n*   7 dias de garantia\n"
+    text: "Não fique de Fora, essa é a sua oportunidade!\n\nCADENCE - FLOW BLOCKCHAIN\n\n\\##De\_R$597\_por apenas\n\n## R$397,00 ou em \n\n##até 12x de\n\n## R$ 38,68\n\n![](https://bafkreiesz7tpwc5iq6hzz4roene4bkxqtwmhp5sol5epuhf2mskyswrkb4.ipfs.nftstorage.link/)\n\n*   Pagamento 100% seguro\n\n*   Acesso imediato\n\n*   7 dias de garantia\n\n"
     textPt: Curso Cadence
     styles:
       self:

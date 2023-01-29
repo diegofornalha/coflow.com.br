@@ -57,7 +57,6 @@ sections:
     colors: colors-e
     elementId: ''
     titlePt: Galerie
-    subtitle: This is the subtitle
     subtitlePt: Sous-titre
     images:
       - type: ImageBlock

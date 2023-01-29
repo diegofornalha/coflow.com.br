@@ -42,6 +42,7 @@ sections:
           self:
             textAlign: left
         featuredIcon: books
+        isIcon: true
       - type: FeaturedItem
         title: 'Duração: +5 horas'
         titlePt: Plus intelligent

@@ -11,7 +11,7 @@ excerpt: Não esqueça esse DETALHE VITAL
 excerptFr: Não esqueça esse DETALHE VITAL
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CAPAS-Tudo sobre Tokens Smart Contract.png
   altText: Tudo sobre Tokens Smart Contract
   caption: Tudo sobre Tokens Smart Contract
 media:

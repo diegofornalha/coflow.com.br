@@ -8,9 +8,7 @@ titlePt: Tudo sobre Tokens Smart Contract
 colors: colors-d
 date: '2023-01-10'
 excerpt: Não esqueça esse DETALHE VITAL
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: Não esqueça esse DETALHE VITAL
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

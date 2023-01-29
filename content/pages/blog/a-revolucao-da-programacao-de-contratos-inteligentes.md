@@ -19,6 +19,7 @@ featuredImage:
   altText: A revolução da programação de contratos inteligentes
   caption: A revolução da programação de contratos inteligentes
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

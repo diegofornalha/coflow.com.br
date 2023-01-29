@@ -26,6 +26,7 @@ media:
   altText: 'Marcas, Criadores e Construtores'
   caption: 'Marcas, Criadores e Construtores'
   width: 800
+  height: 450
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

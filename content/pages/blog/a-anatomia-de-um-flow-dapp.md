@@ -5,7 +5,6 @@ addTitleSuffix: true
 metaTags: []
 title: A anatomia de um Flow Dapp
 colors: colors-d
-date: '2023-01-10'
 featuredImage:
   type: ImageBlock
   url: /images/capas/a anatomia da uma dapp diego fornalha.png

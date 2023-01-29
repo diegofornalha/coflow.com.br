@@ -126,6 +126,7 @@ sections:
     subtitlePt: >-
       Você vai aprender a melhor linguagem de programação para contrato
       inteligente. Esse vai ser o seu diferencial, entre agora para WEB 3.0!
+    title: NOSSO COMPROMISSO É TE ENSINAR!
   - type: FeatureHighlightSection
     colors: colors-e
     elementId: ''

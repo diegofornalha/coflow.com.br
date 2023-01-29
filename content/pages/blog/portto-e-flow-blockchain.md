@@ -36,6 +36,7 @@ featuredImage:
     adequada para dApps de consumo, ao mesmo tempo em que fornece escalabilidade
     sem sacrificar a descentralização. A Porto também está trabalhando em
     integrações com outras plataformas blockchain, como a Ethereum e a Solana.
+  width: 800
 media:
   type: ImageBlock
   url: /images/capas/Portto e Flow Blockchain diego fornalha.png

@@ -34,6 +34,7 @@ bottomSections:
         showIcon: true
         icon: arrowRight
         style: primary
+        altText: Saiba Mais
       - type: Link
         label: Learn more
         showIcon: true

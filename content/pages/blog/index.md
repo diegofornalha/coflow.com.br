@@ -26,8 +26,9 @@ bottomSections:
     backgroundSize: full
     title: Curso Cadence
     text: >
-      Aprenda a linguagem de programação Cadence e comece a programar contratos
-      inteligentes na Blockchain
+      Aprenda a linguagem de programação Cadence e comece a programar Contratos
+      Inteligentes na Blockchain, ter esse diferencial é quase que  obrigatório
+      na web 3.0!
     actions:
       - type: Button
         label: Saiba Mais

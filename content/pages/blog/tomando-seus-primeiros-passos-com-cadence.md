@@ -33,6 +33,7 @@ featuredImage:
     disponíveis online. A comunidade Flow também é uma fonte valiosa de
     aprendizado e suporte para aqueles que desejam aprender mais sobre a
     tecnologia.
+  width: 800
 media:
   type: ImageBlock
   url: /images/capas/Tomando seus primeiros passos com Cadence diegofornalha.png

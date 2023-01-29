@@ -17,7 +17,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: Aprenda os fundamentos do Flow Playground
-  caption: ''
+  caption: Aprenda os fundamentos do Flow Playground
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

@@ -24,7 +24,7 @@ media:
   width: 800
   height: 450
 bottomSections: []
-markdown_content_pt: >+
+markdown_content_pt: >
   Caso essa seja a primeira vez que você está lendo um dos meus posts, eu sou
   engenheiro de contratos inteligentes na equipe central do Flow Blockchain. O
   último ano foi louco e ainda temos muito mais em estoque para todos! Aqui
@@ -42,8 +42,6 @@ markdown_content_pt: >+
   importantes na descentralização do Flow.
 
 
-  <!---->
-
 
   *   Padrão de Metadados NFT: Isso é algo de que todos nós estamos muito
   orgulhosos. Três membros da comunidade que não possuem afiliação formal com a
@@ -59,11 +57,7 @@ markdown_content_pt: >+
   qualquer pessoa pode enviar uma proposta para uma view padrão! Dê uma olhada
   no NFT README também!
 
-
-      Enfim, esses são apenas alguns dos projetos incríveis que estamos trabalhando, e esperamos que você esteja animado para ver o que mais está por vir. E agora, vamos falar sobre o assunto principal deste post: as grandes mudanças propostas para os padrões de token fungíveis e não fungíveis do Flow.
-
-  <!---->
-
+    Enfim, esses são apenas alguns dos projetos incríveis que estamos trabalhando, e esperamos que você esteja animado para ver o que mais está por vir. E agora, vamos falar sobre o assunto principal deste post: as grandes mudanças propostas para os padrões de token fungíveis e não fungíveis do Flow.
 
   Como desenvolvedores de contratos inteligentes na equipe principal do Flow
   Blockchain, aprendemos muito desde que criamos os padrões originais há três
@@ -77,8 +71,6 @@ markdown_content_pt: >+
   prepararmos e prepararmos os desenvolvedores futuros para o sucesso.
 
 
-  <!---->
-
 
   No forum post que fizemos, apresentamos uma proposta para atualizar os padrões
   para suas formas finais. Você pode encontrar mais detalhes no próprio post,
@@ -87,7 +79,6 @@ markdown_content_pt: >+
   parecer. Se recebermos um bom feedback da comunidade, avançaremos com uma
   proposta de melhoria do Flow e começaremos a escrever o código para as versões
   finais dos padrões.
-
 metaDescription: null
 socialImage: null
 ---

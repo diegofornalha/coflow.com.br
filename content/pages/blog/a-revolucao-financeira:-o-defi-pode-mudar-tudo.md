@@ -16,7 +16,9 @@ excerptFr: >-
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: >-
+    Da agricultura ao blockchain: como a descentralização está transformando a
+    indústria financeira
   caption: ''
 media:
   type: ImageBlock

@@ -15,7 +15,7 @@ excerptFr: >-
   condimentum dignissim justo vel faucibus.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CAPAS-Flow Smart Contract Team.png
   altText: Flow Smart Contract Team
   caption: Flow Smart Contract Team
 media:

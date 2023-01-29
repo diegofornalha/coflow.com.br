@@ -41,6 +41,7 @@ media:
     importante lembrar de fazer a sua própria pesquisa e entender os riscos
     envolvidos antes de investir.
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   O flow blockchain é uma plataforma de tecnologia de blockchain promissora que

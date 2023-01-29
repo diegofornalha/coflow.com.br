@@ -8,9 +8,7 @@ titlePt: 'Verificar msg.sender no Cadence: As Capabilidades!'
 colors: colors-d
 date: '2023-10-01'
 excerpt: ' Segurança por Capacidade'
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: ' Segurança por Capacidade'
 featuredImage:
   type: ImageBlock
   url: /images/CAPAS-Verificar msg sender no Cadence As Capabilidades.png

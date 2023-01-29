@@ -28,7 +28,7 @@ media:
   width: 800
   height: 450
 bottomSections: []
-markdown_content_pt: >+
+markdown_content_pt: >
   Criadores são mais do que simples desenvolvedores de conteúdo que amamos
   consumir, eles definem a cultura em uma variedade de verticais. Mas
   infelizmente, eles nem sempre conseguiram perceber o valor do seu trabalho.
@@ -60,7 +60,7 @@ markdown_content_pt: >+
   de monetização e dá a eles visibilidade única sobre quem são seus maiores fãs.
   Para comunidades, NFTs são incrivelmente poderosos em permitir participação,
   engajamento, ligação e co-criação e estão se tornando cada vez mais profundos
-  e multifacetados nas experiências que estão entregando. 
+  e multifacetados nas experiências que estão entregando.
 
 
   Para os fãs, colecionadores e usuários, os NFTs permitem que eles apoiem os
@@ -80,15 +80,6 @@ markdown_content_pt: >+
   audiência.
 
 
-  Com a introdução de nossa nova unidade de negócios para criadores sob o
-  Dapper, estamos anunciando que a equipe de gerenciamento de Dapper Collectives
-  - Trevor McFedries, Kara Weber, Nicole de Ayora, Isaac Bratzel e Amie Jordan -
-  estará saindo do Dapper Labs. Conforme ampliamos nossa forma de apoiar os
-  criadores, agradecemos a Trevor, Kara, Nicole, Isaac e Amie por suas
-  contribuições pioneiras enquanto eles seguem em frente para suas próximas
-  etapas.
-
-
   Com o Dapper Creator, haverá maneiras completamente novas e interessantes de
   monetizar, recompensar e construir ligações individualizadas entre você e sua
   audiência, em todas as plataformas. É nosso objetivo levantar a economia dos
@@ -98,9 +89,6 @@ markdown_content_pt: >+
 
   Junte-se a nós e descubra como os NFTs podem transformar sua criatividade,
   suas monetizações e suas conexões com sua audiência
-
-
-
 metaDescription: null
 socialImage: null
 ---

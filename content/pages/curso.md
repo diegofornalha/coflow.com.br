@@ -65,7 +65,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         style: primary
         url: /

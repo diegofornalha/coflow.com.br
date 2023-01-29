@@ -12,7 +12,7 @@ excerptFr: Unindo forças para construir o Metaverse
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: Unindo forças para construir o Metaverse
   caption: ''
 media:
   type: ImageBlock

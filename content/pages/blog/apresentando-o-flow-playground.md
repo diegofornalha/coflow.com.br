@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Apresentando o Flow Playground
 colors: colors-a
-date: '2022-12-11'
+date: '2022-12-01'
 excerpt: >-
   O Flow é uma plataforma de blockchain de alto desempenho projetada para
   suportar o desenvolvimento de aplicativos descentralizados, incluindo tokens

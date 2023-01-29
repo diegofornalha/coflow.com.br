@@ -11,8 +11,8 @@ excerpt: >-
   Como implantar um contrato e como interagir com contratos implantados usando
   transações e scripts.
 excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Como implantar um contrato e como interagir com contratos implantados usando
+  transações e scripts.
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

@@ -8,12 +8,6 @@
         "isTitleVisible": false,
         "primaryLinks": [
             {
-                "type": "Link",
-                "label": "Home",
-                "url": "/",
-                "altText": "Home"
-            },
-            {
                 "type": "DropdownLink",
                 "label": "About",
                 "dropdownLinks": [

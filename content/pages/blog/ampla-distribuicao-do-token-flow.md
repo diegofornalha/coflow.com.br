@@ -38,6 +38,7 @@ featuredImage:
     A FLOW reunirá todas as comunidades que constroem a rede para criar e
     compartilhar valor.
   width: 800
+  height: 450
 media:
   type: ImageBlock
   url: /images/capas/Ampla distribuição do token flow diego fornalha.png

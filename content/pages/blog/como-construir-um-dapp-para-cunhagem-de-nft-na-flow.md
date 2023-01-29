@@ -50,6 +50,7 @@ media:
     conta. Depois de configurar a conta, você poderá implantar seu contrato
     inteligente no blockchain Flow.
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   Para configurar uma conta no blockchain Flow, é necessário gerar um par de

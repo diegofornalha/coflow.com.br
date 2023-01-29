@@ -13,7 +13,7 @@ featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
   altText: ' Cadence: a importância da estruturação e padronização'
-  caption: ''
+  caption: ' Cadence: a importância da estruturação e padronização'
 media:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'

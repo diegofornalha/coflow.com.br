@@ -53,7 +53,6 @@ metaDescription: >-
 socialImage: >-
   /images/capas/Por que investir em flow agora pode ser a decisão certa
   diegofornalha.png
-date: '2023-01-02'
 author: content/data/team/hilary-ouse.json
 ---
 #### O mercado de criptomoedas pode ser altamente volátil, mas isso não significa que investir em tecnologias de blockchain, como a flow blockchain, seja uma decisão errada. Pelo contrário, há muitas razões pelas quais investir em flow agora pode ser a decisão certa. Aqui estão cinco dessas razões:

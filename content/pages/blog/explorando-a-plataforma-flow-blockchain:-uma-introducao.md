@@ -6,7 +6,7 @@ metaTags: []
 title: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 titlePt: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 colors: colors-d
-date: '2023-01-10'
+date: '2023-01-06'
 excerpt: Unindo forças para construir o Metaverse
 excerptFr: Unindo forças para construir o Metaverse
 featuredImage:

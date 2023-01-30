@@ -6,7 +6,7 @@ metaTags: []
 title: Napster e as Plataformas Atuais
 titlePt: Napster e as Plataformas Atuais
 colors: colors-d
-date: '2023-01-19'
+date: '2023-01-01'
 excerpt: Equilibrando o Espectro de Propriedade Digital para um Mundo Melhor.
 excerptFr: Equilibrando o Espectro de Propriedade Digital para um Mundo Melhor.
 featuredImage:

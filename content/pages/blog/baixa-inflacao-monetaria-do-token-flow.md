@@ -75,6 +75,7 @@ metaDescription: >-
   processamento e taxas de cálculo dos usuários ou dos aplicativos que eles
   estão usando pelos serviços de processamento de transações.
 socialImage: /images/capas/Baixa Inflação Monetária do token flow diegofornalha.png
+date: '2022-12-02'
 ---
 Blockchains como a Flow são alimentados por comunidades descentralizadas que executam o hardware do computador (“nós validadores”) que suportam a atividade e protegem o valor dos ativos na rede.
 

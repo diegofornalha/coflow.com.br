@@ -26,6 +26,7 @@ media:
   altText: 'Chainlink: A ponte entre Blockchains'
   caption: 'Chainlink: A ponte entre Blockchains'
   width: 800
+  height: 450
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

@@ -86,6 +86,7 @@ markdown_content_pt: >+
 
 metaDescription: null
 socialImage: null
+date: '2023-01-03'
 ---
 Por meio do uso de recursos, o idioma de programação do Flow, o Cadence, traz novas ideias emocionantes para o mundo dos contratos inteligentes baseados em registros.
 

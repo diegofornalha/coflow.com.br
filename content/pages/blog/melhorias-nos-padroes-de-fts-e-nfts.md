@@ -6,7 +6,6 @@ metaTags: []
 title: Melhorias nos padrões de FTs e NFTs
 titlePt: Melhorias nos padrões de FTs e NFTs
 colors: colors-d
-date: '2023-01-18'
 excerpt: Novidades sensacionais para desenvolvedores de Flow!
 excerptFr: Novidades sensacionais para desenvolvedores de Flow!
 featuredImage:
@@ -81,6 +80,7 @@ markdown_content_pt: >
   finais dos padrões.
 metaDescription: null
 socialImage: null
+date: '2023-01-16'
 ---
 Caso essa seja a primeira vez que você está lendo um dos meus posts, eu sou engenheiro de contratos inteligentes na equipe central do Flow Blockchain. O último ano foi louco e ainda temos muito mais em estoque para todos! Aqui estão algumas das coisas que minha equipe fez nos últimos meses e outras que ainda estamos trabalhando:
 

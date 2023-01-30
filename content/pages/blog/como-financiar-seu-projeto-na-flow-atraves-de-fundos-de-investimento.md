@@ -5,7 +5,6 @@ addTitleSuffix: true
 metaTags: []
 title: Como financiar Seu Projeto na Flow Através de Fundos de Investimento
 colors: colors-d
-date: '2022-12-20'
 excerpt: >-
   O blockchain é uma tecnologia descentralizada que se baseia nas leis da oferta
   e da demanda, ao invés de ser governada por uma única entidade. Isso pode

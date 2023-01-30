@@ -6,7 +6,6 @@ metaTags: []
 title: Melhorias nos padrões de FTs e NFTs
 titlePt: Melhorias nos padrões de FTs e NFTs
 colors: colors-d
-date: '2023-05-16'
 excerpt: Novidades sensacionais para desenvolvedores de Flow!
 excerptFr: Novidades sensacionais para desenvolvedores de Flow!
 featuredImage:

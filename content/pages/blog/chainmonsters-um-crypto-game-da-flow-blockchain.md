@@ -5,7 +5,6 @@ addTitleSuffix: true
 metaTags: []
 title: Chainmonsters Um Crypto Game da Flow Blockchain
 colors: colors-d
-date: '2022-12-18'
 excerpt: >-
   Chainmonsters é um jogo multijogador online onde os jogadores podem capturar,
   batalhar, trocar e competir com monstros digitais em uma experiência de mundo

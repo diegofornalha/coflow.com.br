@@ -6,7 +6,6 @@ metaTags: []
 title: Aprenda os fundamentos do Flow Playground
 titlePt: Aprenda os fundamentos do Flow Playground
 colors: colors-d
-date: '2023-01-10'
 excerpt: >-
   Como implantar um contrato e como interagir com contratos implantados usando
   transações e scripts.

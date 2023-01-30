@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Portto e Flow Blockchain
 colors: colors-d
-date: '2022-12-02'
+date: '2022-12-22'
 excerpt: >-
   A Porto, uma empresa de carteiras de criptomoeda, anunciou uma parceria com a
   Flow, uma plataforma blockchain, para simplificar a experiência de usuários de

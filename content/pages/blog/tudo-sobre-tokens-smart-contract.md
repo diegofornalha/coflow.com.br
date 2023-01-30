@@ -6,7 +6,7 @@ metaTags: []
 title: Tudo sobre Tokens Smart Contract
 titlePt: Tudo sobre Tokens Smart Contract
 colors: colors-d
-date: '2023-01-27'
+date: '2023-01-25'
 excerpt: Não esqueça esse DETALHE VITAL
 excerptFr: Não esqueça esse DETALHE VITAL
 featuredImage:

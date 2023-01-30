@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: O que é um STAKING na blockchain flow?
 colors: colors-a
-date: '2022-12-20'
+date: '2022-12-19'
 excerpt: >-
   O staking é um processo utilizado em redes descentralizadas para incentivar a
   participação dos usuários na manutenção da segurança e integridade da rede.

@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Uma retrospectiva da Copa Cadence
 colors: colors-d
-date: '2022-12-23'
+date: '2022-12-02'
 excerpt: >-
   A Cadence Cup foi uma série de desafios que incentivavam os participantes a
   explorar as funcionalidades do Cadence, uma linguagem de programação para

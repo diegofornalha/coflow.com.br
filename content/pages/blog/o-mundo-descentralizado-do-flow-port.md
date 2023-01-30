@@ -6,7 +6,7 @@ metaTags: []
 title: 'O Mundo descentralizado do Flow Port  '
 titlePt: 'O Mundo descentralizado do Flow Port  '
 colors: colors-d
-date: '2023-01-02'
+date: '2023-01-21'
 excerpt: >-
   Staking e Delegação com um Clique: Conheça as Opções Disponíveis para
   Maximizar seus Lucros com FLOW

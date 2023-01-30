@@ -6,7 +6,7 @@ metaTags: []
 title: Navegando pelo mercado descentralizado
 titlePt: Navegando pelo mercado descentralizado
 colors: colors-d
-date: '2023-01-01'
+date: '2023-01-20'
 excerpt: Explorando as possibilidades das organizações descentralizadas autónomas.
 excerptFr: Explorando as possibilidades das organizações descentralizadas autónomas.
 featuredImage:

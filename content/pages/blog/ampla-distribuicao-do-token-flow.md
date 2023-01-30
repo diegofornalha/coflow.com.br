@@ -5,7 +5,6 @@ addTitleSuffix: true
 metaTags: []
 title: Ampla distribuição do token flow
 colors: colors-a
-date: '2022-12-02'
 excerpt: >-
   A distribuição do token nativo da Flow é importante para a descentralização da
   rede e o seu sucesso a longo prazo. A distribuição segura e sustentável do

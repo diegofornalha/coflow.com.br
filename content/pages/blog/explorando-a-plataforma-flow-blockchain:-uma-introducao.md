@@ -6,19 +6,23 @@ metaTags: []
 title: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 titlePt: 'Animoca, MotoGP e StarGirl chegam ao Flow com muito estilo'
 colors: colors-d
-date: '2023-01-01'
+date: '2023-01-10'
 excerpt: Unindo forças para construir o Metaverse
 excerptFr: Unindo forças para construir o Metaverse
 featuredImage:
   type: ImageBlock
-  url: /images/capas/Unindo forças para construir o Metaverse Diego Fornalha Coflow.png
+  url: >-
+    /images/capas/Unindo forças para construir o Metaverse Diego Fornalha
+    Coflow.png
   altText: Unindo forças para construir o Metaverse
   caption: Unindo forças para construir o Metaverse
   width: 800
   height: 450
 media:
   type: ImageBlock
-  url: /images/capas/Unindo forças para construir o Metaverse Diego Fornalha Coflow.png
+  url: >-
+    /images/capas/Unindo forças para construir o Metaverse Diego Fornalha
+    Coflow.png
   altText: Unindo forças para construir o Metaverse
   caption: Unindo forças para construir o Metaverse
   width: 800

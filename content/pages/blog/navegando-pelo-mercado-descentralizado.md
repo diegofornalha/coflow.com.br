@@ -12,7 +12,7 @@ excerptFr: Explorando as possibilidades das organizações descentralizadas aut�
 featuredImage:
   type: ImageBlock
   url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
-  altText: Post thumbnail image
+  altText: Navegando pelo mercado descentralizado
   caption: ''
 media:
   type: ImageBlock

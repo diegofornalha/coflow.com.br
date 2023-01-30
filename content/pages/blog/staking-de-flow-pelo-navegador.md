@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Staking de Flow pelo Navegador
 colors: colors-d
-date: '2022-12-22'
+date: '2022-12-26'
 featuredImage:
   type: ImageBlock
   url: /images/capas/Staking de Flow pelo Navegador Diego Fornalha.png

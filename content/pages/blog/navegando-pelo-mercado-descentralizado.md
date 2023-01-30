@@ -11,7 +11,7 @@ excerpt: Explorando as possibilidades das organizações descentralizadas autón
 excerptFr: Explorando as possibilidades das organizações descentralizadas autónomas.
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/post-4.jpeg'
+  url: /images/CAPAS-Navegando pelo mercado descentralizado.png
   altText: Navegando pelo mercado descentralizado
   caption: Navegando pelo mercado descentralizado
   width: 800

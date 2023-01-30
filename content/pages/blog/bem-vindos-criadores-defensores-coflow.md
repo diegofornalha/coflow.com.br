@@ -6,7 +6,7 @@ metaTags: []
 title: 'Bem-vindos, Criadores, Defensores CoFlow'
 titlePt: 'Bem-vindos, Criadores, Defensores CoFlow'
 colors: colors-d
-date: '2023-01-09'
+date: '2023-01-07'
 excerpt: >-
   Descubra novas formas de monetizar e se conectar com o seu público através de
   tecnologia descentralizada

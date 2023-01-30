@@ -24,6 +24,7 @@ media:
   type: ImageBlock
   url: /images/CAPAS-Chainlink A ponte entre Blockchains.png
   altText: Post image
+  caption: 'Chainlink: A ponte entre Blockchains'
 bottomSections: []
 markdown_content_pt: >-
   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium

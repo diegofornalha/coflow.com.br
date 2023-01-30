@@ -5,7 +5,6 @@ addTitleSuffix: true
 metaTags: []
 title: 5 Dicas pra quem quer aprender sobre a blockchain Flow
 colors: colors-a
-date: '2022-12-08'
 excerpt: >-
   O Flow é uma plataforma de blockchain que suporta contratos inteligentes e
   tokens não fungíveis (NFTs). Para aprender sobre o Flow, é importante

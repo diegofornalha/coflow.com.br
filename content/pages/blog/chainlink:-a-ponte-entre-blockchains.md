@@ -7,9 +7,7 @@ title: 'Chainlink: A ponte entre Blockchains'
 titlePt: 'Chainlink: A ponte entre Blockchains'
 colors: colors-d
 date: '2023-01-30'
-excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerpt: Conheça a história e as características desta ponte incrível.
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

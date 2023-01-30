@@ -61,6 +61,7 @@ media:
     incluindo a criação de um contrato inteligente, o registro do NFT e o
     processo de cunhagem/mintagem.
   width: 800
+  height: 450
 bottomSections: []
 metaDescription: >-
   Os tokens não fungíveis (NFTs) são ativos digitais exclusivos que estão

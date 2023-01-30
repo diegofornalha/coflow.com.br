@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Tomando seus primeiros passos com Cadence
 colors: colors-d
-date: '2022-12-22'
+date: '2022-12-02'
 excerpt: >-
   O Flow é uma blockchain projetada para ser rápida, descentralizada e amigável
   ao desenvolvedor. É projetada para ser usada em aplicativos, jogos e ativos

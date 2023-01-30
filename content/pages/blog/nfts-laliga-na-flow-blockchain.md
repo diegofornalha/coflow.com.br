@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: NFTs LaLiga na Flow Blockchain
 colors: colors-d
-date: '2022-12-23'
+date: '2022-12-01'
 excerpt: >-
   Non-fungible tokens (NFTs) são tokens virtuais exclusivos e únicos que podem
   ser colecionados ou negociados como objetos reais. A LaLiga Golazos é uma

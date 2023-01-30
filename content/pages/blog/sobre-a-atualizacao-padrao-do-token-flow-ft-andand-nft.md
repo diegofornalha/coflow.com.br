@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Sobre a atualização padrão do token Flow FT && NFT
 colors: colors-a
-date: '2022-12-02'
+date: '2022-12-25'
 excerpt: >-
   O Flow Playground é uma plataforma online interativa que permite que os
   usuários aprendam sobre o desenvolvimento de aplicativos na plataforma Flow

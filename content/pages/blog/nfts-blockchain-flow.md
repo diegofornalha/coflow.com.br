@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: NFTs Blockchain flow
 colors: colors-a
-date: '2022-12-09'
+date: '2022-12-01'
 excerpt: >-
   Os tokens não fungíveis (NFTs) são ativos digitais exclusivos que estão
   ganhando popularidade na área de blockchain e criptomoedas. Eles podem

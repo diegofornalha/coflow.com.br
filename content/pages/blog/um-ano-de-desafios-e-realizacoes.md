@@ -6,7 +6,7 @@ metaTags: []
 title: Um Ano de Desafios e Realizações
 titlePt: Um Ano de Desafios e Realizações
 colors: colors-d
-date: '2023-01-01'
+date: '2023-01-02'
 excerpt: ' participe de eventos exclusivos e muito mais com FLOW.'
 excerptFr: ' participe de eventos exclusivos e muito mais com FLOW.'
 featuredImage:

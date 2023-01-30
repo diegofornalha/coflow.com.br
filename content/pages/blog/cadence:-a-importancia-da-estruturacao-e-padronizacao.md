@@ -76,6 +76,7 @@ markdown_content_pt: >+
 
 metaDescription: null
 socialImage: null
+date: '2023-01-01'
 ---
 Hoje eu quero falar sobre algo importante para todos os desenvolvedores de contratos inteligentes: a organização e padronização do seu código.
 

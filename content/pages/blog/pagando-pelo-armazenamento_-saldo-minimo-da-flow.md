@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: 'Pagando pelo armazenamento: saldo mínimo da FLOW'
 colors: colors-a
-date: '2022-12-22'
+date: '2022-12-21'
 excerpt: >-
   A Flow é uma rede descentralizada de computadores que trabalham juntos para
   garantir a segurança e integridade dos dados de seus usuários. Os operadores

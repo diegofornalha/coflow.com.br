@@ -5,7 +5,6 @@ addTitleSuffix: true
 metaTags: []
 title: Diversos casos de uso da flow blockchain
 colors: colors-d
-date: '2022-12-05'
 excerpt: >-
   O token FLOW é a moeda nativa da rede de blockchain Flow. Ele é usado para
   realizar transações na rede, incluindo pagamentos de taxas de transação e
@@ -77,6 +76,7 @@ metaDescription: >-
   longo prazo, a FLOW pode ser usada para participar da governança da rede.
 socialImage: /images/capas/Diego Fornalha Diversos casos de uso da flow blockchain.png
 author: content/data/team/hilary-ouse.json
+date: '2022-12-11'
 ---
 FLOW é a moeda nativa para aplicativos, jogos e contratos inteligentes construídos sobre o blockchain Flow e, portanto, é a moeda garantida para estar disponível para desenvolvedores e usuários realizarem transações na rede. Os desenvolvedores podem facilmente criar a FLOW diretamente em seus aplicativos para pagamentos ponta a ponta, também pode ser usado para cobrança por serviços, e até permitir que os consumidores ganhem recompensas pelo valor que criam.
 

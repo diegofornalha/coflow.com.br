@@ -6,7 +6,7 @@ metaTags: []
 title: Proteja seu código com segurança!
 titlePt: Proteja seu código com segurança!
 colors: colors-d
-date: '2023-01-10'
+date: '2023-01-09'
 excerpt: A importância do controle de acesso e como usá-lo no Cadence
 excerptFr: A importância do controle de acesso e como usá-lo no Cadence
 featuredImage:

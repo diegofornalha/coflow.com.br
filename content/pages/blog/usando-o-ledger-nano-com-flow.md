@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Usando o Ledger Nano com Flow
 colors: colors-d
-date: '2022-12-17'
+date: '2022-12-30'
 excerpt: >-
   O aplicativo Flow é um software que permite aos usuários armazenar e acessar
   tokens FLOW, uma criptomoeda nativa da plataforma de blockchain Flow, no

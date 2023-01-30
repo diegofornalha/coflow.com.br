@@ -6,7 +6,6 @@ metaTags: []
 title: Entendendo como os opcionais funcionam
 titlePt: Entendendo como os opcionais funcionam
 colors: colors-d
-date: '2023-01-10'
 excerpt: Como evitar e corrigir erros de referências vazias em seu código
 excerptFr: Como evitar e corrigir erros de referências vazias em seu código
 featuredImage:
@@ -93,6 +92,7 @@ markdown_content_pt: >+
 
 metaDescription: null
 socialImage: null
+date: '2023-01-07'
 ---
 Hoje, vou falar sobre um aspecto do Cadence com o qual muitas pessoas têm dificuldade de se familiarizar: os Optionais!
 

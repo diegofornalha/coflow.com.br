@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Protocolo de staking líquido (STFLOW) da Increment
 colors: colors-d
-date: '2023-01-05'
+date: '2023-01-10'
 excerpt: >-
   A Increment lançou um protocolo de estacas líquidas no Flow que permite aos
   usuários participar do ecossistema DeFi enquanto recebem recompensas de

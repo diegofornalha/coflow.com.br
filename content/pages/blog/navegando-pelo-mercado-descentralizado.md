@@ -21,6 +21,7 @@ media:
   url: /images/CAPAS-Navegando pelo mercado descentralizado.png
   altText: Navegando pelo mercado descentralizado
   caption: Navegando pelo mercado descentralizado
+  width: 800
 bottomSections: []
 markdown_content_pt: >+
   Blockchain é um universo diferente, regido por suas próprias regras. É um

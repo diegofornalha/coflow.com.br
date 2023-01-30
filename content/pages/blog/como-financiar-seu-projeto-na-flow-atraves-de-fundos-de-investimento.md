@@ -86,6 +86,7 @@ socialImage: >-
   /images/capas/Como financiar Seu Projeto na Flow Através de Fundos de
   Investimento  diegofornalha.png
 author: content/data/team/hilary-ouse.json
+date: '2022-12-09'
 ---
 **Blockchain joga de acordo com suas próprias regras.**
 

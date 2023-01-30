@@ -5,7 +5,7 @@ addTitleSuffix: true
 metaTags: []
 title: Opcionais em Cadence? Não opcionais!
 colors: colors-d
-date: '2022-12-28'
+date: '2022-12-02'
 excerpt: >-
   Os opcionais são uma forma de lidar com variáveis que podem ou não ter um
   valor. Eles permitem que você gerencie situações de erro e outras

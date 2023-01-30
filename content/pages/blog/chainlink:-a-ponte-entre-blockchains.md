@@ -8,9 +8,7 @@ titlePt: 'Chainlink: A ponte entre Blockchains'
 colors: colors-d
 date: '2023-01-30'
 excerpt: Conheça a história e as características desta ponte incrível.
-excerptFr: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+excerptFr: Conheça a história e as características desta ponte incrível.
 featuredImage:
   type: ImageBlock
   url: /images/CAPAS-Chainlink A ponte entre Blockchains.png

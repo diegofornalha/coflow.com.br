@@ -6,7 +6,6 @@ metaTags: []
 title: Entendendo como os opcionais funcionam
 titlePt: Entendendo como os opcionais funcionam
 colors: colors-d
-date: '2023-01-10'
 excerpt: Como evitar e corrigir erros de referências vazias em seu código
 excerptFr: Como evitar e corrigir erros de referências vazias em seu código
 featuredImage:

@@ -6,7 +6,6 @@ metaTags: []
 title: ' Cadence: a importância da estruturação e padronização'
 titlePt: ' Cadence: a importância da estruturação e padronização'
 colors: colors-d
-date: '2023-01-10'
 excerpt: >-
   Como estabelecer objetivos claros, criar um cronograma detalhado e garantir
   uma comunicação eficiente para superar obstáculos e atingir sucesso.

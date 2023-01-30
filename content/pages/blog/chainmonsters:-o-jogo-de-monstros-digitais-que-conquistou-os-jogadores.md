@@ -8,8 +8,8 @@ titlePt: ' Chainmonsters: O Jogo de Monstros Digitais que Conquistou os Jogadore
 colors: colors-d
 date: '2023-01-31'
 excerpt: >-
-  Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
-  condimentum dignissim justo vel faucibus.
+  Novidades: Captura, Batalha, Troca e Compete em um Mundo Aberto Multiplayer
+  Online
 excerptFr: >-
   Nunc rutrum felis dui, ut consequat sapien scelerisque vel. Integer
   condimentum dignissim justo vel faucibus.

@@ -10,7 +10,7 @@ titlePt: >-
   Gerenciamento de recursos e controle de acesso para contratos inteligentes
   seguros
 colors: colors-d
-date: '2023-01-30'
+date: '2023-01-15'
 featuredImage:
   type: ImageBlock
   url: >-

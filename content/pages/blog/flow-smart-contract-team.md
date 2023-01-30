@@ -6,7 +6,7 @@ metaTags: []
 title: Flow Smart Contract Team
 titlePt: Flow Smart Contract Team
 colors: colors-d
-date: '2023-01-01'
+date: '2023-01-10'
 excerpt: Oferecendo uma experiência única
 excerptFr: Oferecendo uma experiência única
 featuredImage:

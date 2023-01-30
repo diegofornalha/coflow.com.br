@@ -92,6 +92,7 @@ metaDescription: >-
   máximo as oportunidades neste campo em rápido crescimento.
 socialImage: /images/capas/5 passos para se tornar um dev Web3 DiegoFornalha.png
 author: content/data/team/hilary-ouse.json
+date: '2022-12-02'
 ---
 ## Quer fazer parte da revolução descentralizada como desenvolvedor Web3? 
 

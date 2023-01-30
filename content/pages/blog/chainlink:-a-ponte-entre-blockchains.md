@@ -16,7 +16,7 @@ excerptFr: >-
 featuredImage:
   type: ImageBlock
   url: /images/CAPAS-Chainlink A ponte entre Blockchains.png
-  altText: Post thumbnail image
+  altText: 'Chainlink: A ponte entre Blockchains'
   caption: ''
 media:
   type: ImageBlock

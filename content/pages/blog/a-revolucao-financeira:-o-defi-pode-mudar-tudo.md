@@ -6,7 +6,6 @@ metaTags: []
 title: 'A Revolução Financeira: O DeFi pode mudar tudo'
 titlePt: 'A Revolução Financeira: O DeFi pode mudar tudo'
 colors: colors-d
-date: '2023-01-05'
 excerpt: >-
   Da agricultura ao blockchain: como a descentralização está transformando a
   indústria financeira
